@@ -13,7 +13,7 @@ API_URL = "https://openstat.psa.gov.ph:443/PXWeb/api/v1/en/DB/2M/NFG/0032M4AFN02
 query_payload = {
     "query": [
         {"code": "Geolocation", "selection": {"filter": "all", "values": ["*"]}},
-        {"code": "Commodity", "selection": {"filter": "item", "values": ["0"]}}, 
+        {"code": "Commodity", "selection": {"filter": "all", "values": ["*"]}}, 
         {"code": "Year", "selection": {"filter": "all", "values": ["*"]}},
         {"code": "Period", "selection": {"filter": "all", "values": ["*"]}},
     ],
@@ -58,9 +58,12 @@ def main():
         "last_updated": datetime.now().isoformat(timespec="seconds"),
         "rows": len(df_wide),
     }, indent=2))
-    
-    print(df_wide)
+
+    print(df_wide.head())
+
+
     print(f"wrote {len(df_wide)} rows to {CSV_PATH}, {JSON_PATH}, and {META_PATH}")
+
 
 if __name__ == "__main__":
     try:
