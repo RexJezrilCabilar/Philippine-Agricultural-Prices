@@ -51,15 +51,24 @@ def main():
 
     df_wide = pd.read_csv(io.StringIO(response.text), na_values=[".", "..", ":", "-"])
 
+    id_cols = ["Geolocation", "Commodity"]
+    value_cols = [c for c in df_wide.columns if c not in id_cols]
+    df = df_wide.melt(id_vars=id_cols, value_vars=value_cols, var_name="YearPeriod", value_name="Price_PHP")
+
+    split_cols = df["YearPeriod"].str.extract(r"^(\d{4})\s+(.+)$")
+    df["Year"] = split_cols[0].astype(int)
+    df["Month"] = split_cols[1]
+    df = df[df["Month"] != "Annual"].copy()
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    df_wide.to_csv(CSV_PATH, index=False)
-    df_wide.to_json(JSON_PATH, orient="records", indent=2, force_ascii=False)
+    df.to_csv(CSV_PATH, index=False)
+    df.to_json(JSON_PATH, orient="records", indent=2, force_ascii=False)
     META_PATH.write_text(json.dumps({
         "last_updated": datetime.now().isoformat(timespec="seconds"),
-        "rows": len(df_wide),
+        "rows": len(df),
     }, indent=2))
 
-    print(df_wide.head())
+    print(df.head())
 
 
     print(f"wrote {len(df_wide)} rows to {CSV_PATH}, {JSON_PATH}, and {META_PATH}")
