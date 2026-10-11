@@ -25,6 +25,11 @@ CSV_PATH = OUT_DIR / "agricultural-prices.csv"
 JSON_PATH = OUT_DIR / "agricultural-prices.json"
 META_PATH = OUT_DIR / "agricultural-prices-meta.json"
 
+MONTH_MAP = {
+    "January": 1, "February": 2, "March": 3, "April": 4, "May": 5, "June": 6,
+    "July": 7, "August": 8, "September": 9, "October": 10, "November": 11, "December": 12
+}
+
 def fetch_with_retries(url, payload, attempts=3, timeout=60):
     """POST to the PXWeb endpoint, retrying on network errors and non-200 responses."""
     last_err = None
@@ -59,6 +64,16 @@ def main():
     df["Year"] = split_cols[0].astype(int)
     df["Month"] = split_cols[1]
     df = df[df["Month"] != "Annual"].copy()
+
+    df["Price_PHP"] = pd.to_numeric(df["Price_PHP"], errors="coerce")
+    df = df.dropna(subset="Price_PHP")
+    df = df[df["Price_PHP"] != 0]
+
+    if df.empty:
+        raise RuntimeError("parsed 0 rows - PSA might have changed their table structure")
+
+    df["Month_Num"] = df["Month"].map(MONTH_MAP)
+    df = df.groupby(["Geolocation", "Commodity"]).last().reset_index()
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     df.to_csv(CSV_PATH, index=False)
