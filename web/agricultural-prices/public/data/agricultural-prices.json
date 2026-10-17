@@ -1,6 +1,6 @@
 [
   {
-    "Geolocation":"......City of Butuan",
+    "Geolocation":"City of Butuan",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":23.33,
@@ -9,7 +9,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......City of Butuan",
+    "Geolocation":"City of Butuan",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":13.75,
@@ -18,7 +18,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......City of Davao",
+    "Geolocation":"City of Davao",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -27,7 +27,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......City of Davao",
+    "Geolocation":"City of Davao",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":10.0,
@@ -36,7 +36,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"......City of Davao",
+    "Geolocation":"City of Davao",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2023 December",
     "Price_PHP":6.18,
@@ -45,7 +45,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"......City of Davao",
+    "Geolocation":"City of Davao",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":15.0,
@@ -54,7 +54,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"......City of Davao",
+    "Geolocation":"City of Davao",
     "Commodity":"Potato",
     "YearPeriod":"2023 December",
     "Price_PHP":98.02,
@@ -63,7 +63,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"......City of Davao",
+    "Geolocation":"City of Davao",
     "Commodity":"Radish",
     "YearPeriod":"2026 May",
     "Price_PHP":15.0,
@@ -72,7 +72,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"......City of Puerto Princesa",
+    "Geolocation":"City of Puerto Princesa",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":15.0,
@@ -81,7 +81,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"......City of Zamboanga",
+    "Geolocation":"City of Zamboanga",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -90,7 +90,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......City of Zamboanga",
+    "Geolocation":"City of Zamboanga",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":70.0,
@@ -99,7 +99,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......City of Zamboanga",
+    "Geolocation":"City of Zamboanga",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -108,7 +108,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......City of Zamboanga",
+    "Geolocation":"City of Zamboanga",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -117,7 +117,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......City of Zamboanga",
+    "Geolocation":"City of Zamboanga",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":20.0,
@@ -126,7 +126,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"......City of Zamboanga",
+    "Geolocation":"City of Zamboanga",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -135,7 +135,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......Maguindanao del Norte",
+    "Geolocation":"Maguindanao del Norte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -144,7 +144,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......Maguindanao del Norte",
+    "Geolocation":"Maguindanao del Norte",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -153,7 +153,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......Maguindanao del Norte",
+    "Geolocation":"Maguindanao del Norte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":19.09,
@@ -162,7 +162,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"......Maguindanao del Norte",
+    "Geolocation":"Maguindanao del Norte",
     "Commodity":"Potato",
     "YearPeriod":"2026 January",
     "Price_PHP":40.0,
@@ -171,7 +171,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"......Maguindanao del Norte",
+    "Geolocation":"Maguindanao del Norte",
     "Commodity":"Radish",
     "YearPeriod":"2026 February",
     "Price_PHP":30.0,
@@ -180,7 +180,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"......Maguindanao del Norte",
+    "Geolocation":"Maguindanao del Norte",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2025 September",
     "Price_PHP":49.99,
@@ -189,7 +189,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"......Maguindanao del Sur",
+    "Geolocation":"Maguindanao del Sur",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 May",
     "Price_PHP":26.4,
@@ -198,7 +198,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"......Maguindanao del Sur",
+    "Geolocation":"Maguindanao del Sur",
     "Commodity":"Carrot",
     "YearPeriod":"2025 May",
     "Price_PHP":44.56,
@@ -207,7 +207,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"......Maguindanao del Sur",
+    "Geolocation":"Maguindanao del Sur",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":13.0,
@@ -216,7 +216,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"......Maguindanao del Sur",
+    "Geolocation":"Maguindanao del Sur",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":72.76,
@@ -225,7 +225,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Abra",
+    "Geolocation":"Abra",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 May",
     "Price_PHP":34.79,
@@ -234,7 +234,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Abra",
+    "Geolocation":"Abra",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":20.0,
@@ -243,7 +243,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Abra",
+    "Geolocation":"Abra",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":30.0,
@@ -252,7 +252,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Abra",
+    "Geolocation":"Abra",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 April",
     "Price_PHP":20.0,
@@ -261,7 +261,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -270,7 +270,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -279,7 +279,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2024 October",
     "Price_PHP":20.0,
@@ -288,7 +288,7 @@
     "Month_Num":10
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":14.25,
@@ -297,7 +297,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 January",
     "Price_PHP":20.0,
@@ -306,7 +306,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2021 December",
     "Price_PHP":15.91,
@@ -315,7 +315,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Potato",
     "YearPeriod":"2025 June",
     "Price_PHP":100.0,
@@ -324,7 +324,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Radish",
     "YearPeriod":"2024 September",
     "Price_PHP":15.0,
@@ -333,7 +333,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Agusan del Norte",
+    "Geolocation":"Agusan del Norte",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 March",
     "Price_PHP":30.0,
@@ -342,7 +342,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Agusan del Sur",
+    "Geolocation":"Agusan del Sur",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":12.17,
@@ -351,7 +351,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Agusan del Sur",
+    "Geolocation":"Agusan del Sur",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":14.8,
@@ -360,7 +360,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Agusan del Sur",
+    "Geolocation":"Agusan del Sur",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":9.0,
@@ -369,7 +369,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Agusan del Sur",
+    "Geolocation":"Agusan del Sur",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -378,7 +378,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Agusan del Sur",
+    "Geolocation":"Agusan del Sur",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":14.0,
@@ -387,7 +387,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Agusan del Sur",
+    "Geolocation":"Agusan del Sur",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 November",
     "Price_PHP":29.81,
@@ -396,7 +396,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Aklan",
+    "Geolocation":"Aklan",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -405,7 +405,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Aklan",
+    "Geolocation":"Aklan",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":18.0,
@@ -414,7 +414,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Aklan",
+    "Geolocation":"Aklan",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -423,7 +423,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Aklan",
+    "Geolocation":"Aklan",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":20.97,
@@ -432,7 +432,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Aklan",
+    "Geolocation":"Aklan",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -441,7 +441,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Aklan",
+    "Geolocation":"Aklan",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -450,7 +450,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Aklan",
+    "Geolocation":"Aklan",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -459,7 +459,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":39.2,
@@ -468,7 +468,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":28.04,
@@ -477,7 +477,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":29.53,
@@ -486,7 +486,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 November",
     "Price_PHP":20.0,
@@ -495,7 +495,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":25.0,
@@ -504,7 +504,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":14.55,
@@ -513,7 +513,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Radish",
     "YearPeriod":"2026 March",
     "Price_PHP":30.0,
@@ -522,7 +522,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 March",
     "Price_PHP":30.0,
@@ -531,7 +531,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Albay",
+    "Geolocation":"Albay",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2025 October",
     "Price_PHP":30.0,
@@ -540,7 +540,7 @@
     "Month_Num":10
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -549,7 +549,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -558,7 +558,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":23.91,
@@ -567,7 +567,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -576,7 +576,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -585,7 +585,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":20.12,
@@ -594,7 +594,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -603,7 +603,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -612,7 +612,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Antique",
+    "Geolocation":"Antique",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -621,7 +621,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Apayao",
+    "Geolocation":"Apayao",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -630,7 +630,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Apayao",
+    "Geolocation":"Apayao",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":25.0,
@@ -639,7 +639,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Apayao",
+    "Geolocation":"Apayao",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -648,7 +648,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Apayao",
+    "Geolocation":"Apayao",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 February",
     "Price_PHP":26.6,
@@ -657,7 +657,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Apayao",
+    "Geolocation":"Apayao",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":25.0,
@@ -666,7 +666,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Apayao",
+    "Geolocation":"Apayao",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":21.06,
@@ -675,7 +675,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Apayao",
+    "Geolocation":"Apayao",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -684,7 +684,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Apayao",
+    "Geolocation":"Apayao",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -693,7 +693,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Aurora",
+    "Geolocation":"Aurora",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -702,7 +702,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Aurora",
+    "Geolocation":"Aurora",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":15.0,
@@ -711,7 +711,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Aurora",
+    "Geolocation":"Aurora",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2024 November",
     "Price_PHP":12.2,
@@ -720,7 +720,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Aurora",
+    "Geolocation":"Aurora",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":17.5,
@@ -729,7 +729,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Aurora",
+    "Geolocation":"Aurora",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":25.0,
@@ -738,7 +738,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Aurora",
+    "Geolocation":"Aurora",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 January",
     "Price_PHP":60.0,
@@ -747,7 +747,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Aurora",
+    "Geolocation":"Aurora",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 May",
     "Price_PHP":50.0,
@@ -756,7 +756,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Basilan",
+    "Geolocation":"Basilan",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":42.0,
@@ -765,7 +765,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Basilan",
+    "Geolocation":"Basilan",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":19.61,
@@ -774,7 +774,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Basilan",
+    "Geolocation":"Basilan",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 September",
     "Price_PHP":40.0,
@@ -783,7 +783,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Basilan",
+    "Geolocation":"Basilan",
     "Commodity":"Radish",
     "YearPeriod":"2025 June",
     "Price_PHP":50.0,
@@ -792,7 +792,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bataan",
+    "Geolocation":"Bataan",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 April",
     "Price_PHP":25.0,
@@ -801,7 +801,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Bataan",
+    "Geolocation":"Bataan",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -810,7 +810,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bataan",
+    "Geolocation":"Bataan",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -819,7 +819,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bataan",
+    "Geolocation":"Bataan",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -828,7 +828,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bataan",
+    "Geolocation":"Bataan",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2024 December",
     "Price_PHP":48.33,
@@ -837,7 +837,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Batanes",
+    "Geolocation":"Batanes",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":42.2,
@@ -846,7 +846,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Batanes",
+    "Geolocation":"Batanes",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":83.33,
@@ -855,7 +855,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Batanes",
+    "Geolocation":"Batanes",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2025 September",
     "Price_PHP":40.0,
@@ -864,7 +864,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Batanes",
+    "Geolocation":"Batanes",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":50.0,
@@ -873,7 +873,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Batanes",
+    "Geolocation":"Batanes",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":50.0,
@@ -882,7 +882,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Batanes",
+    "Geolocation":"Batanes",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2014 March",
     "Price_PHP":7.91,
@@ -891,7 +891,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Batanes",
+    "Geolocation":"Batanes",
     "Commodity":"Radish",
     "YearPeriod":"2026 March",
     "Price_PHP":80.0,
@@ -900,7 +900,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Batanes",
+    "Geolocation":"Batanes",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -909,7 +909,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Batangas",
+    "Geolocation":"Batangas",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -918,7 +918,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Batangas",
+    "Geolocation":"Batangas",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":24.41,
@@ -927,7 +927,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Batangas",
+    "Geolocation":"Batangas",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2017 August",
     "Price_PHP":5.0,
@@ -936,7 +936,7 @@
     "Month_Num":8
   },
   {
-    "Geolocation":"....Batangas",
+    "Geolocation":"Batangas",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":72.0,
@@ -945,7 +945,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Batangas",
+    "Geolocation":"Batangas",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":20.0,
@@ -954,7 +954,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Batangas",
+    "Geolocation":"Batangas",
     "Commodity":"Radish",
     "YearPeriod":"2026 February",
     "Price_PHP":30.0,
@@ -963,7 +963,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Batangas",
+    "Geolocation":"Batangas",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 May",
     "Price_PHP":47.0,
@@ -972,7 +972,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Batangas",
+    "Geolocation":"Batangas",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":65.0,
@@ -981,7 +981,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":47.18,
@@ -990,7 +990,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":31.84,
@@ -999,7 +999,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":48.11,
@@ -1008,7 +1008,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":13.0,
@@ -1017,7 +1017,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":56.67,
@@ -1026,7 +1026,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":25.0,
@@ -1035,7 +1035,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":47.18,
@@ -1044,7 +1044,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2024 September",
     "Price_PHP":25.0,
@@ -1053,7 +1053,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":38.01,
@@ -1062,7 +1062,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":12.0,
@@ -1071,7 +1071,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Benguet",
+    "Geolocation":"Benguet",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":86.67,
@@ -1080,7 +1080,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Biliran",
+    "Geolocation":"Biliran",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -1089,7 +1089,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Biliran",
+    "Geolocation":"Biliran",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":27.31,
@@ -1098,7 +1098,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Biliran",
+    "Geolocation":"Biliran",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -1107,7 +1107,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bohol",
+    "Geolocation":"Bohol",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -1116,7 +1116,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bohol",
+    "Geolocation":"Bohol",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.12,
@@ -1125,7 +1125,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bohol",
+    "Geolocation":"Bohol",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":5.0,
@@ -1134,7 +1134,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bohol",
+    "Geolocation":"Bohol",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.29,
@@ -1143,7 +1143,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bohol",
+    "Geolocation":"Bohol",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -1152,7 +1152,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bohol",
+    "Geolocation":"Bohol",
     "Commodity":"Radish",
     "YearPeriod":"2025 October",
     "Price_PHP":50.0,
@@ -1161,7 +1161,7 @@
     "Month_Num":10
   },
   {
-    "Geolocation":"....Bohol",
+    "Geolocation":"Bohol",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 May",
     "Price_PHP":70.0,
@@ -1170,7 +1170,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Bohol",
+    "Geolocation":"Bohol",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":80.0,
@@ -1179,7 +1179,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Arrowroot",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -1188,7 +1188,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -1197,7 +1197,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -1206,7 +1206,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":13.0,
@@ -1215,7 +1215,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":7.23,
@@ -1224,7 +1224,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -1233,7 +1233,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -1242,7 +1242,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2025 December",
     "Price_PHP":15.0,
@@ -1251,7 +1251,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":70.0,
@@ -1260,7 +1260,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":14.15,
@@ -1269,7 +1269,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -1278,7 +1278,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bukidnon",
+    "Geolocation":"Bukidnon",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":65.0,
@@ -1287,7 +1287,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bulacan",
+    "Geolocation":"Bulacan",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -1296,7 +1296,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bulacan",
+    "Geolocation":"Bulacan",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -1305,7 +1305,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bulacan",
+    "Geolocation":"Bulacan",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2024 June",
     "Price_PHP":45.0,
@@ -1314,7 +1314,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Bulacan",
+    "Geolocation":"Bulacan",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2024 June",
     "Price_PHP":60.0,
@@ -1323,7 +1323,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":31.41,
@@ -1332,7 +1332,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -1341,7 +1341,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":24.63,
@@ -1350,7 +1350,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2025 March",
     "Price_PHP":20.0,
@@ -1359,7 +1359,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2018 December",
     "Price_PHP":4.25,
@@ -1368,7 +1368,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":23.56,
@@ -1377,7 +1377,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":40.75,
@@ -1386,7 +1386,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":16.39,
@@ -1395,7 +1395,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Radish",
     "YearPeriod":"2026 May",
     "Price_PHP":50.0,
@@ -1404,7 +1404,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2025 March",
     "Price_PHP":50.0,
@@ -1413,7 +1413,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Cagayan",
+    "Geolocation":"Cagayan",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":50.0,
@@ -1422,7 +1422,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Camarines Norte",
+    "Geolocation":"Camarines Norte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 May",
     "Price_PHP":33.81,
@@ -1431,7 +1431,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Camarines Norte",
+    "Geolocation":"Camarines Norte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":26.78,
@@ -1440,7 +1440,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camarines Norte",
+    "Geolocation":"Camarines Norte",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2018 August",
     "Price_PHP":7.24,
@@ -1449,7 +1449,7 @@
     "Month_Num":8
   },
   {
-    "Geolocation":"....Camarines Norte",
+    "Geolocation":"Camarines Norte",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":21.0,
@@ -1458,7 +1458,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":36.98,
@@ -1467,7 +1467,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.53,
@@ -1476,7 +1476,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2024 January",
     "Price_PHP":10.0,
@@ -1485,7 +1485,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2024 March",
     "Price_PHP":40.0,
@@ -1494,7 +1494,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":52.37,
@@ -1503,7 +1503,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2013 November",
     "Price_PHP":11.07,
@@ -1512,7 +1512,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -1521,7 +1521,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -1530,7 +1530,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -1539,7 +1539,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camarines Sur",
+    "Geolocation":"Camarines Sur",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -1548,7 +1548,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camiguin",
+    "Geolocation":"Camiguin",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -1557,7 +1557,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camiguin",
+    "Geolocation":"Camiguin",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -1566,7 +1566,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camiguin",
+    "Geolocation":"Camiguin",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2018 March",
     "Price_PHP":7.0,
@@ -1575,7 +1575,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Camiguin",
+    "Geolocation":"Camiguin",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":37.28,
@@ -1584,7 +1584,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camiguin",
+    "Geolocation":"Camiguin",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2025 June",
     "Price_PHP":20.0,
@@ -1593,7 +1593,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Camiguin",
+    "Geolocation":"Camiguin",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 May",
     "Price_PHP":50.0,
@@ -1602,7 +1602,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Capiz",
+    "Geolocation":"Capiz",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":27.63,
@@ -1611,7 +1611,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Capiz",
+    "Geolocation":"Capiz",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":23.35,
@@ -1620,7 +1620,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Capiz",
+    "Geolocation":"Capiz",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -1629,7 +1629,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Capiz",
+    "Geolocation":"Capiz",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":18.93,
@@ -1638,7 +1638,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Capiz",
+    "Geolocation":"Capiz",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":21.17,
@@ -1647,7 +1647,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Capiz",
+    "Geolocation":"Capiz",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":80.0,
@@ -1656,7 +1656,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Catanduanes",
+    "Geolocation":"Catanduanes",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":41.45,
@@ -1665,7 +1665,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Catanduanes",
+    "Geolocation":"Catanduanes",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":31.26,
@@ -1674,7 +1674,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Catanduanes",
+    "Geolocation":"Catanduanes",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":40.0,
@@ -1683,7 +1683,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Catanduanes",
+    "Geolocation":"Catanduanes",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -1692,7 +1692,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Catanduanes",
+    "Geolocation":"Catanduanes",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -1701,7 +1701,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Catanduanes",
+    "Geolocation":"Catanduanes",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":80.0,
@@ -1710,7 +1710,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cavite",
+    "Geolocation":"Cavite",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 April",
     "Price_PHP":50.0,
@@ -1719,7 +1719,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Cavite",
+    "Geolocation":"Cavite",
     "Commodity":"Carrot",
     "YearPeriod":"2026 February",
     "Price_PHP":300.0,
@@ -1728,7 +1728,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Cavite",
+    "Geolocation":"Cavite",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":17.01,
@@ -1737,7 +1737,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cavite",
+    "Geolocation":"Cavite",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 January",
     "Price_PHP":15.0,
@@ -1746,7 +1746,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Cavite",
+    "Geolocation":"Cavite",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":40.0,
@@ -1755,7 +1755,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Cavite",
+    "Geolocation":"Cavite",
     "Commodity":"Radish",
     "YearPeriod":"2026 January",
     "Price_PHP":33.91,
@@ -1764,7 +1764,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Cavite",
+    "Geolocation":"Cavite",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 May",
     "Price_PHP":49.84,
@@ -1773,7 +1773,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":27.69,
@@ -1782,7 +1782,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -1791,7 +1791,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -1800,7 +1800,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -1809,7 +1809,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.02,
@@ -1818,7 +1818,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -1827,7 +1827,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2018 December",
     "Price_PHP":31.82,
@@ -1836,7 +1836,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -1845,7 +1845,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -1854,7 +1854,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cebu",
+    "Geolocation":"Cebu",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -1863,7 +1863,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cotabato",
+    "Geolocation":"Cotabato",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -1872,7 +1872,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cotabato",
+    "Geolocation":"Cotabato",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":12.0,
@@ -1881,7 +1881,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Cotabato",
+    "Geolocation":"Cotabato",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":9.0,
@@ -1890,7 +1890,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Cotabato",
+    "Geolocation":"Cotabato",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":40.0,
@@ -1899,7 +1899,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Cotabato",
+    "Geolocation":"Cotabato",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -1908,7 +1908,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Cotabato",
+    "Geolocation":"Cotabato",
     "Commodity":"Radish",
     "YearPeriod":"2026 April",
     "Price_PHP":40.0,
@@ -1917,7 +1917,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Cotabato",
+    "Geolocation":"Cotabato",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 April",
     "Price_PHP":20.0,
@@ -1926,7 +1926,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Davao Occidental",
+    "Geolocation":"Davao Occidental",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -1935,7 +1935,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Occidental",
+    "Geolocation":"Davao Occidental",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":13.0,
@@ -1944,7 +1944,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Occidental",
+    "Geolocation":"Davao Occidental",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 March",
     "Price_PHP":12.0,
@@ -1953,7 +1953,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Davao Occidental",
+    "Geolocation":"Davao Occidental",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":18.0,
@@ -1962,7 +1962,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Occidental",
+    "Geolocation":"Davao Occidental",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -1971,7 +1971,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Oriental",
+    "Geolocation":"Davao Oriental",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":29.43,
@@ -1980,7 +1980,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Oriental",
+    "Geolocation":"Davao Oriental",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -1989,7 +1989,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Oriental",
+    "Geolocation":"Davao Oriental",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":17.35,
@@ -1998,7 +1998,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Oriental",
+    "Geolocation":"Davao Oriental",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":22.0,
@@ -2007,7 +2007,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Oriental",
+    "Geolocation":"Davao Oriental",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2024 July",
     "Price_PHP":15.0,
@@ -2016,7 +2016,7 @@
     "Month_Num":7
   },
   {
-    "Geolocation":"....Davao Oriental",
+    "Geolocation":"Davao Oriental",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -2025,7 +2025,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Oriental",
+    "Geolocation":"Davao Oriental",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -2034,7 +2034,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao Oriental",
+    "Geolocation":"Davao Oriental",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -2043,7 +2043,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":29.66,
@@ -2052,7 +2052,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -2061,7 +2061,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":13.99,
@@ -2070,7 +2070,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2018 December",
     "Price_PHP":4.0,
@@ -2079,7 +2079,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":30.0,
@@ -2088,7 +2088,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":30.0,
@@ -2097,7 +2097,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -2106,7 +2106,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -2115,7 +2115,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -2124,7 +2124,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao de Oro",
+    "Geolocation":"Davao de Oro",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -2133,7 +2133,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Norte",
+    "Geolocation":"Davao del Norte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -2142,7 +2142,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Norte",
+    "Geolocation":"Davao del Norte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.0,
@@ -2151,7 +2151,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Norte",
+    "Geolocation":"Davao del Norte",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2018 June",
     "Price_PHP":7.14,
@@ -2160,7 +2160,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Norte",
+    "Geolocation":"Davao del Norte",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -2169,7 +2169,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Norte",
+    "Geolocation":"Davao del Norte",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -2178,7 +2178,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Norte",
+    "Geolocation":"Davao del Norte",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -2187,7 +2187,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Sur",
+    "Geolocation":"Davao del Sur",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":17.44,
@@ -2196,7 +2196,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Sur",
+    "Geolocation":"Davao del Sur",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -2205,7 +2205,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Sur",
+    "Geolocation":"Davao del Sur",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.0,
@@ -2214,7 +2214,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Davao del Sur",
+    "Geolocation":"Davao del Sur",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":8.0,
@@ -2223,7 +2223,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Davao del Sur",
+    "Geolocation":"Davao del Sur",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2018 November",
     "Price_PHP":6.54,
@@ -2232,7 +2232,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Davao del Sur",
+    "Geolocation":"Davao del Sur",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":20.0,
@@ -2241,7 +2241,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Davao del Sur",
+    "Geolocation":"Davao del Sur",
     "Commodity":"Potato",
     "YearPeriod":"2026 May",
     "Price_PHP":75.0,
@@ -2250,7 +2250,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Davao del Sur",
+    "Geolocation":"Davao del Sur",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -2259,7 +2259,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Dinagat Islands",
+    "Geolocation":"Dinagat Islands",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.52,
@@ -2268,7 +2268,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Dinagat Islands",
+    "Geolocation":"Dinagat Islands",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":37.91,
@@ -2277,7 +2277,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Dinagat Islands",
+    "Geolocation":"Dinagat Islands",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2025 June",
     "Price_PHP":30.0,
@@ -2286,7 +2286,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Dinagat Islands",
+    "Geolocation":"Dinagat Islands",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 January",
     "Price_PHP":50.0,
@@ -2295,7 +2295,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Dinagat Islands",
+    "Geolocation":"Dinagat Islands",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 February",
     "Price_PHP":60.0,
@@ -2304,7 +2304,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Dinagat Islands",
+    "Geolocation":"Dinagat Islands",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 March",
     "Price_PHP":20.0,
@@ -2313,7 +2313,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Dinagat Islands",
+    "Geolocation":"Dinagat Islands",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -2322,7 +2322,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Eastern Samar",
+    "Geolocation":"Eastern Samar",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":36.4,
@@ -2331,7 +2331,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Eastern Samar",
+    "Geolocation":"Eastern Samar",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":27.06,
@@ -2340,7 +2340,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Eastern Samar",
+    "Geolocation":"Eastern Samar",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2025 December",
     "Price_PHP":24.47,
@@ -2349,7 +2349,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Eastern Samar",
+    "Geolocation":"Eastern Samar",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":34.86,
@@ -2358,7 +2358,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Eastern Samar",
+    "Geolocation":"Eastern Samar",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":29.38,
@@ -2367,7 +2367,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Eastern Samar",
+    "Geolocation":"Eastern Samar",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 March",
     "Price_PHP":30.0,
@@ -2376,7 +2376,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Eastern Samar",
+    "Geolocation":"Eastern Samar",
     "Commodity":"Potato",
     "YearPeriod":"2024 March",
     "Price_PHP":20.0,
@@ -2385,7 +2385,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Eastern Samar",
+    "Geolocation":"Eastern Samar",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2024 June",
     "Price_PHP":60.0,
@@ -2394,7 +2394,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Guimaras",
+    "Geolocation":"Guimaras",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -2403,7 +2403,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Guimaras",
+    "Geolocation":"Guimaras",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -2412,7 +2412,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Guimaras",
+    "Geolocation":"Guimaras",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2025 October",
     "Price_PHP":20.0,
@@ -2421,7 +2421,7 @@
     "Month_Num":10
   },
   {
-    "Geolocation":"....Guimaras",
+    "Geolocation":"Guimaras",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":120.0,
@@ -2430,7 +2430,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ifugao",
+    "Geolocation":"Ifugao",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":39.3,
@@ -2439,7 +2439,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ifugao",
+    "Geolocation":"Ifugao",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":31.91,
@@ -2448,7 +2448,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ifugao",
+    "Geolocation":"Ifugao",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -2457,7 +2457,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ifugao",
+    "Geolocation":"Ifugao",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":70.0,
@@ -2466,7 +2466,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ifugao",
+    "Geolocation":"Ifugao",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -2475,7 +2475,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ifugao",
+    "Geolocation":"Ifugao",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2020 December",
     "Price_PHP":20.89,
@@ -2484,7 +2484,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Ifugao",
+    "Geolocation":"Ifugao",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":26.02,
@@ -2493,7 +2493,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ifugao",
+    "Geolocation":"Ifugao",
     "Commodity":"Potato",
     "YearPeriod":"2026 May",
     "Price_PHP":50.0,
@@ -2502,7 +2502,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Ilocos Norte",
+    "Geolocation":"Ilocos Norte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -2511,7 +2511,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ilocos Norte",
+    "Geolocation":"Ilocos Norte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -2520,7 +2520,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ilocos Norte",
+    "Geolocation":"Ilocos Norte",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 June",
     "Price_PHP":30.0,
@@ -2529,7 +2529,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ilocos Norte",
+    "Geolocation":"Ilocos Norte",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -2538,7 +2538,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ilocos Norte",
+    "Geolocation":"Ilocos Norte",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2010 December",
     "Price_PHP":12.59,
@@ -2547,7 +2547,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Ilocos Norte",
+    "Geolocation":"Ilocos Norte",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -2556,7 +2556,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ilocos Norte",
+    "Geolocation":"Ilocos Norte",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -2565,7 +2565,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ilocos Sur",
+    "Geolocation":"Ilocos Sur",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -2574,7 +2574,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ilocos Sur",
+    "Geolocation":"Ilocos Sur",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -2583,7 +2583,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Ilocos Sur",
+    "Geolocation":"Ilocos Sur",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 November",
     "Price_PHP":40.0,
@@ -2592,7 +2592,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Ilocos Sur",
+    "Geolocation":"Ilocos Sur",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":60.0,
@@ -2601,7 +2601,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Ilocos Sur",
+    "Geolocation":"Ilocos Sur",
     "Commodity":"Potato",
     "YearPeriod":"2025 December",
     "Price_PHP":90.0,
@@ -2610,7 +2610,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Ilocos Sur",
+    "Geolocation":"Ilocos Sur",
     "Commodity":"Radish",
     "YearPeriod":"2024 February",
     "Price_PHP":60.0,
@@ -2619,7 +2619,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Ilocos Sur",
+    "Geolocation":"Ilocos Sur",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 April",
     "Price_PHP":20.0,
@@ -2628,7 +2628,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Ilocos Sur",
+    "Geolocation":"Ilocos Sur",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -2637,7 +2637,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":32.6,
@@ -2646,7 +2646,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -2655,7 +2655,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":18.39,
@@ -2664,7 +2664,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2025 April",
     "Price_PHP":15.0,
@@ -2673,7 +2673,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -2682,7 +2682,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":9.2,
@@ -2691,7 +2691,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":17.86,
@@ -2700,7 +2700,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -2709,7 +2709,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":21.46,
@@ -2718,7 +2718,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Iloilo",
+    "Geolocation":"Iloilo",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -2727,7 +2727,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Isabela",
+    "Geolocation":"Isabela",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -2736,7 +2736,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Isabela",
+    "Geolocation":"Isabela",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 March",
     "Price_PHP":13.0,
@@ -2745,7 +2745,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Isabela",
+    "Geolocation":"Isabela",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":4.5,
@@ -2754,7 +2754,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Isabela",
+    "Geolocation":"Isabela",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 October",
     "Price_PHP":15.0,
@@ -2763,7 +2763,7 @@
     "Month_Num":10
   },
   {
-    "Geolocation":"....Isabela",
+    "Geolocation":"Isabela",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":28.0,
@@ -2772,7 +2772,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Isabela",
+    "Geolocation":"Isabela",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":12.08,
@@ -2781,7 +2781,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Isabela",
+    "Geolocation":"Isabela",
     "Commodity":"Radish",
     "YearPeriod":"2026 March",
     "Price_PHP":40.0,
@@ -2790,7 +2790,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Isabela",
+    "Geolocation":"Isabela",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2024 March",
     "Price_PHP":25.0,
@@ -2799,7 +2799,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Kalinga",
+    "Geolocation":"Kalinga",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -2808,7 +2808,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Kalinga",
+    "Geolocation":"Kalinga",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -2817,7 +2817,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Kalinga",
+    "Geolocation":"Kalinga",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -2826,7 +2826,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Kalinga",
+    "Geolocation":"Kalinga",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":20.92,
@@ -2835,7 +2835,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Kalinga",
+    "Geolocation":"Kalinga",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -2844,7 +2844,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....La Union",
+    "Geolocation":"La Union",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.34,
@@ -2853,7 +2853,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....La Union",
+    "Geolocation":"La Union",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -2862,7 +2862,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....La Union",
+    "Geolocation":"La Union",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2024 September",
     "Price_PHP":20.0,
@@ -2871,7 +2871,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....La Union",
+    "Geolocation":"La Union",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":31.45,
@@ -2880,7 +2880,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....La Union",
+    "Geolocation":"La Union",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -2889,7 +2889,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....La Union",
+    "Geolocation":"La Union",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":80.0,
@@ -2898,7 +2898,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....La Union",
+    "Geolocation":"La Union",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":80.0,
@@ -2907,7 +2907,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....La Union",
+    "Geolocation":"La Union",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -2916,7 +2916,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Laguna",
+    "Geolocation":"Laguna",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":36.11,
@@ -2925,7 +2925,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Laguna",
+    "Geolocation":"Laguna",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":23.59,
@@ -2934,7 +2934,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Laguna",
+    "Geolocation":"Laguna",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":28.71,
@@ -2943,7 +2943,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Laguna",
+    "Geolocation":"Laguna",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":32.02,
@@ -2952,7 +2952,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Laguna",
+    "Geolocation":"Laguna",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":58.09,
@@ -2961,7 +2961,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Laguna",
+    "Geolocation":"Laguna",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":40.0,
@@ -2970,7 +2970,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Lanao del Norte",
+    "Geolocation":"Lanao del Norte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":18.75,
@@ -2979,7 +2979,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Lanao del Norte",
+    "Geolocation":"Lanao del Norte",
     "Commodity":"Carrot",
     "YearPeriod":"2026 March",
     "Price_PHP":35.0,
@@ -2988,7 +2988,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Lanao del Norte",
+    "Geolocation":"Lanao del Norte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -2997,7 +2997,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Lanao del Norte",
+    "Geolocation":"Lanao del Norte",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":8.8,
@@ -3006,7 +3006,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Lanao del Norte",
+    "Geolocation":"Lanao del Norte",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":22.0,
@@ -3015,7 +3015,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Lanao del Norte",
+    "Geolocation":"Lanao del Norte",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2010 December",
     "Price_PHP":9.78,
@@ -3024,7 +3024,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Lanao del Norte",
+    "Geolocation":"Lanao del Norte",
     "Commodity":"Potato",
     "YearPeriod":"2026 January",
     "Price_PHP":32.0,
@@ -3033,7 +3033,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Lanao del Norte",
+    "Geolocation":"Lanao del Norte",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 May",
     "Price_PHP":21.34,
@@ -3042,7 +3042,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":23.31,
@@ -3051,7 +3051,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":23.01,
@@ -3060,7 +3060,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":17.1,
@@ -3069,7 +3069,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":7.97,
@@ -3078,7 +3078,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 March",
     "Price_PHP":49.84,
@@ -3087,7 +3087,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -3096,7 +3096,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Potato",
     "YearPeriod":"2026 March",
     "Price_PHP":39.22,
@@ -3105,7 +3105,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2024 July",
     "Price_PHP":14.96,
@@ -3114,7 +3114,7 @@
     "Month_Num":7
   },
   {
-    "Geolocation":"....Lanao del Sur",
+    "Geolocation":"Lanao del Sur",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 February",
     "Price_PHP":29.87,
@@ -3123,7 +3123,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Leyte",
+    "Geolocation":"Leyte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":37.34,
@@ -3132,7 +3132,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Leyte",
+    "Geolocation":"Leyte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":25.32,
@@ -3141,7 +3141,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Leyte",
+    "Geolocation":"Leyte",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.0,
@@ -3150,7 +3150,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Leyte",
+    "Geolocation":"Leyte",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":72.54,
@@ -3159,7 +3159,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Leyte",
+    "Geolocation":"Leyte",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":28.23,
@@ -3168,7 +3168,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Leyte",
+    "Geolocation":"Leyte",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 May",
     "Price_PHP":25.0,
@@ -3177,7 +3177,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Leyte",
+    "Geolocation":"Leyte",
     "Commodity":"Radish",
     "YearPeriod":"2025 August",
     "Price_PHP":35.0,
@@ -3186,7 +3186,7 @@
     "Month_Num":8
   },
   {
-    "Geolocation":"....Leyte",
+    "Geolocation":"Leyte",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2025 October",
     "Price_PHP":23.0,
@@ -3195,7 +3195,7 @@
     "Month_Num":10
   },
   {
-    "Geolocation":"....Maguindanao",
+    "Geolocation":"Maguindanao",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2018 December",
     "Price_PHP":23.95,
@@ -3204,7 +3204,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Maguindanao",
+    "Geolocation":"Maguindanao",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2018 December",
     "Price_PHP":14.53,
@@ -3213,7 +3213,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Marinduque",
+    "Geolocation":"Marinduque",
     "Commodity":"Arrowroot",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -3222,7 +3222,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Marinduque",
+    "Geolocation":"Marinduque",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -3231,7 +3231,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Marinduque",
+    "Geolocation":"Marinduque",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -3240,7 +3240,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Marinduque",
+    "Geolocation":"Marinduque",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2015 December",
     "Price_PHP":9.64,
@@ -3249,7 +3249,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Marinduque",
+    "Geolocation":"Marinduque",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":22.32,
@@ -3258,7 +3258,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Marinduque",
+    "Geolocation":"Marinduque",
     "Commodity":"Radish",
     "YearPeriod":"2026 March",
     "Price_PHP":50.0,
@@ -3267,7 +3267,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Masbate",
+    "Geolocation":"Masbate",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 May",
     "Price_PHP":22.19,
@@ -3276,7 +3276,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Masbate",
+    "Geolocation":"Masbate",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":28.17,
@@ -3285,7 +3285,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Masbate",
+    "Geolocation":"Masbate",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2024 July",
     "Price_PHP":5.67,
@@ -3294,7 +3294,7 @@
     "Month_Num":7
   },
   {
-    "Geolocation":"....Masbate",
+    "Geolocation":"Masbate",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 November",
     "Price_PHP":50.0,
@@ -3303,7 +3303,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Masbate",
+    "Geolocation":"Masbate",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":50.0,
@@ -3312,7 +3312,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Masbate",
+    "Geolocation":"Masbate",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2011 December",
     "Price_PHP":10.11,
@@ -3321,7 +3321,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Masbate",
+    "Geolocation":"Masbate",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 May",
     "Price_PHP":50.0,
@@ -3330,7 +3330,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Misamis Occidental",
+    "Geolocation":"Misamis Occidental",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":39.0,
@@ -3339,7 +3339,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Occidental",
+    "Geolocation":"Misamis Occidental",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":77.5,
@@ -3348,7 +3348,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Occidental",
+    "Geolocation":"Misamis Occidental",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":19.0,
@@ -3357,7 +3357,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Occidental",
+    "Geolocation":"Misamis Occidental",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 March",
     "Price_PHP":12.0,
@@ -3366,7 +3366,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Misamis Occidental",
+    "Geolocation":"Misamis Occidental",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":28.0,
@@ -3375,7 +3375,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Misamis Occidental",
+    "Geolocation":"Misamis Occidental",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 April",
     "Price_PHP":27.83,
@@ -3384,7 +3384,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Misamis Occidental",
+    "Geolocation":"Misamis Occidental",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -3393,7 +3393,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Occidental",
+    "Geolocation":"Misamis Occidental",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":28.5,
@@ -3402,7 +3402,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.29,
@@ -3411,7 +3411,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -3420,7 +3420,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":14.8,
@@ -3429,7 +3429,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":10.0,
@@ -3438,7 +3438,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2019 March",
     "Price_PHP":8.12,
@@ -3447,7 +3447,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -3456,7 +3456,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -3465,7 +3465,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -3474,7 +3474,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Misamis Oriental",
+    "Geolocation":"Misamis Oriental",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -3483,7 +3483,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Mountain Province",
+    "Geolocation":"Mountain Province",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 May",
     "Price_PHP":49.0,
@@ -3492,7 +3492,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Mountain Province",
+    "Geolocation":"Mountain Province",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -3501,7 +3501,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Mountain Province",
+    "Geolocation":"Mountain Province",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":20.0,
@@ -3510,7 +3510,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Mountain Province",
+    "Geolocation":"Mountain Province",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":50.0,
@@ -3519,7 +3519,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Mountain Province",
+    "Geolocation":"Mountain Province",
     "Commodity":"Potato",
     "YearPeriod":"2026 March",
     "Price_PHP":50.0,
@@ -3528,7 +3528,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Mountain Province",
+    "Geolocation":"Mountain Province",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -3537,7 +3537,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Negros Occidental",
+    "Geolocation":"Negros Occidental",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2023 December",
     "Price_PHP":26.22,
@@ -3546,7 +3546,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Occidental",
+    "Geolocation":"Negros Occidental",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2023 December",
     "Price_PHP":13.36,
@@ -3555,7 +3555,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Occidental",
+    "Geolocation":"Negros Occidental",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":21.05,
@@ -3564,7 +3564,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Occidental",
+    "Geolocation":"Negros Occidental",
     "Commodity":"Radish",
     "YearPeriod":"2023 December",
     "Price_PHP":19.43,
@@ -3573,7 +3573,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Occidental a\/",
+    "Geolocation":"Negros Occidental a\/",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 May",
     "Price_PHP":29.93,
@@ -3582,7 +3582,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Negros Occidental a\/",
+    "Geolocation":"Negros Occidental a\/",
     "Commodity":"Carrot",
     "YearPeriod":"2026 March",
     "Price_PHP":40.0,
@@ -3591,7 +3591,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Negros Occidental a\/",
+    "Geolocation":"Negros Occidental a\/",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":17.71,
@@ -3600,7 +3600,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Negros Occidental a\/",
+    "Geolocation":"Negros Occidental a\/",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -3609,7 +3609,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Negros Occidental a\/",
+    "Geolocation":"Negros Occidental a\/",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":32.33,
@@ -3618,7 +3618,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Negros Occidental a\/",
+    "Geolocation":"Negros Occidental a\/",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 May",
     "Price_PHP":20.0,
@@ -3627,7 +3627,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Negros Occidental a\/",
+    "Geolocation":"Negros Occidental a\/",
     "Commodity":"Radish",
     "YearPeriod":"2026 February",
     "Price_PHP":30.0,
@@ -3636,7 +3636,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Negros Occidental a\/",
+    "Geolocation":"Negros Occidental a\/",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 March",
     "Price_PHP":20.0,
@@ -3645,7 +3645,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Negros Oriental",
+    "Geolocation":"Negros Oriental",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2023 December",
     "Price_PHP":28.6,
@@ -3654,7 +3654,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Oriental",
+    "Geolocation":"Negros Oriental",
     "Commodity":"Carrot",
     "YearPeriod":"2023 December",
     "Price_PHP":52.89,
@@ -3663,7 +3663,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Oriental",
+    "Geolocation":"Negros Oriental",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2023 December",
     "Price_PHP":10.52,
@@ -3672,7 +3672,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Oriental",
+    "Geolocation":"Negros Oriental",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2023 December",
     "Price_PHP":20.33,
@@ -3681,7 +3681,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Oriental",
+    "Geolocation":"Negros Oriental",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2023 December",
     "Price_PHP":28.63,
@@ -3690,7 +3690,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Oriental",
+    "Geolocation":"Negros Oriental",
     "Commodity":"Radish",
     "YearPeriod":"2023 December",
     "Price_PHP":24.18,
@@ -3699,7 +3699,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Negros Oriental",
+    "Geolocation":"Negros Oriental",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2023 November",
     "Price_PHP":20.0,
@@ -3708,7 +3708,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Negros Oriental b\/",
+    "Geolocation":"Negros Oriental b\/",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.03,
@@ -3717,7 +3717,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Negros Oriental b\/",
+    "Geolocation":"Negros Oriental b\/",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":28.8,
@@ -3726,7 +3726,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Negros Oriental b\/",
+    "Geolocation":"Negros Oriental b\/",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":10.0,
@@ -3735,7 +3735,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Negros Oriental b\/",
+    "Geolocation":"Negros Oriental b\/",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":10.7,
@@ -3744,7 +3744,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Negros Oriental b\/",
+    "Geolocation":"Negros Oriental b\/",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":40.0,
@@ -3753,7 +3753,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Negros Oriental b\/",
+    "Geolocation":"Negros Oriental b\/",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -3762,7 +3762,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Negros Oriental b\/",
+    "Geolocation":"Negros Oriental b\/",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -3771,7 +3771,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Negros Oriental b\/",
+    "Geolocation":"Negros Oriental b\/",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":20.0,
@@ -3780,7 +3780,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Northern Samar",
+    "Geolocation":"Northern Samar",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":42.74,
@@ -3789,7 +3789,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Northern Samar",
+    "Geolocation":"Northern Samar",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":55.28,
@@ -3798,7 +3798,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Northern Samar",
+    "Geolocation":"Northern Samar",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2024 June",
     "Price_PHP":14.0,
@@ -3807,7 +3807,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Northern Samar",
+    "Geolocation":"Northern Samar",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 August",
     "Price_PHP":14.25,
@@ -3816,7 +3816,7 @@
     "Month_Num":8
   },
   {
-    "Geolocation":"....Northern Samar",
+    "Geolocation":"Northern Samar",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2024 November",
     "Price_PHP":8.0,
@@ -3825,7 +3825,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Northern Samar",
+    "Geolocation":"Northern Samar",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2022 December",
     "Price_PHP":31.79,
@@ -3834,7 +3834,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Northern Samar",
+    "Geolocation":"Northern Samar",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 May",
     "Price_PHP":14.17,
@@ -3843,7 +3843,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Northern Samar",
+    "Geolocation":"Northern Samar",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 February",
     "Price_PHP":50.0,
@@ -3852,7 +3852,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Nueva Ecija",
+    "Geolocation":"Nueva Ecija",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -3861,7 +3861,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Ecija",
+    "Geolocation":"Nueva Ecija",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":13.6,
@@ -3870,7 +3870,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Ecija",
+    "Geolocation":"Nueva Ecija",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2024 December",
     "Price_PHP":50.0,
@@ -3879,7 +3879,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Nueva Ecija",
+    "Geolocation":"Nueva Ecija",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":55.0,
@@ -3888,7 +3888,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Nueva Ecija",
+    "Geolocation":"Nueva Ecija",
     "Commodity":"Radish",
     "YearPeriod":"2026 March",
     "Price_PHP":40.0,
@@ -3897,7 +3897,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Nueva Ecija",
+    "Geolocation":"Nueva Ecija",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 March",
     "Price_PHP":40.0,
@@ -3906,7 +3906,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":34.56,
@@ -3915,7 +3915,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -3924,7 +3924,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":26.67,
@@ -3933,7 +3933,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":14.0,
@@ -3942,7 +3942,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -3951,7 +3951,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":22.85,
@@ -3960,7 +3960,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2018 December",
     "Price_PHP":16.13,
@@ -3969,7 +3969,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":34.44,
@@ -3978,7 +3978,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -3987,7 +3987,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -3996,7 +3996,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 May",
     "Price_PHP":30.0,
@@ -4005,7 +4005,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Nueva Vizcaya",
+    "Geolocation":"Nueva Vizcaya",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4014,7 +4014,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Occidental Mindoro",
+    "Geolocation":"Occidental Mindoro",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 April",
     "Price_PHP":39.34,
@@ -4023,7 +4023,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Occidental Mindoro",
+    "Geolocation":"Occidental Mindoro",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.96,
@@ -4032,7 +4032,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Occidental Mindoro",
+    "Geolocation":"Occidental Mindoro",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -4041,7 +4041,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Occidental Mindoro",
+    "Geolocation":"Occidental Mindoro",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -4050,7 +4050,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Occidental Mindoro",
+    "Geolocation":"Occidental Mindoro",
     "Commodity":"Potato",
     "YearPeriod":"2024 July",
     "Price_PHP":12.6,
@@ -4059,7 +4059,7 @@
     "Month_Num":7
   },
   {
-    "Geolocation":"....Occidental Mindoro",
+    "Geolocation":"Occidental Mindoro",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -4068,7 +4068,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Occidental Mindoro",
+    "Geolocation":"Occidental Mindoro",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 April",
     "Price_PHP":16.67,
@@ -4077,7 +4077,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Occidental Mindoro",
+    "Geolocation":"Occidental Mindoro",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4086,7 +4086,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Oriental Mindoro",
+    "Geolocation":"Oriental Mindoro",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -4095,7 +4095,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Oriental Mindoro",
+    "Geolocation":"Oriental Mindoro",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":14.0,
@@ -4104,7 +4104,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Oriental Mindoro",
+    "Geolocation":"Oriental Mindoro",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":8.0,
@@ -4113,7 +4113,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Oriental Mindoro",
+    "Geolocation":"Oriental Mindoro",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":10.0,
@@ -4122,7 +4122,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Oriental Mindoro",
+    "Geolocation":"Oriental Mindoro",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":14.58,
@@ -4131,7 +4131,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Oriental Mindoro",
+    "Geolocation":"Oriental Mindoro",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -4140,7 +4140,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Oriental Mindoro",
+    "Geolocation":"Oriental Mindoro",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -4149,7 +4149,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Oriental Mindoro",
+    "Geolocation":"Oriental Mindoro",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -4158,7 +4158,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Palawan",
+    "Geolocation":"Palawan",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2025 December",
     "Price_PHP":30.0,
@@ -4167,7 +4167,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Palawan",
+    "Geolocation":"Palawan",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -4176,7 +4176,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Palawan",
+    "Geolocation":"Palawan",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2022 March",
     "Price_PHP":11.53,
@@ -4185,7 +4185,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Palawan",
+    "Geolocation":"Palawan",
     "Commodity":"Radish",
     "YearPeriod":"2025 December",
     "Price_PHP":30.0,
@@ -4194,7 +4194,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.58,
@@ -4203,7 +4203,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":12.5,
@@ -4212,7 +4212,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 February",
     "Price_PHP":5.41,
@@ -4221,7 +4221,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 September",
     "Price_PHP":38.28,
@@ -4230,7 +4230,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -4239,7 +4239,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2025 December",
     "Price_PHP":12.0,
@@ -4248,7 +4248,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Radish",
     "YearPeriod":"2025 December",
     "Price_PHP":20.0,
@@ -4257,7 +4257,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 March",
     "Price_PHP":41.67,
@@ -4266,7 +4266,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Pampanga",
+    "Geolocation":"Pampanga",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2025 December",
     "Price_PHP":60.0,
@@ -4275,7 +4275,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Arrowroot",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -4284,7 +4284,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -4293,7 +4293,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -4302,7 +4302,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -4311,7 +4311,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4320,7 +4320,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -4329,7 +4329,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -4338,7 +4338,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -4347,7 +4347,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Pangasinan",
+    "Geolocation":"Pangasinan",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2025 October",
     "Price_PHP":40.0,
@@ -4356,7 +4356,7 @@
     "Month_Num":10
   },
   {
-    "Geolocation":"....Quezon",
+    "Geolocation":"Quezon",
     "Commodity":"Arrowroot",
     "YearPeriod":"2024 May",
     "Price_PHP":9.8,
@@ -4365,7 +4365,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Quezon",
+    "Geolocation":"Quezon",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":32.99,
@@ -4374,7 +4374,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Quezon",
+    "Geolocation":"Quezon",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":23.24,
@@ -4383,7 +4383,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Quezon",
+    "Geolocation":"Quezon",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2025 May",
     "Price_PHP":10.0,
@@ -4392,7 +4392,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Quezon",
+    "Geolocation":"Quezon",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":10.44,
@@ -4401,7 +4401,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Quezon",
+    "Geolocation":"Quezon",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 March",
     "Price_PHP":22.35,
@@ -4410,7 +4410,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Quezon",
+    "Geolocation":"Quezon",
     "Commodity":"Radish",
     "YearPeriod":"2026 April",
     "Price_PHP":9.85,
@@ -4419,7 +4419,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Quezon",
+    "Geolocation":"Quezon",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4428,7 +4428,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Quirino",
+    "Geolocation":"Quirino",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -4437,7 +4437,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Quirino",
+    "Geolocation":"Quirino",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":9.0,
@@ -4446,7 +4446,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Quirino",
+    "Geolocation":"Quirino",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.0,
@@ -4455,7 +4455,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Quirino",
+    "Geolocation":"Quirino",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":32.5,
@@ -4464,7 +4464,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Quirino",
+    "Geolocation":"Quirino",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":14.82,
@@ -4473,7 +4473,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Quirino",
+    "Geolocation":"Quirino",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -4482,7 +4482,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Quirino",
+    "Geolocation":"Quirino",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 March",
     "Price_PHP":27.5,
@@ -4491,7 +4491,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Quirino",
+    "Geolocation":"Quirino",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 May",
     "Price_PHP":69.51,
@@ -4500,7 +4500,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Rizal",
+    "Geolocation":"Rizal",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":38.75,
@@ -4509,7 +4509,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Rizal",
+    "Geolocation":"Rizal",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -4518,7 +4518,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Rizal",
+    "Geolocation":"Rizal",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 March",
     "Price_PHP":30.0,
@@ -4527,7 +4527,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Rizal",
+    "Geolocation":"Rizal",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -4536,7 +4536,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Rizal",
+    "Geolocation":"Rizal",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4545,7 +4545,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Rizal",
+    "Geolocation":"Rizal",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":55.0,
@@ -4554,7 +4554,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Rizal",
+    "Geolocation":"Rizal",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -4563,7 +4563,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Romblon",
+    "Geolocation":"Romblon",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -4572,7 +4572,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Romblon",
+    "Geolocation":"Romblon",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -4581,7 +4581,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Romblon",
+    "Geolocation":"Romblon",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -4590,7 +4590,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Romblon",
+    "Geolocation":"Romblon",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":55.0,
@@ -4599,7 +4599,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Romblon",
+    "Geolocation":"Romblon",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4608,7 +4608,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Romblon",
+    "Geolocation":"Romblon",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":70.0,
@@ -4617,7 +4617,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":33.55,
@@ -4626,7 +4626,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Carrot",
     "YearPeriod":"2025 August",
     "Price_PHP":90.0,
@@ -4635,7 +4635,7 @@
     "Month_Num":8
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":16.24,
@@ -4644,7 +4644,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2025 September",
     "Price_PHP":15.33,
@@ -4653,7 +4653,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":13.29,
@@ -4662,7 +4662,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":36.32,
@@ -4671,7 +4671,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":32.26,
@@ -4680,7 +4680,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2024 March",
     "Price_PHP":13.33,
@@ -4689,7 +4689,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Samar",
+    "Geolocation":"Samar",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2023 December",
     "Price_PHP":27.17,
@@ -4698,7 +4698,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Sarangani",
+    "Geolocation":"Sarangani",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -4707,7 +4707,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sarangani",
+    "Geolocation":"Sarangani",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":29.0,
@@ -4716,7 +4716,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sarangani",
+    "Geolocation":"Sarangani",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":25.0,
@@ -4725,7 +4725,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Sarangani",
+    "Geolocation":"Sarangani",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":13.0,
@@ -4734,7 +4734,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sarangani",
+    "Geolocation":"Sarangani",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2019 December",
     "Price_PHP":9.64,
@@ -4743,7 +4743,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Sarangani",
+    "Geolocation":"Sarangani",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2022 December",
     "Price_PHP":10.06,
@@ -4752,7 +4752,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Sarangani",
+    "Geolocation":"Sarangani",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -4761,7 +4761,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sarangani",
+    "Geolocation":"Sarangani",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4770,7 +4770,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Siquijor",
+    "Geolocation":"Siquijor",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2023 December",
     "Price_PHP":36.83,
@@ -4779,7 +4779,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Siquijor",
+    "Geolocation":"Siquijor",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2023 December",
     "Price_PHP":8.75,
@@ -4788,7 +4788,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Siquijor",
+    "Geolocation":"Siquijor",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2023 December",
     "Price_PHP":34.45,
@@ -4797,7 +4797,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Siquijor",
+    "Geolocation":"Siquijor",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2023 December",
     "Price_PHP":50.0,
@@ -4806,7 +4806,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Siquijor b\/",
+    "Geolocation":"Siquijor b\/",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":54.8,
@@ -4815,7 +4815,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Siquijor b\/",
+    "Geolocation":"Siquijor b\/",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":18.9,
@@ -4824,7 +4824,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Siquijor b\/",
+    "Geolocation":"Siquijor b\/",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2024 March",
     "Price_PHP":15.0,
@@ -4833,7 +4833,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Siquijor b\/",
+    "Geolocation":"Siquijor b\/",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":50.0,
@@ -4842,7 +4842,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Siquijor b\/",
+    "Geolocation":"Siquijor b\/",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2024 February",
     "Price_PHP":90.0,
@@ -4851,7 +4851,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Sorsogon",
+    "Geolocation":"Sorsogon",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":65.98,
@@ -4860,7 +4860,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sorsogon",
+    "Geolocation":"Sorsogon",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":26.07,
@@ -4869,7 +4869,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sorsogon",
+    "Geolocation":"Sorsogon",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2018 March",
     "Price_PHP":9.28,
@@ -4878,7 +4878,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Sorsogon",
+    "Geolocation":"Sorsogon",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4887,7 +4887,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sorsogon",
+    "Geolocation":"Sorsogon",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":51.76,
@@ -4896,7 +4896,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sorsogon",
+    "Geolocation":"Sorsogon",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -4905,7 +4905,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sorsogon",
+    "Geolocation":"Sorsogon",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -4914,7 +4914,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sorsogon",
+    "Geolocation":"Sorsogon",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":50.0,
@@ -4923,7 +4923,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 April",
     "Price_PHP":16.83,
@@ -4932,7 +4932,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":90.0,
@@ -4941,7 +4941,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2025 November",
     "Price_PHP":9.52,
@@ -4950,7 +4950,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":2.8,
@@ -4959,7 +4959,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":18.28,
@@ -4968,7 +4968,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":10.84,
@@ -4977,7 +4977,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -4986,7 +4986,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Radish",
     "YearPeriod":"2026 April",
     "Price_PHP":50.0,
@@ -4995,7 +4995,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2024 June",
     "Price_PHP":15.0,
@@ -5004,7 +5004,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....South Cotabato",
+    "Geolocation":"South Cotabato",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":35.0,
@@ -5013,7 +5013,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":44.43,
@@ -5022,7 +5022,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5031,7 +5031,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.84,
@@ -5040,7 +5040,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":27.0,
@@ -5049,7 +5049,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 March",
     "Price_PHP":15.0,
@@ -5058,7 +5058,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Potato",
     "YearPeriod":"2024 September",
     "Price_PHP":28.51,
@@ -5067,7 +5067,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Radish",
     "YearPeriod":"2025 January",
     "Price_PHP":20.0,
@@ -5076,7 +5076,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2024 June",
     "Price_PHP":44.49,
@@ -5085,7 +5085,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Southern Leyte",
+    "Geolocation":"Southern Leyte",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2024 November",
     "Price_PHP":25.0,
@@ -5094,7 +5094,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5103,7 +5103,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Carrot",
     "YearPeriod":"2015 December",
     "Price_PHP":52.86,
@@ -5112,7 +5112,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":9.0,
@@ -5121,7 +5121,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":3.0,
@@ -5130,7 +5130,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2012 December",
     "Price_PHP":10.72,
@@ -5139,7 +5139,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 May",
     "Price_PHP":10.0,
@@ -5148,7 +5148,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -5157,7 +5157,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5166,7 +5166,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sultan Kudarat",
+    "Geolocation":"Sultan Kudarat",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -5175,7 +5175,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sulu",
+    "Geolocation":"Sulu",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2025 November",
     "Price_PHP":28.64,
@@ -5184,7 +5184,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Sulu",
+    "Geolocation":"Sulu",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2025 December",
     "Price_PHP":14.63,
@@ -5193,7 +5193,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Sulu",
+    "Geolocation":"Sulu",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2025 September",
     "Price_PHP":14.94,
@@ -5202,7 +5202,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Sulu",
+    "Geolocation":"Sulu",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 December",
     "Price_PHP":30.0,
@@ -5211,7 +5211,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Sulu",
+    "Geolocation":"Sulu",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2025 November",
     "Price_PHP":24.48,
@@ -5220,7 +5220,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Sulu",
+    "Geolocation":"Sulu",
     "Commodity":"Radish",
     "YearPeriod":"2025 November",
     "Price_PHP":33.6,
@@ -5229,7 +5229,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Sulu c\/",
+    "Geolocation":"Sulu c\/",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":24.25,
@@ -5238,7 +5238,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sulu c\/",
+    "Geolocation":"Sulu c\/",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":14.34,
@@ -5247,7 +5247,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sulu c\/",
+    "Geolocation":"Sulu c\/",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":28.8,
@@ -5256,7 +5256,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Sulu c\/",
+    "Geolocation":"Sulu c\/",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":20.33,
@@ -5265,7 +5265,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Sulu c\/",
+    "Geolocation":"Sulu c\/",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -5274,7 +5274,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Norte",
+    "Geolocation":"Surigao del Norte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":36.4,
@@ -5283,7 +5283,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Norte",
+    "Geolocation":"Surigao del Norte",
     "Commodity":"Carrot",
     "YearPeriod":"2024 March",
     "Price_PHP":20.0,
@@ -5292,7 +5292,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Surigao del Norte",
+    "Geolocation":"Surigao del Norte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":25.52,
@@ -5301,7 +5301,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Norte",
+    "Geolocation":"Surigao del Norte",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -5310,7 +5310,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Norte",
+    "Geolocation":"Surigao del Norte",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2011 May",
     "Price_PHP":10.0,
@@ -5319,7 +5319,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Surigao del Norte",
+    "Geolocation":"Surigao del Norte",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -5328,7 +5328,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Norte",
+    "Geolocation":"Surigao del Norte",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2025 December",
     "Price_PHP":70.0,
@@ -5337,7 +5337,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Surigao del Sur",
+    "Geolocation":"Surigao del Sur",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5346,7 +5346,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Sur",
+    "Geolocation":"Surigao del Sur",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":21.55,
@@ -5355,7 +5355,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Sur",
+    "Geolocation":"Surigao del Sur",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":5.3,
@@ -5364,7 +5364,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Sur",
+    "Geolocation":"Surigao del Sur",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2019 February",
     "Price_PHP":6.5,
@@ -5373,7 +5373,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"....Surigao del Sur",
+    "Geolocation":"Surigao del Sur",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5382,7 +5382,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Surigao del Sur",
+    "Geolocation":"Surigao del Sur",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":16.04,
@@ -5391,7 +5391,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Surigao del Sur",
+    "Geolocation":"Surigao del Sur",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -5400,7 +5400,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Tarlac",
+    "Geolocation":"Tarlac",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -5409,7 +5409,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Tarlac",
+    "Geolocation":"Tarlac",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":25.0,
@@ -5418,7 +5418,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Tarlac",
+    "Geolocation":"Tarlac",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":42.0,
@@ -5427,7 +5427,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Tarlac",
+    "Geolocation":"Tarlac",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":22.0,
@@ -5436,7 +5436,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Tarlac",
+    "Geolocation":"Tarlac",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 May",
     "Price_PHP":25.0,
@@ -5445,7 +5445,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Tawi-tawi",
+    "Geolocation":"Tawi-tawi",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 May",
     "Price_PHP":60.0,
@@ -5454,7 +5454,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Tawi-tawi",
+    "Geolocation":"Tawi-tawi",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":67.82,
@@ -5463,7 +5463,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zambales",
+    "Geolocation":"Zambales",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":43.0,
@@ -5472,7 +5472,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zambales",
+    "Geolocation":"Zambales",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2025 August",
     "Price_PHP":14.13,
@@ -5481,7 +5481,7 @@
     "Month_Num":8
   },
   {
-    "Geolocation":"....Zambales",
+    "Geolocation":"Zambales",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2017 September",
     "Price_PHP":5.56,
@@ -5490,7 +5490,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"....Zambales",
+    "Geolocation":"Zambales",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 January",
     "Price_PHP":24.76,
@@ -5499,7 +5499,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Zambales",
+    "Geolocation":"Zambales",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":25.12,
@@ -5508,7 +5508,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Zambales",
+    "Geolocation":"Zambales",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2024 March",
     "Price_PHP":25.0,
@@ -5517,7 +5517,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"....Zambales",
+    "Geolocation":"Zambales",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":40.0,
@@ -5526,7 +5526,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Zamboanga Sibugay",
+    "Geolocation":"Zamboanga Sibugay",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -5535,7 +5535,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga Sibugay",
+    "Geolocation":"Zamboanga Sibugay",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5544,7 +5544,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga Sibugay",
+    "Geolocation":"Zamboanga Sibugay",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -5553,7 +5553,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga Sibugay",
+    "Geolocation":"Zamboanga Sibugay",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2019 December",
     "Price_PHP":12.66,
@@ -5562,7 +5562,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":22.01,
@@ -5571,7 +5571,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Carrot",
     "YearPeriod":"2019 December",
     "Price_PHP":23.68,
@@ -5580,7 +5580,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":22.72,
@@ -5589,7 +5589,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -5598,7 +5598,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2019 November",
     "Price_PHP":5.03,
@@ -5607,7 +5607,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -5616,7 +5616,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -5625,7 +5625,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 January",
     "Price_PHP":12.0,
@@ -5634,7 +5634,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Radish",
     "YearPeriod":"2026 January",
     "Price_PHP":30.0,
@@ -5643,7 +5643,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2025 May",
     "Price_PHP":26.0,
@@ -5652,7 +5652,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"....Zamboanga del Norte",
+    "Geolocation":"Zamboanga del Norte",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":40.0,
@@ -5661,7 +5661,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Arrowroot",
     "YearPeriod":"2025 June",
     "Price_PHP":40.0,
@@ -5670,7 +5670,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":19.51,
@@ -5679,7 +5679,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -5688,7 +5688,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.32,
@@ -5697,7 +5697,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.44,
@@ -5706,7 +5706,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5715,7 +5715,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":15.0,
@@ -5724,7 +5724,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":20.18,
@@ -5733,7 +5733,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -5742,7 +5742,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -5751,7 +5751,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"....Zamboanga del Sur",
+    "Geolocation":"Zamboanga del Sur",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":27.0,
@@ -5760,7 +5760,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":22.31,
@@ -5769,7 +5769,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":49.84,
@@ -5778,7 +5778,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":36.54,
@@ -5787,7 +5787,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":7.97,
@@ -5796,7 +5796,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2025 December",
     "Price_PHP":30.0,
@@ -5805,7 +5805,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -5814,7 +5814,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":72.76,
@@ -5823,7 +5823,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Radish",
     "YearPeriod":"2026 February",
     "Price_PHP":30.0,
@@ -5832,7 +5832,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2024 July",
     "Price_PHP":14.96,
@@ -5841,7 +5841,7 @@
     "Month_Num":7
   },
   {
-    "Geolocation":"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
+    "Geolocation":"BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1\/",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 February",
     "Price_PHP":29.87,
@@ -5850,7 +5850,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.62,
@@ -5859,7 +5859,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":32.88,
@@ -5868,7 +5868,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":48.04,
@@ -5877,7 +5877,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5886,7 +5886,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":59.86,
@@ -5895,7 +5895,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.45,
@@ -5904,7 +5904,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":29.72,
@@ -5913,7 +5913,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":25.39,
@@ -5922,7 +5922,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":38.01,
@@ -5931,7 +5931,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":14.94,
@@ -5940,7 +5940,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 April",
     "Price_PHP":20.0,
@@ -5949,7 +5949,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"..CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Geolocation":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":83.4,
@@ -5958,7 +5958,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Arrowroot",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -5967,7 +5967,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":54.0,
@@ -5976,7 +5976,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.95,
@@ -5985,7 +5985,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":19.61,
@@ -5994,7 +5994,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2015 December",
     "Price_PHP":9.64,
@@ -6003,7 +6003,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":15.51,
@@ -6012,7 +6012,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":18.45,
@@ -6021,7 +6021,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Potato",
     "YearPeriod":"2024 July",
     "Price_PHP":12.6,
@@ -6030,7 +6030,7 @@
     "Month_Num":7
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":46.03,
@@ -6039,7 +6039,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":49.67,
@@ -6048,7 +6048,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..MIMAROPA REGION",
+    "Geolocation":"MIMAROPA REGION",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":57.96,
@@ -6057,7 +6057,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":22.14,
@@ -6066,7 +6066,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":28.8,
@@ -6075,7 +6075,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":10.0,
@@ -6084,7 +6084,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 April",
     "Price_PHP":10.7,
@@ -6093,7 +6093,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -6102,7 +6102,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -6111,7 +6111,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 May",
     "Price_PHP":20.0,
@@ -6120,7 +6120,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -6129,7 +6129,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..NEGROS ISLAND REGION (NIR) 2\/",
+    "Geolocation":"NEGROS ISLAND REGION (NIR) 2\/",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":20.0,
@@ -6138,7 +6138,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Arrowroot",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -6147,7 +6147,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":44.96,
@@ -6156,7 +6156,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":21.96,
@@ -6165,7 +6165,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -6174,7 +6174,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":49.57,
@@ -6183,7 +6183,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2010 December",
     "Price_PHP":12.59,
@@ -6192,7 +6192,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":36.45,
@@ -6201,7 +6201,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":80.0,
@@ -6210,7 +6210,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -6219,7 +6219,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":58.33,
@@ -6228,7 +6228,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION I (ILOCOS REGION)",
+    "Geolocation":"REGION I (ILOCOS REGION)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":58.98,
@@ -6237,7 +6237,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":33.63,
@@ -6246,7 +6246,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":22.01,
@@ -6255,7 +6255,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.63,
@@ -6264,7 +6264,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":4.53,
@@ -6273,7 +6273,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2018 December",
     "Price_PHP":4.25,
@@ -6282,7 +6282,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -6291,7 +6291,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":29.48,
@@ -6300,7 +6300,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":14.43,
@@ -6309,7 +6309,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":20.6,
@@ -6318,7 +6318,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -6327,7 +6327,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -6336,7 +6336,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 May",
     "Price_PHP":30.0,
@@ -6345,7 +6345,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION II (CAGAYAN VALLEY)",
+    "Geolocation":"REGION II (CAGAYAN VALLEY)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -6354,7 +6354,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.84,
@@ -6363,7 +6363,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":16.53,
@@ -6372,7 +6372,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 February",
     "Price_PHP":5.41,
@@ -6381,7 +6381,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -6390,7 +6390,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.41,
@@ -6399,7 +6399,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 January",
     "Price_PHP":60.0,
@@ -6408,7 +6408,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":22.0,
@@ -6417,7 +6417,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 May",
     "Price_PHP":25.0,
@@ -6426,7 +6426,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION III (CENTRAL LUZON)",
+    "Geolocation":"REGION III (CENTRAL LUZON)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 May",
     "Price_PHP":50.0,
@@ -6435,7 +6435,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Arrowroot",
     "YearPeriod":"2024 May",
     "Price_PHP":9.8,
@@ -6444,7 +6444,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":33.43,
@@ -6453,7 +6453,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Carrot",
     "YearPeriod":"2026 February",
     "Price_PHP":300.0,
@@ -6462,7 +6462,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":23.31,
@@ -6471,7 +6471,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 March",
     "Price_PHP":30.0,
@@ -6480,7 +6480,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":72.0,
@@ -6489,7 +6489,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -6498,7 +6498,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":50.0,
@@ -6507,7 +6507,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":58.02,
@@ -6516,7 +6516,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 May",
     "Price_PHP":47.0,
@@ -6525,7 +6525,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION IV-A (CALABARZON)",
+    "Geolocation":"REGION IV-A (CALABARZON)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":63.94,
@@ -6534,7 +6534,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Arrowroot",
     "YearPeriod":"2025 June",
     "Price_PHP":40.0,
@@ -6543,7 +6543,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":23.84,
@@ -6552,7 +6552,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":68.63,
@@ -6561,7 +6561,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.37,
@@ -6570,7 +6570,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":15.16,
@@ -6579,7 +6579,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2019 November",
     "Price_PHP":5.03,
@@ -6588,7 +6588,7 @@
     "Month_Num":11
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":28.68,
@@ -6597,7 +6597,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":19.04,
@@ -6606,7 +6606,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":20.18,
@@ -6615,7 +6615,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 January",
     "Price_PHP":12.0,
@@ -6624,7 +6624,7 @@
     "Month_Num":1
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":26.31,
@@ -6633,7 +6633,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":35.0,
@@ -6642,7 +6642,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION IX (ZAMBOANGA PENINSULA) 3\/",
+    "Geolocation":"REGION IX (ZAMBOANGA PENINSULA) 3\/",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":27.0,
@@ -6651,7 +6651,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":38.71,
@@ -6660,7 +6660,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.68,
@@ -6669,7 +6669,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":29.53,
@@ -6678,7 +6678,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":58.06,
@@ -6687,7 +6687,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":50.38,
@@ -6696,7 +6696,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":14.55,
@@ -6705,7 +6705,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -6714,7 +6714,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":43.82,
@@ -6723,7 +6723,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.0,
@@ -6732,7 +6732,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION V (BICOL REGION)",
+    "Geolocation":"REGION V (BICOL REGION)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":51.39,
@@ -6741,7 +6741,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.5,
@@ -6750,7 +6750,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":41.69,
@@ -6759,7 +6759,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":19.37,
@@ -6768,7 +6768,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2025 April",
     "Price_PHP":15.0,
@@ -6777,7 +6777,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":21.01,
@@ -6786,7 +6786,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":16.81,
@@ -6795,7 +6795,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":20.23,
@@ -6804,7 +6804,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -6813,7 +6813,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":27.41,
@@ -6822,7 +6822,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":34.63,
@@ -6831,7 +6831,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VI (WESTERN VISAYAS)",
+    "Geolocation":"REGION VI (WESTERN VISAYAS)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":34.49,
@@ -6840,7 +6840,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":29.73,
@@ -6849,7 +6849,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,
@@ -6858,7 +6858,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":13.73,
@@ -6867,7 +6867,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":14.18,
@@ -6876,7 +6876,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":30.08,
@@ -6885,7 +6885,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":55.74,
@@ -6894,7 +6894,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2018 December",
     "Price_PHP":31.82,
@@ -6903,7 +6903,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -6912,7 +6912,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -6921,7 +6921,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 May",
     "Price_PHP":70.0,
@@ -6930,7 +6930,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION VII (CENTRAL VISAYAS)",
+    "Geolocation":"REGION VII (CENTRAL VISAYAS)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":78.26,
@@ -6939,7 +6939,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":40.23,
@@ -6948,7 +6948,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Carrot",
     "YearPeriod":"2025 August",
     "Price_PHP":90.0,
@@ -6957,7 +6957,7 @@
     "Month_Num":8
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":34.71,
@@ -6966,7 +6966,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":12.0,
@@ -6975,7 +6975,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":63.03,
@@ -6984,7 +6984,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":28.14,
@@ -6993,7 +6993,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":32.26,
@@ -7002,7 +7002,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 May",
     "Price_PHP":16.25,
@@ -7011,7 +7011,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Potato",
     "YearPeriod":"2024 September",
     "Price_PHP":28.51,
@@ -7020,7 +7020,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Radish",
     "YearPeriod":"2025 August",
     "Price_PHP":35.0,
@@ -7029,7 +7029,7 @@
     "Month_Num":8
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2024 June",
     "Price_PHP":44.49,
@@ -7038,7 +7038,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION VIII (EASTERN VISAYAS)",
+    "Geolocation":"REGION VIII (EASTERN VISAYAS)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 February",
     "Price_PHP":50.0,
@@ -7047,7 +7047,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Arrowroot",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -7056,7 +7056,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":27.0,
@@ -7065,7 +7065,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":44.25,
@@ -7074,7 +7074,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":19.63,
@@ -7083,7 +7083,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":8.2,
@@ -7092,7 +7092,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2019 March",
     "Price_PHP":8.12,
@@ -7101,7 +7101,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":26.45,
@@ -7110,7 +7110,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":22.35,
@@ -7119,7 +7119,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2025 December",
     "Price_PHP":15.0,
@@ -7128,7 +7128,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":70.0,
@@ -7137,7 +7137,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":17.23,
@@ -7146,7 +7146,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":45.0,
@@ -7155,7 +7155,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION X (NORTHERN MINDANAO)",
+    "Geolocation":"REGION X (NORTHERN MINDANAO)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":47.64,
@@ -7164,7 +7164,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":24.01,
@@ -7173,7 +7173,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":40.57,
@@ -7182,7 +7182,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":14.39,
@@ -7191,7 +7191,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 May",
     "Price_PHP":8.0,
@@ -7200,7 +7200,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":18.38,
@@ -7209,7 +7209,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 May",
     "Price_PHP":20.0,
@@ -7218,7 +7218,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":23.55,
@@ -7227,7 +7227,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":30.0,
@@ -7236,7 +7236,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":28.22,
@@ -7245,7 +7245,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -7254,7 +7254,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XI (DAVAO REGION)",
+    "Geolocation":"REGION XI (DAVAO REGION)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":42.46,
@@ -7263,7 +7263,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":32.7,
@@ -7272,7 +7272,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Carrot",
     "YearPeriod":"2026 June",
     "Price_PHP":64.52,
@@ -7281,7 +7281,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":20.0,
@@ -7290,7 +7290,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":2.85,
@@ -7299,7 +7299,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":18.28,
@@ -7308,7 +7308,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":10.84,
@@ -7317,7 +7317,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2012 December",
     "Price_PHP":10.72,
@@ -7326,7 +7326,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 May",
     "Price_PHP":10.0,
@@ -7335,7 +7335,7 @@
     "Month_Num":5
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Potato",
     "YearPeriod":"2026 June",
     "Price_PHP":47.15,
@@ -7344,7 +7344,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Radish",
     "YearPeriod":"2026 June",
     "Price_PHP":27.95,
@@ -7353,7 +7353,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Singkamas [Turnip]",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -7362,7 +7362,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XII (SOCCSKSARGEN)",
+    "Geolocation":"REGION XII (SOCCSKSARGEN)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 April",
     "Price_PHP":35.0,
@@ -7371,7 +7371,7 @@
     "Month_Num":4
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Camote [Sweet potato]",
     "YearPeriod":"2026 June",
     "Price_PHP":20.54,
@@ -7380,7 +7380,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Carrot",
     "YearPeriod":"2024 March",
     "Price_PHP":20.0,
@@ -7389,7 +7389,7 @@
     "Month_Num":3
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Cassava for food, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":19.06,
@@ -7398,7 +7398,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Cassava for industrial use, fresh tubers",
     "YearPeriod":"2026 June",
     "Price_PHP":8.01,
@@ -7407,7 +7407,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Cassava, dried chips",
     "YearPeriod":"2019 February",
     "Price_PHP":6.5,
@@ -7416,7 +7416,7 @@
     "Month_Num":2
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Gabi for ginataan, Cebu [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":15.53,
@@ -7425,7 +7425,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Gabi for sinigang, Tagalog [Taro]",
     "YearPeriod":"2026 June",
     "Price_PHP":14.0,
@@ -7434,7 +7434,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Gabi with stalk [Dasheen]",
     "YearPeriod":"2023 December",
     "Price_PHP":16.04,
@@ -7443,7 +7443,7 @@
     "Month_Num":12
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Pao Galiang",
     "YearPeriod":"2026 June",
     "Price_PHP":25.0,
@@ -7452,7 +7452,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Potato",
     "YearPeriod":"2025 June",
     "Price_PHP":100.0,
@@ -7461,7 +7461,7 @@
     "Month_Num":6
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Radish",
     "YearPeriod":"2024 September",
     "Price_PHP":15.0,
@@ -7470,7 +7470,7 @@
     "Month_Num":9
   },
   {
-    "Geolocation":"..REGION XIII (CARAGA)",
+    "Geolocation":"REGION XIII (CARAGA)",
     "Commodity":"Ubi [Greater yam]",
     "YearPeriod":"2026 June",
     "Price_PHP":60.0,

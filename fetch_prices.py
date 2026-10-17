@@ -74,6 +74,9 @@ def main():
 
     df["Month_Num"] = df["Month"].map(MONTH_MAP)
     df = df.groupby(["Geolocation", "Commodity"]).last().reset_index()
+    df["Geolocation"] = df["Geolocation"].str.replace("......", "", regex=False)
+    df["Geolocation"] = df["Geolocation"].str.replace("....", "", regex=False)
+    df["Geolocation"] = df["Geolocation"].str.replace("..", "", regex=False)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     df.to_csv(CSV_PATH, index=False)

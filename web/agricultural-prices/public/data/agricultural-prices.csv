@@ -1,835 +1,835 @@
 Geolocation,Commodity,YearPeriod,Price_PHP,Year,Month,Month_Num
-......City of Butuan,Camote [Sweet potato],2026 June,23.33,2026,June,6
-......City of Butuan,"Cassava for food, fresh tubers",2026 June,13.75,2026,June,6
-......City of Davao,Camote [Sweet potato],2026 June,15.0,2026,June,6
-......City of Davao,"Cassava for food, fresh tubers",2026 May,10.0,2026,May,5
-......City of Davao,"Cassava for industrial use, fresh tubers",2023 December,6.18,2023,December,12
-......City of Davao,"Gabi for ginataan, Cebu [Taro]",2026 April,15.0,2026,April,4
-......City of Davao,Potato,2023 December,98.02,2023,December,12
-......City of Davao,Radish,2026 May,15.0,2026,May,5
-......City of Puerto Princesa,Ubi [Greater yam],2026 April,15.0,2026,April,4
-......City of Zamboanga,Camote [Sweet potato],2026 June,30.0,2026,June,6
-......City of Zamboanga,Carrot,2026 June,70.0,2026,June,6
-......City of Zamboanga,"Cassava for food, fresh tubers",2026 June,40.0,2026,June,6
-......City of Zamboanga,"Cassava for industrial use, fresh tubers",2026 June,20.0,2026,June,6
-......City of Zamboanga,"Gabi for ginataan, Cebu [Taro]",2026 May,20.0,2026,May,5
-......City of Zamboanga,Radish,2026 June,25.0,2026,June,6
-......Maguindanao del Norte,Camote [Sweet potato],2026 June,20.0,2026,June,6
-......Maguindanao del Norte,Carrot,2026 June,50.0,2026,June,6
-......Maguindanao del Norte,"Cassava for food, fresh tubers",2026 May,19.09,2026,May,5
-......Maguindanao del Norte,Potato,2026 January,40.0,2026,January,1
-......Maguindanao del Norte,Radish,2026 February,30.0,2026,February,2
-......Maguindanao del Norte,Ubi [Greater yam],2025 September,49.99,2025,September,9
-......Maguindanao del Sur,Camote [Sweet potato],2026 May,26.4,2026,May,5
-......Maguindanao del Sur,Carrot,2025 May,44.56,2025,May,5
-......Maguindanao del Sur,"Cassava for food, fresh tubers",2026 June,13.0,2026,June,6
-......Maguindanao del Sur,Potato,2026 June,72.76,2026,June,6
-....Abra,Camote [Sweet potato],2026 May,34.79,2026,May,5
-....Abra,"Cassava for food, fresh tubers",2026 April,20.0,2026,April,4
-....Abra,"Gabi for sinigang, Tagalog [Taro]",2026 April,30.0,2026,April,4
-....Abra,Singkamas [Turnip],2026 April,20.0,2026,April,4
-....Agusan del Norte,Camote [Sweet potato],2026 June,30.0,2026,June,6
-....Agusan del Norte,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
-....Agusan del Norte,"Cassava for industrial use, fresh tubers",2024 October,20.0,2024,October,10
-....Agusan del Norte,"Gabi for ginataan, Cebu [Taro]",2026 April,14.25,2026,April,4
-....Agusan del Norte,"Gabi for sinigang, Tagalog [Taro]",2026 January,20.0,2026,January,1
-....Agusan del Norte,Gabi with stalk [Dasheen],2021 December,15.91,2021,December,12
-....Agusan del Norte,Potato,2025 June,100.0,2025,June,6
-....Agusan del Norte,Radish,2024 September,15.0,2024,September,9
-....Agusan del Norte,Ubi [Greater yam],2026 March,30.0,2026,March,3
-....Agusan del Sur,Camote [Sweet potato],2026 June,12.17,2026,June,6
-....Agusan del Sur,"Cassava for food, fresh tubers",2026 June,14.8,2026,June,6
-....Agusan del Sur,"Cassava for industrial use, fresh tubers",2026 June,9.0,2026,June,6
-....Agusan del Sur,"Gabi for ginataan, Cebu [Taro]",2026 June,15.0,2026,June,6
-....Agusan del Sur,"Gabi for sinigang, Tagalog [Taro]",2026 June,14.0,2026,June,6
-....Agusan del Sur,Gabi with stalk [Dasheen],2023 November,29.81,2023,November,11
-....Aklan,Camote [Sweet potato],2026 June,25.0,2026,June,6
-....Aklan,"Cassava for food, fresh tubers",2026 June,18.0,2026,June,6
-....Aklan,"Gabi for sinigang, Tagalog [Taro]",2026 June,35.0,2026,June,6
-....Aklan,Gabi with stalk [Dasheen],2023 December,20.97,2023,December,12
-....Aklan,Radish,2026 June,60.0,2026,June,6
-....Aklan,Singkamas [Turnip],2026 June,30.0,2026,June,6
-....Aklan,Ubi [Greater yam],2026 June,35.0,2026,June,6
-....Albay,Camote [Sweet potato],2026 June,39.2,2026,June,6
-....Albay,"Cassava for food, fresh tubers",2026 June,28.04,2026,June,6
-....Albay,"Cassava for industrial use, fresh tubers",2026 May,29.53,2026,May,5
-....Albay,"Gabi for ginataan, Cebu [Taro]",2025 November,20.0,2025,November,11
-....Albay,"Gabi for sinigang, Tagalog [Taro]",2026 March,25.0,2026,March,3
-....Albay,Gabi with stalk [Dasheen],2023 December,14.55,2023,December,12
-....Albay,Radish,2026 March,30.0,2026,March,3
-....Albay,Singkamas [Turnip],2026 March,30.0,2026,March,3
-....Albay,Ubi [Greater yam],2025 October,30.0,2025,October,10
-....Antique,Camote [Sweet potato],2026 June,45.0,2026,June,6
-....Antique,Carrot,2026 June,60.0,2026,June,6
-....Antique,"Cassava for food, fresh tubers",2026 June,23.91,2026,June,6
-....Antique,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
-....Antique,"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
-....Antique,Gabi with stalk [Dasheen],2023 December,20.12,2023,December,12
-....Antique,Radish,2026 June,35.0,2026,June,6
-....Antique,Singkamas [Turnip],2026 June,35.0,2026,June,6
-....Antique,Ubi [Greater yam],2026 June,50.0,2026,June,6
-....Apayao,Camote [Sweet potato],2026 June,40.0,2026,June,6
-....Apayao,"Cassava for food, fresh tubers",2026 May,25.0,2026,May,5
-....Apayao,"Cassava for industrial use, fresh tubers",2026 June,20.0,2026,June,6
-....Apayao,"Gabi for ginataan, Cebu [Taro]",2026 February,26.6,2026,February,2
-....Apayao,"Gabi for sinigang, Tagalog [Taro]",2026 May,25.0,2026,May,5
-....Apayao,Gabi with stalk [Dasheen],2023 December,21.06,2023,December,12
-....Apayao,Pao Galiang,2026 June,20.0,2026,June,6
-....Apayao,Ubi [Greater yam],2026 June,45.0,2026,June,6
-....Aurora,Camote [Sweet potato],2026 June,50.0,2026,June,6
-....Aurora,"Cassava for food, fresh tubers",2026 April,15.0,2026,April,4
-....Aurora,"Cassava for industrial use, fresh tubers",2024 November,12.2,2024,November,11
-....Aurora,"Gabi for ginataan, Cebu [Taro]",2026 May,17.5,2026,May,5
-....Aurora,"Gabi for sinigang, Tagalog [Taro]",2026 May,25.0,2026,May,5
-....Aurora,Pao Galiang,2026 January,60.0,2026,January,1
-....Aurora,Ubi [Greater yam],2026 May,50.0,2026,May,5
-....Basilan,Camote [Sweet potato],2026 June,42.0,2026,June,6
-....Basilan,"Cassava for food, fresh tubers",2026 June,19.61,2026,June,6
-....Basilan,"Gabi for ginataan, Cebu [Taro]",2025 September,40.0,2025,September,9
-....Basilan,Radish,2025 June,50.0,2025,June,6
-....Bataan,Camote [Sweet potato],2026 April,25.0,2026,April,4
-....Bataan,"Cassava for food, fresh tubers",2026 June,30.0,2026,June,6
-....Bataan,"Gabi for ginataan, Cebu [Taro]",2026 June,25.0,2026,June,6
-....Bataan,"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
-....Bataan,Ubi [Greater yam],2024 December,48.33,2024,December,12
-....Batanes,Camote [Sweet potato],2026 June,42.2,2026,June,6
-....Batanes,Carrot,2026 June,83.33,2026,June,6
-....Batanes,"Cassava for food, fresh tubers",2025 September,40.0,2025,September,9
-....Batanes,"Gabi for ginataan, Cebu [Taro]",2026 April,50.0,2026,April,4
-....Batanes,"Gabi for sinigang, Tagalog [Taro]",2026 March,50.0,2026,March,3
-....Batanes,Pao Galiang,2014 March,7.91,2014,March,3
-....Batanes,Radish,2026 March,80.0,2026,March,3
-....Batanes,Ubi [Greater yam],2026 June,50.0,2026,June,6
-....Batangas,Camote [Sweet potato],2026 June,20.0,2026,June,6
-....Batangas,"Cassava for food, fresh tubers",2026 June,24.41,2026,June,6
-....Batangas,"Cassava for industrial use, fresh tubers",2017 August,5.0,2017,August,8
-....Batangas,"Gabi for ginataan, Cebu [Taro]",2026 June,72.0,2026,June,6
-....Batangas,"Gabi for sinigang, Tagalog [Taro]",2026 May,20.0,2026,May,5
-....Batangas,Radish,2026 February,30.0,2026,February,2
-....Batangas,Singkamas [Turnip],2026 May,47.0,2026,May,5
-....Batangas,Ubi [Greater yam],2026 June,65.0,2026,June,6
-....Benguet,Camote [Sweet potato],2026 June,47.18,2026,June,6
-....Benguet,Carrot,2026 June,31.84,2026,June,6
-....Benguet,"Cassava for food, fresh tubers",2026 June,48.11,2026,June,6
-....Benguet,"Cassava for industrial use, fresh tubers",2026 May,13.0,2026,May,5
-....Benguet,"Gabi for ginataan, Cebu [Taro]",2026 June,56.67,2026,June,6
-....Benguet,"Gabi for sinigang, Tagalog [Taro]",2026 March,25.0,2026,March,3
-....Benguet,Gabi with stalk [Dasheen],2023 December,47.18,2023,December,12
-....Benguet,Pao Galiang,2024 September,25.0,2024,September,9
-....Benguet,Potato,2026 June,38.01,2026,June,6
-....Benguet,Radish,2026 June,12.0,2026,June,6
-....Benguet,Ubi [Greater yam],2026 June,86.67,2026,June,6
-....Biliran,Camote [Sweet potato],2026 June,40.0,2026,June,6
-....Biliran,"Cassava for food, fresh tubers",2026 May,27.31,2026,May,5
-....Biliran,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
-....Bohol,Camote [Sweet potato],2026 June,40.0,2026,June,6
-....Bohol,"Cassava for food, fresh tubers",2026 June,12.12,2026,June,6
-....Bohol,"Cassava for industrial use, fresh tubers",2026 June,5.0,2026,June,6
-....Bohol,"Gabi for ginataan, Cebu [Taro]",2026 June,30.29,2026,June,6
-....Bohol,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
-....Bohol,Radish,2025 October,50.0,2025,October,10
-....Bohol,Singkamas [Turnip],2026 May,70.0,2026,May,5
-....Bohol,Ubi [Greater yam],2026 June,80.0,2026,June,6
-....Bukidnon,Arrowroot,2026 June,20.0,2026,June,6
-....Bukidnon,Camote [Sweet potato],2026 June,25.0,2026,June,6
-....Bukidnon,Carrot,2026 June,40.0,2026,June,6
-....Bukidnon,"Cassava for food, fresh tubers",2026 June,13.0,2026,June,6
-....Bukidnon,"Cassava for industrial use, fresh tubers",2026 June,7.23,2026,June,6
-....Bukidnon,"Gabi for ginataan, Cebu [Taro]",2026 June,40.0,2026,June,6
-....Bukidnon,"Gabi for sinigang, Tagalog [Taro]",2026 June,30.0,2026,June,6
-....Bukidnon,Pao Galiang,2025 December,15.0,2025,December,12
-....Bukidnon,Potato,2026 June,70.0,2026,June,6
-....Bukidnon,Radish,2026 June,14.15,2026,June,6
-....Bukidnon,Singkamas [Turnip],2026 June,45.0,2026,June,6
-....Bukidnon,Ubi [Greater yam],2026 June,65.0,2026,June,6
-....Bulacan,Camote [Sweet potato],2026 June,35.0,2026,June,6
-....Bulacan,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
-....Bulacan,"Gabi for sinigang, Tagalog [Taro]",2024 June,45.0,2024,June,6
-....Bulacan,Singkamas [Turnip],2024 June,60.0,2024,June,6
-....Cagayan,Camote [Sweet potato],2026 June,31.41,2026,June,6
-....Cagayan,Carrot,2026 June,50.0,2026,June,6
-....Cagayan,"Cassava for food, fresh tubers",2026 June,24.63,2026,June,6
-....Cagayan,"Cassava for industrial use, fresh tubers",2025 March,20.0,2025,March,3
-....Cagayan,"Cassava, dried chips",2018 December,4.25,2018,December,12
-....Cagayan,"Gabi for ginataan, Cebu [Taro]",2026 March,23.56,2026,March,3
-....Cagayan,"Gabi for sinigang, Tagalog [Taro]",2026 May,40.75,2026,May,5
-....Cagayan,Gabi with stalk [Dasheen],2023 December,16.39,2023,December,12
-....Cagayan,Radish,2026 May,50.0,2026,May,5
-....Cagayan,Singkamas [Turnip],2025 March,50.0,2025,March,3
-....Cagayan,Ubi [Greater yam],2026 April,50.0,2026,April,4
-....Camarines Norte,Camote [Sweet potato],2026 May,33.81,2026,May,5
-....Camarines Norte,"Cassava for food, fresh tubers",2026 June,26.78,2026,June,6
-....Camarines Norte,"Cassava for industrial use, fresh tubers",2018 August,7.24,2018,August,8
-....Camarines Norte,"Gabi for sinigang, Tagalog [Taro]",2026 March,21.0,2026,March,3
-....Camarines Sur,Camote [Sweet potato],2026 June,36.98,2026,June,6
-....Camarines Sur,"Cassava for food, fresh tubers",2026 June,15.53,2026,June,6
-....Camarines Sur,"Cassava for industrial use, fresh tubers",2024 January,10.0,2024,January,1
-....Camarines Sur,"Gabi for ginataan, Cebu [Taro]",2024 March,40.0,2024,March,3
-....Camarines Sur,"Gabi for sinigang, Tagalog [Taro]",2026 May,52.37,2026,May,5
-....Camarines Sur,Gabi with stalk [Dasheen],2013 November,11.07,2013,November,11
-....Camarines Sur,Pao Galiang,2026 June,30.0,2026,June,6
-....Camarines Sur,Radish,2026 June,60.0,2026,June,6
-....Camarines Sur,Singkamas [Turnip],2026 June,40.0,2026,June,6
-....Camarines Sur,Ubi [Greater yam],2026 June,40.0,2026,June,6
-....Camiguin,Camote [Sweet potato],2026 June,30.0,2026,June,6
-....Camiguin,"Cassava for food, fresh tubers",2026 June,35.0,2026,June,6
-....Camiguin,"Cassava, dried chips",2018 March,7.0,2018,March,3
-....Camiguin,"Gabi for ginataan, Cebu [Taro]",2026 June,37.28,2026,June,6
-....Camiguin,"Gabi for sinigang, Tagalog [Taro]",2025 June,20.0,2025,June,6
-....Camiguin,Ubi [Greater yam],2026 May,50.0,2026,May,5
-....Capiz,Camote [Sweet potato],2026 June,27.63,2026,June,6
-....Capiz,"Cassava for food, fresh tubers",2026 June,23.35,2026,June,6
-....Capiz,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
-....Capiz,"Gabi for sinigang, Tagalog [Taro]",2026 June,18.93,2026,June,6
-....Capiz,Gabi with stalk [Dasheen],2023 December,21.17,2023,December,12
-....Capiz,Radish,2026 June,80.0,2026,June,6
-....Catanduanes,Camote [Sweet potato],2026 June,41.45,2026,June,6
-....Catanduanes,"Cassava for food, fresh tubers",2026 June,31.26,2026,June,6
-....Catanduanes,"Gabi for ginataan, Cebu [Taro]",2026 April,40.0,2026,April,4
-....Catanduanes,"Gabi for sinigang, Tagalog [Taro]",2026 June,45.0,2026,June,6
-....Catanduanes,Radish,2026 June,60.0,2026,June,6
-....Catanduanes,Ubi [Greater yam],2026 June,80.0,2026,June,6
-....Cavite,Camote [Sweet potato],2026 April,50.0,2026,April,4
-....Cavite,Carrot,2026 February,300.0,2026,February,2
-....Cavite,"Cassava for food, fresh tubers",2026 June,17.01,2026,June,6
-....Cavite,"Gabi for ginataan, Cebu [Taro]",2026 January,15.0,2026,January,1
-....Cavite,"Gabi for sinigang, Tagalog [Taro]",2026 April,40.0,2026,April,4
-....Cavite,Radish,2026 January,33.91,2026,January,1
-....Cavite,Ubi [Greater yam],2026 May,49.84,2026,May,5
-....Cebu,Camote [Sweet potato],2026 June,27.69,2026,June,6
-....Cebu,Carrot,2026 June,60.0,2026,June,6
-....Cebu,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
-....Cebu,"Cassava for industrial use, fresh tubers",2026 June,15.0,2026,June,6
-....Cebu,"Gabi for ginataan, Cebu [Taro]",2026 June,30.02,2026,June,6
-....Cebu,"Gabi for sinigang, Tagalog [Taro]",2026 June,60.0,2026,June,6
-....Cebu,Gabi with stalk [Dasheen],2018 December,31.82,2018,December,12
-....Cebu,Pao Galiang,2026 June,30.0,2026,June,6
-....Cebu,Radish,2026 June,45.0,2026,June,6
-....Cebu,Ubi [Greater yam],2026 June,60.0,2026,June,6
-....Cotabato,Camote [Sweet potato],2026 June,35.0,2026,June,6
-....Cotabato,"Cassava for food, fresh tubers",2026 April,12.0,2026,April,4
-....Cotabato,"Cassava for industrial use, fresh tubers",2026 April,9.0,2026,April,4
-....Cotabato,"Gabi for ginataan, Cebu [Taro]",2026 April,40.0,2026,April,4
-....Cotabato,Potato,2026 June,50.0,2026,June,6
-....Cotabato,Radish,2026 April,40.0,2026,April,4
-....Cotabato,Singkamas [Turnip],2026 April,20.0,2026,April,4
-....Davao Occidental,Camote [Sweet potato],2026 June,35.0,2026,June,6
-....Davao Occidental,"Cassava for food, fresh tubers",2026 June,13.0,2026,June,6
-....Davao Occidental,"Cassava for industrial use, fresh tubers",2026 March,12.0,2026,March,3
-....Davao Occidental,Pao Galiang,2026 June,18.0,2026,June,6
-....Davao Occidental,Ubi [Greater yam],2026 June,35.0,2026,June,6
-....Davao Oriental,Camote [Sweet potato],2026 June,29.43,2026,June,6
-....Davao Oriental,Carrot,2026 June,50.0,2026,June,6
-....Davao Oriental,"Cassava for food, fresh tubers",2026 June,17.35,2026,June,6
-....Davao Oriental,"Gabi for ginataan, Cebu [Taro]",2026 June,22.0,2026,June,6
-....Davao Oriental,"Gabi for sinigang, Tagalog [Taro]",2024 July,15.0,2024,July,7
-....Davao Oriental,Pao Galiang,2026 June,20.0,2026,June,6
-....Davao Oriental,Radish,2026 June,40.0,2026,June,6
-....Davao Oriental,Ubi [Greater yam],2026 June,35.0,2026,June,6
-....Davao de Oro,Camote [Sweet potato],2026 June,29.66,2026,June,6
-....Davao de Oro,Carrot,2026 June,60.0,2026,June,6
-....Davao de Oro,"Cassava for food, fresh tubers",2026 June,13.99,2026,June,6
-....Davao de Oro,"Cassava for industrial use, fresh tubers",2018 December,4.0,2018,December,12
-....Davao de Oro,"Gabi for ginataan, Cebu [Taro]",2026 March,30.0,2026,March,3
-....Davao de Oro,"Gabi for sinigang, Tagalog [Taro]",2026 March,30.0,2026,March,3
-....Davao de Oro,Pao Galiang,2026 June,25.0,2026,June,6
-....Davao de Oro,Radish,2026 June,30.0,2026,June,6
-....Davao de Oro,Singkamas [Turnip],2026 June,20.0,2026,June,6
-....Davao de Oro,Ubi [Greater yam],2026 June,45.0,2026,June,6
-....Davao del Norte,Camote [Sweet potato],2026 June,15.0,2026,June,6
-....Davao del Norte,"Cassava for food, fresh tubers",2026 June,12.0,2026,June,6
-....Davao del Norte,"Cassava for industrial use, fresh tubers",2018 June,7.14,2018,June,6
-....Davao del Norte,"Gabi for ginataan, Cebu [Taro]",2026 June,15.0,2026,June,6
-....Davao del Norte,Pao Galiang,2026 June,20.0,2026,June,6
-....Davao del Norte,Potato,2026 June,30.0,2026,June,6
-....Davao del Sur,Camote [Sweet potato],2026 June,17.44,2026,June,6
-....Davao del Sur,Carrot,2026 June,40.0,2026,June,6
-....Davao del Sur,"Cassava for food, fresh tubers",2026 June,12.0,2026,June,6
-....Davao del Sur,"Cassava for industrial use, fresh tubers",2026 May,8.0,2026,May,5
-....Davao del Sur,"Gabi for ginataan, Cebu [Taro]",2018 November,6.54,2018,November,11
-....Davao del Sur,"Gabi for sinigang, Tagalog [Taro]",2026 May,20.0,2026,May,5
-....Davao del Sur,Potato,2026 May,75.0,2026,May,5
-....Davao del Sur,Radish,2026 June,15.0,2026,June,6
-....Dinagat Islands,Camote [Sweet potato],2026 June,50.52,2026,June,6
-....Dinagat Islands,"Cassava for food, fresh tubers",2026 June,37.91,2026,June,6
-....Dinagat Islands,"Cassava for industrial use, fresh tubers",2025 June,30.0,2025,June,6
-....Dinagat Islands,"Gabi for ginataan, Cebu [Taro]",2026 January,50.0,2026,January,1
-....Dinagat Islands,"Gabi for sinigang, Tagalog [Taro]",2026 February,60.0,2026,February,2
-....Dinagat Islands,Pao Galiang,2026 March,20.0,2026,March,3
-....Dinagat Islands,Ubi [Greater yam],2026 June,60.0,2026,June,6
-....Eastern Samar,Camote [Sweet potato],2026 June,36.4,2026,June,6
-....Eastern Samar,"Cassava for food, fresh tubers",2026 June,27.06,2026,June,6
-....Eastern Samar,"Cassava for industrial use, fresh tubers",2025 December,24.47,2025,December,12
-....Eastern Samar,"Gabi for ginataan, Cebu [Taro]",2026 June,34.86,2026,June,6
-....Eastern Samar,"Gabi for sinigang, Tagalog [Taro]",2026 March,29.38,2026,March,3
-....Eastern Samar,Pao Galiang,2026 March,30.0,2026,March,3
-....Eastern Samar,Potato,2024 March,20.0,2024,March,3
-....Eastern Samar,Ubi [Greater yam],2024 June,60.0,2024,June,6
-....Guimaras,Camote [Sweet potato],2026 June,35.0,2026,June,6
-....Guimaras,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
-....Guimaras,"Gabi for sinigang, Tagalog [Taro]",2025 October,20.0,2025,October,10
-....Guimaras,Radish,2026 June,120.0,2026,June,6
-....Ifugao,Camote [Sweet potato],2026 June,39.3,2026,June,6
-....Ifugao,Carrot,2026 June,31.91,2026,June,6
-....Ifugao,"Cassava for food, fresh tubers",2026 June,40.0,2026,June,6
-....Ifugao,"Gabi for ginataan, Cebu [Taro]",2026 June,70.0,2026,June,6
-....Ifugao,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
-....Ifugao,Gabi with stalk [Dasheen],2020 December,20.89,2020,December,12
-....Ifugao,Pao Galiang,2026 June,26.02,2026,June,6
-....Ifugao,Potato,2026 May,50.0,2026,May,5
-....Ilocos Norte,Camote [Sweet potato],2026 June,35.0,2026,June,6
-....Ilocos Norte,"Cassava for food, fresh tubers",2026 June,30.0,2026,June,6
-....Ilocos Norte,"Gabi for ginataan, Cebu [Taro]",2025 June,30.0,2025,June,6
-....Ilocos Norte,"Gabi for sinigang, Tagalog [Taro]",2026 June,30.0,2026,June,6
-....Ilocos Norte,Gabi with stalk [Dasheen],2010 December,12.59,2010,December,12
-....Ilocos Norte,Singkamas [Turnip],2026 June,35.0,2026,June,6
-....Ilocos Norte,Ubi [Greater yam],2026 June,50.0,2026,June,6
-....Ilocos Sur,Camote [Sweet potato],2026 June,60.0,2026,June,6
-....Ilocos Sur,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
-....Ilocos Sur,"Gabi for ginataan, Cebu [Taro]",2025 November,40.0,2025,November,11
-....Ilocos Sur,"Gabi for sinigang, Tagalog [Taro]",2026 April,60.0,2026,April,4
-....Ilocos Sur,Potato,2025 December,90.0,2025,December,12
-....Ilocos Sur,Radish,2024 February,60.0,2024,February,2
-....Ilocos Sur,Singkamas [Turnip],2026 April,20.0,2026,April,4
-....Ilocos Sur,Ubi [Greater yam],2026 June,60.0,2026,June,6
-....Iloilo,Camote [Sweet potato],2026 June,32.6,2026,June,6
-....Iloilo,Carrot,2026 June,40.0,2026,June,6
-....Iloilo,"Cassava for food, fresh tubers",2026 June,18.39,2026,June,6
-....Iloilo,"Cassava for industrial use, fresh tubers",2025 April,15.0,2025,April,4
-....Iloilo,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
-....Iloilo,"Gabi for sinigang, Tagalog [Taro]",2026 June,9.2,2026,June,6
-....Iloilo,Gabi with stalk [Dasheen],2023 December,17.86,2023,December,12
-....Iloilo,Pao Galiang,2026 June,20.0,2026,June,6
-....Iloilo,Radish,2026 June,21.46,2026,June,6
-....Iloilo,Ubi [Greater yam],2026 June,25.0,2026,June,6
-....Isabela,Camote [Sweet potato],2026 June,20.0,2026,June,6
-....Isabela,"Cassava for food, fresh tubers",2026 March,13.0,2026,March,3
-....Isabela,"Cassava for industrial use, fresh tubers",2026 June,4.5,2026,June,6
-....Isabela,"Gabi for ginataan, Cebu [Taro]",2025 October,15.0,2025,October,10
-....Isabela,"Gabi for sinigang, Tagalog [Taro]",2026 April,28.0,2026,April,4
-....Isabela,Gabi with stalk [Dasheen],2023 December,12.08,2023,December,12
-....Isabela,Radish,2026 March,40.0,2026,March,3
-....Isabela,Singkamas [Turnip],2024 March,25.0,2024,March,3
-....Kalinga,Camote [Sweet potato],2026 June,30.0,2026,June,6
-....Kalinga,"Cassava for food, fresh tubers",2026 June,50.0,2026,June,6
-....Kalinga,"Gabi for sinigang, Tagalog [Taro]",2026 June,30.0,2026,June,6
-....Kalinga,Gabi with stalk [Dasheen],2023 December,20.92,2023,December,12
-....Kalinga,Ubi [Greater yam],2026 June,60.0,2026,June,6
-....La Union,Camote [Sweet potato],2026 June,45.34,2026,June,6
-....La Union,"Cassava for food, fresh tubers",2026 June,30.0,2026,June,6
-....La Union,"Gabi for ginataan, Cebu [Taro]",2024 September,20.0,2024,September,9
-....La Union,"Gabi for sinigang, Tagalog [Taro]",2026 March,31.45,2026,March,3
-....La Union,Pao Galiang,2026 June,35.0,2026,June,6
-....La Union,Potato,2026 June,80.0,2026,June,6
-....La Union,Singkamas [Turnip],2026 June,80.0,2026,June,6
-....La Union,Ubi [Greater yam],2026 June,40.0,2026,June,6
-....Laguna,Camote [Sweet potato],2026 June,36.11,2026,June,6
-....Laguna,"Cassava for food, fresh tubers",2026 June,23.59,2026,June,6
-....Laguna,"Gabi for ginataan, Cebu [Taro]",2026 March,28.71,2026,March,3
-....Laguna,"Gabi for sinigang, Tagalog [Taro]",2026 May,32.02,2026,May,5
-....Laguna,Radish,2026 June,58.09,2026,June,6
-....Laguna,Ubi [Greater yam],2026 April,40.0,2026,April,4
-....Lanao del Norte,Camote [Sweet potato],2026 June,18.75,2026,June,6
-....Lanao del Norte,Carrot,2026 March,35.0,2026,March,3
-....Lanao del Norte,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
-....Lanao del Norte,"Cassava for industrial use, fresh tubers",2026 June,8.8,2026,June,6
-....Lanao del Norte,"Gabi for ginataan, Cebu [Taro]",2026 June,22.0,2026,June,6
-....Lanao del Norte,"Gabi for sinigang, Tagalog [Taro]",2010 December,9.78,2010,December,12
-....Lanao del Norte,Potato,2026 January,32.0,2026,January,1
-....Lanao del Norte,Ubi [Greater yam],2026 May,21.34,2026,May,5
-....Lanao del Sur,Camote [Sweet potato],2026 June,23.31,2026,June,6
-....Lanao del Sur,Carrot,2026 June,23.01,2026,June,6
-....Lanao del Sur,"Cassava for food, fresh tubers",2026 June,17.1,2026,June,6
-....Lanao del Sur,"Cassava for industrial use, fresh tubers",2026 May,7.97,2026,May,5
-....Lanao del Sur,"Gabi for ginataan, Cebu [Taro]",2025 March,49.84,2025,March,3
-....Lanao del Sur,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
-....Lanao del Sur,Potato,2026 March,39.22,2026,March,3
-....Lanao del Sur,Singkamas [Turnip],2024 July,14.96,2024,July,7
-....Lanao del Sur,Ubi [Greater yam],2026 February,29.87,2026,February,2
-....Leyte,Camote [Sweet potato],2026 June,37.34,2026,June,6
-....Leyte,"Cassava for food, fresh tubers",2026 June,25.32,2026,June,6
-....Leyte,"Cassava for industrial use, fresh tubers",2026 June,12.0,2026,June,6
-....Leyte,"Gabi for ginataan, Cebu [Taro]",2026 June,72.54,2026,June,6
-....Leyte,"Gabi for sinigang, Tagalog [Taro]",2026 June,28.23,2026,June,6
-....Leyte,Pao Galiang,2026 May,25.0,2026,May,5
-....Leyte,Radish,2025 August,35.0,2025,August,8
-....Leyte,Ubi [Greater yam],2025 October,23.0,2025,October,10
-....Maguindanao,Camote [Sweet potato],2018 December,23.95,2018,December,12
-....Maguindanao,"Cassava for food, fresh tubers",2018 December,14.53,2018,December,12
-....Marinduque,Arrowroot,2026 June,20.0,2026,June,6
-....Marinduque,Camote [Sweet potato],2026 June,25.0,2026,June,6
-....Marinduque,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
-....Marinduque,"Gabi for ginataan, Cebu [Taro]",2015 December,9.64,2015,December,12
-....Marinduque,Gabi with stalk [Dasheen],2023 December,22.32,2023,December,12
-....Marinduque,Radish,2026 March,50.0,2026,March,3
-....Masbate,Camote [Sweet potato],2026 May,22.19,2026,May,5
-....Masbate,"Cassava for food, fresh tubers",2026 June,28.17,2026,June,6
-....Masbate,"Cassava for industrial use, fresh tubers",2024 July,5.67,2024,July,7
-....Masbate,"Gabi for ginataan, Cebu [Taro]",2025 November,50.0,2025,November,11
-....Masbate,"Gabi for sinigang, Tagalog [Taro]",2026 May,50.0,2026,May,5
-....Masbate,Gabi with stalk [Dasheen],2011 December,10.11,2011,December,12
-....Masbate,Ubi [Greater yam],2026 May,50.0,2026,May,5
-....Misamis Occidental,Camote [Sweet potato],2026 June,39.0,2026,June,6
-....Misamis Occidental,Carrot,2026 June,77.5,2026,June,6
-....Misamis Occidental,"Cassava for food, fresh tubers",2026 June,19.0,2026,June,6
-....Misamis Occidental,"Cassava for industrial use, fresh tubers",2026 March,12.0,2026,March,3
-....Misamis Occidental,"Gabi for ginataan, Cebu [Taro]",2026 May,28.0,2026,May,5
-....Misamis Occidental,"Gabi for sinigang, Tagalog [Taro]",2026 April,27.83,2026,April,4
-....Misamis Occidental,Potato,2026 June,45.0,2026,June,6
-....Misamis Occidental,Ubi [Greater yam],2026 June,28.5,2026,June,6
-....Misamis Oriental,Camote [Sweet potato],2026 June,20.29,2026,June,6
-....Misamis Oriental,Carrot,2026 June,50.0,2026,June,6
-....Misamis Oriental,"Cassava for food, fresh tubers",2026 June,14.8,2026,June,6
-....Misamis Oriental,"Cassava for industrial use, fresh tubers",2026 June,10.0,2026,June,6
-....Misamis Oriental,"Cassava, dried chips",2019 March,8.12,2019,March,3
-....Misamis Oriental,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
-....Misamis Oriental,"Gabi for sinigang, Tagalog [Taro]",2026 June,20.0,2026,June,6
-....Misamis Oriental,Potato,2026 June,30.0,2026,June,6
-....Misamis Oriental,Radish,2026 June,20.0,2026,June,6
-....Mountain Province,Camote [Sweet potato],2026 May,49.0,2026,May,5
-....Mountain Province,Carrot,2026 June,45.0,2026,June,6
-....Mountain Province,"Cassava for food, fresh tubers",2026 April,20.0,2026,April,4
-....Mountain Province,"Gabi for sinigang, Tagalog [Taro]",2026 March,50.0,2026,March,3
-....Mountain Province,Potato,2026 March,50.0,2026,March,3
-....Mountain Province,Radish,2026 June,60.0,2026,June,6
-....Negros Occidental,Camote [Sweet potato],2023 December,26.22,2023,December,12
-....Negros Occidental,"Cassava for food, fresh tubers",2023 December,13.36,2023,December,12
-....Negros Occidental,Gabi with stalk [Dasheen],2023 December,21.05,2023,December,12
-....Negros Occidental,Radish,2023 December,19.43,2023,December,12
-....Negros Occidental a/,Camote [Sweet potato],2026 May,29.93,2026,May,5
-....Negros Occidental a/,Carrot,2026 March,40.0,2026,March,3
-....Negros Occidental a/,"Cassava for food, fresh tubers",2026 May,17.71,2026,May,5
-....Negros Occidental a/,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
-....Negros Occidental a/,"Gabi for sinigang, Tagalog [Taro]",2026 March,32.33,2026,March,3
-....Negros Occidental a/,Pao Galiang,2026 May,20.0,2026,May,5
-....Negros Occidental a/,Radish,2026 February,30.0,2026,February,2
-....Negros Occidental a/,Ubi [Greater yam],2026 March,20.0,2026,March,3
-....Negros Oriental,Camote [Sweet potato],2023 December,28.6,2023,December,12
-....Negros Oriental,Carrot,2023 December,52.89,2023,December,12
-....Negros Oriental,"Cassava for food, fresh tubers",2023 December,10.52,2023,December,12
-....Negros Oriental,"Gabi for ginataan, Cebu [Taro]",2023 December,20.33,2023,December,12
-....Negros Oriental,"Gabi for sinigang, Tagalog [Taro]",2023 December,28.63,2023,December,12
-....Negros Oriental,Radish,2023 December,24.18,2023,December,12
-....Negros Oriental,Ubi [Greater yam],2023 November,20.0,2023,November,11
-....Negros Oriental b/,Camote [Sweet potato],2026 June,20.03,2026,June,6
-....Negros Oriental b/,Carrot,2026 June,28.8,2026,June,6
-....Negros Oriental b/,"Cassava for food, fresh tubers",2026 June,10.0,2026,June,6
-....Negros Oriental b/,"Cassava for industrial use, fresh tubers",2026 April,10.7,2026,April,4
-....Negros Oriental b/,"Gabi for ginataan, Cebu [Taro]",2026 May,40.0,2026,May,5
-....Negros Oriental b/,"Gabi for sinigang, Tagalog [Taro]",2026 June,20.0,2026,June,6
-....Negros Oriental b/,Radish,2026 June,25.0,2026,June,6
-....Negros Oriental b/,Ubi [Greater yam],2026 April,20.0,2026,April,4
-....Northern Samar,Camote [Sweet potato],2026 June,42.74,2026,June,6
-....Northern Samar,"Cassava for food, fresh tubers",2026 June,55.28,2026,June,6
-....Northern Samar,"Cassava for industrial use, fresh tubers",2024 June,14.0,2024,June,6
-....Northern Samar,"Gabi for ginataan, Cebu [Taro]",2025 August,14.25,2025,August,8
-....Northern Samar,"Gabi for sinigang, Tagalog [Taro]",2024 November,8.0,2024,November,11
-....Northern Samar,Gabi with stalk [Dasheen],2022 December,31.79,2022,December,12
-....Northern Samar,Pao Galiang,2026 May,14.17,2026,May,5
-....Northern Samar,Ubi [Greater yam],2026 February,50.0,2026,February,2
-....Nueva Ecija,Camote [Sweet potato],2026 June,20.0,2026,June,6
-....Nueva Ecija,"Cassava for food, fresh tubers",2026 June,13.6,2026,June,6
-....Nueva Ecija,"Gabi for ginataan, Cebu [Taro]",2024 December,50.0,2024,December,12
-....Nueva Ecija,"Gabi for sinigang, Tagalog [Taro]",2026 March,55.0,2026,March,3
-....Nueva Ecija,Radish,2026 March,40.0,2026,March,3
-....Nueva Ecija,Singkamas [Turnip],2026 March,40.0,2026,March,3
-....Nueva Vizcaya,Camote [Sweet potato],2026 June,34.56,2026,June,6
-....Nueva Vizcaya,Carrot,2026 June,20.0,2026,June,6
-....Nueva Vizcaya,"Cassava for food, fresh tubers",2026 June,26.67,2026,June,6
-....Nueva Vizcaya,"Cassava for industrial use, fresh tubers",2026 April,14.0,2026,April,4
-....Nueva Vizcaya,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
-....Nueva Vizcaya,"Gabi for sinigang, Tagalog [Taro]",2026 June,22.85,2026,June,6
-....Nueva Vizcaya,Gabi with stalk [Dasheen],2018 December,16.13,2018,December,12
-....Nueva Vizcaya,Pao Galiang,2026 June,34.44,2026,June,6
-....Nueva Vizcaya,Potato,2026 June,45.0,2026,June,6
-....Nueva Vizcaya,Radish,2026 June,25.0,2026,June,6
-....Nueva Vizcaya,Singkamas [Turnip],2026 May,30.0,2026,May,5
-....Nueva Vizcaya,Ubi [Greater yam],2026 June,50.0,2026,June,6
-....Occidental Mindoro,Camote [Sweet potato],2026 April,39.34,2026,April,4
-....Occidental Mindoro,"Cassava for food, fresh tubers",2026 June,12.96,2026,June,6
-....Occidental Mindoro,"Cassava for industrial use, fresh tubers",2026 June,20.0,2026,June,6
-....Occidental Mindoro,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
-....Occidental Mindoro,Potato,2024 July,12.6,2024,July,7
-....Occidental Mindoro,Radish,2026 June,40.0,2026,June,6
-....Occidental Mindoro,Singkamas [Turnip],2026 April,16.67,2026,April,4
-....Occidental Mindoro,Ubi [Greater yam],2026 June,50.0,2026,June,6
-....Oriental Mindoro,Camote [Sweet potato],2026 June,40.0,2026,June,6
-....Oriental Mindoro,"Cassava for food, fresh tubers",2026 June,14.0,2026,June,6
-....Oriental Mindoro,"Cassava for industrial use, fresh tubers",2026 June,8.0,2026,June,6
-....Oriental Mindoro,"Gabi for sinigang, Tagalog [Taro]",2026 June,10.0,2026,June,6
-....Oriental Mindoro,Gabi with stalk [Dasheen],2023 December,14.58,2023,December,12
-....Oriental Mindoro,Radish,2026 June,40.0,2026,June,6
-....Oriental Mindoro,Singkamas [Turnip],2026 June,30.0,2026,June,6
-....Oriental Mindoro,Ubi [Greater yam],2026 June,30.0,2026,June,6
-....Palawan,Camote [Sweet potato],2025 December,30.0,2025,December,12
-....Palawan,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
-....Palawan,Gabi with stalk [Dasheen],2022 March,11.53,2022,March,3
-....Palawan,Radish,2025 December,30.0,2025,December,12
-....Pampanga,Camote [Sweet potato],2026 June,40.58,2026,June,6
-....Pampanga,"Cassava for food, fresh tubers",2026 April,12.5,2026,April,4
-....Pampanga,"Cassava for industrial use, fresh tubers",2026 February,5.41,2026,February,2
-....Pampanga,"Gabi for ginataan, Cebu [Taro]",2025 September,38.28,2025,September,9
-....Pampanga,"Gabi for sinigang, Tagalog [Taro]",2026 June,30.0,2026,June,6
-....Pampanga,Pao Galiang,2025 December,12.0,2025,December,12
-....Pampanga,Radish,2025 December,20.0,2025,December,12
-....Pampanga,Singkamas [Turnip],2026 March,41.67,2026,March,3
-....Pampanga,Ubi [Greater yam],2025 December,60.0,2025,December,12
-....Pangasinan,Arrowroot,2026 June,35.0,2026,June,6
-....Pangasinan,Camote [Sweet potato],2026 June,45.0,2026,June,6
-....Pangasinan,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
-....Pangasinan,"Gabi for ginataan, Cebu [Taro]",2026 June,40.0,2026,June,6
-....Pangasinan,"Gabi for sinigang, Tagalog [Taro]",2026 June,50.0,2026,June,6
-....Pangasinan,Pao Galiang,2026 June,60.0,2026,June,6
-....Pangasinan,Radish,2026 June,30.0,2026,June,6
-....Pangasinan,Singkamas [Turnip],2026 June,35.0,2026,June,6
-....Pangasinan,Ubi [Greater yam],2025 October,40.0,2025,October,10
-....Quezon,Arrowroot,2024 May,9.8,2024,May,5
-....Quezon,Camote [Sweet potato],2026 June,32.99,2026,June,6
-....Quezon,"Cassava for food, fresh tubers",2026 June,23.24,2026,June,6
-....Quezon,"Cassava for industrial use, fresh tubers",2025 May,10.0,2025,May,5
-....Quezon,"Gabi for ginataan, Cebu [Taro]",2026 May,10.44,2026,May,5
-....Quezon,"Gabi for sinigang, Tagalog [Taro]",2026 March,22.35,2026,March,3
-....Quezon,Radish,2026 April,9.85,2026,April,4
-....Quezon,Ubi [Greater yam],2026 June,50.0,2026,June,6
-....Quirino,Camote [Sweet potato],2026 June,35.0,2026,June,6
-....Quirino,"Cassava for food, fresh tubers",2026 June,9.0,2026,June,6
-....Quirino,"Cassava for industrial use, fresh tubers",2026 June,12.0,2026,June,6
-....Quirino,"Gabi for sinigang, Tagalog [Taro]",2026 June,32.5,2026,June,6
-....Quirino,Gabi with stalk [Dasheen],2023 December,14.82,2023,December,12
-....Quirino,Pao Galiang,2026 June,20.0,2026,June,6
-....Quirino,Singkamas [Turnip],2026 March,27.5,2026,March,3
-....Quirino,Ubi [Greater yam],2026 May,69.51,2026,May,5
-....Rizal,Camote [Sweet potato],2026 June,38.75,2026,June,6
-....Rizal,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
-....Rizal,"Cassava for industrial use, fresh tubers",2026 March,30.0,2026,March,3
-....Rizal,"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
-....Rizal,Pao Galiang,2026 June,50.0,2026,June,6
-....Rizal,Radish,2026 June,55.0,2026,June,6
-....Rizal,Ubi [Greater yam],2026 June,60.0,2026,June,6
-....Romblon,Camote [Sweet potato],2026 June,60.0,2026,June,6
-....Romblon,"Cassava for food, fresh tubers",2026 June,30.0,2026,June,6
-....Romblon,"Gabi for sinigang, Tagalog [Taro]",2026 June,45.0,2026,June,6
-....Romblon,Radish,2026 June,55.0,2026,June,6
-....Romblon,Singkamas [Turnip],2026 June,50.0,2026,June,6
-....Romblon,Ubi [Greater yam],2026 June,70.0,2026,June,6
-....Samar,Camote [Sweet potato],2026 June,33.55,2026,June,6
-....Samar,Carrot,2025 August,90.0,2025,August,8
-....Samar,"Cassava for food, fresh tubers",2026 June,16.24,2026,June,6
-....Samar,"Cassava for industrial use, fresh tubers",2025 September,15.33,2025,September,9
-....Samar,"Gabi for ginataan, Cebu [Taro]",2026 May,13.29,2026,May,5
-....Samar,"Gabi for sinigang, Tagalog [Taro]",2026 May,36.32,2026,May,5
-....Samar,Gabi with stalk [Dasheen],2023 December,32.26,2023,December,12
-....Samar,Pao Galiang,2024 March,13.33,2024,March,3
-....Samar,Ubi [Greater yam],2023 December,27.17,2023,December,12
-....Sarangani,Camote [Sweet potato],2026 June,30.0,2026,June,6
-....Sarangani,Carrot,2026 June,29.0,2026,June,6
-....Sarangani,"Cassava for food, fresh tubers",2026 May,25.0,2026,May,5
-....Sarangani,"Cassava for industrial use, fresh tubers",2026 June,13.0,2026,June,6
-....Sarangani,"Gabi for ginataan, Cebu [Taro]",2019 December,9.64,2019,December,12
-....Sarangani,Pao Galiang,2022 December,10.06,2022,December,12
-....Sarangani,Potato,2026 June,20.0,2026,June,6
-....Sarangani,Radish,2026 June,50.0,2026,June,6
-....Siquijor,Camote [Sweet potato],2023 December,36.83,2023,December,12
-....Siquijor,"Cassava for food, fresh tubers",2023 December,8.75,2023,December,12
-....Siquijor,"Gabi for ginataan, Cebu [Taro]",2023 December,34.45,2023,December,12
-....Siquijor,Ubi [Greater yam],2023 December,50.0,2023,December,12
-....Siquijor b/,Camote [Sweet potato],2026 June,54.8,2026,June,6
-....Siquijor b/,"Cassava for food, fresh tubers",2026 May,18.9,2026,May,5
-....Siquijor b/,"Cassava for industrial use, fresh tubers",2024 March,15.0,2024,March,3
-....Siquijor b/,"Gabi for ginataan, Cebu [Taro]",2026 May,50.0,2026,May,5
-....Siquijor b/,Ubi [Greater yam],2024 February,90.0,2024,February,2
-....Sorsogon,Camote [Sweet potato],2026 June,65.98,2026,June,6
-....Sorsogon,"Cassava for food, fresh tubers",2026 June,26.07,2026,June,6
-....Sorsogon,"Cassava for industrial use, fresh tubers",2018 March,9.28,2018,March,3
-....Sorsogon,"Gabi for ginataan, Cebu [Taro]",2026 June,50.0,2026,June,6
-....Sorsogon,"Gabi for sinigang, Tagalog [Taro]",2026 June,51.76,2026,June,6
-....Sorsogon,Pao Galiang,2026 June,30.0,2026,June,6
-....Sorsogon,Radish,2026 June,40.0,2026,June,6
-....Sorsogon,Ubi [Greater yam],2026 April,50.0,2026,April,4
-....South Cotabato,Camote [Sweet potato],2026 April,16.83,2026,April,4
-....South Cotabato,Carrot,2026 June,90.0,2026,June,6
-....South Cotabato,"Cassava for food, fresh tubers",2025 November,9.52,2025,November,11
-....South Cotabato,"Cassava for industrial use, fresh tubers",2026 June,2.8,2026,June,6
-....South Cotabato,"Gabi for ginataan, Cebu [Taro]",2026 June,18.28,2026,June,6
-....South Cotabato,"Gabi for sinigang, Tagalog [Taro]",2026 June,10.84,2026,June,6
-....South Cotabato,Potato,2026 June,50.0,2026,June,6
-....South Cotabato,Radish,2026 April,50.0,2026,April,4
-....South Cotabato,Singkamas [Turnip],2024 June,15.0,2024,June,6
-....South Cotabato,Ubi [Greater yam],2026 April,35.0,2026,April,4
-....Southern Leyte,Camote [Sweet potato],2026 June,44.43,2026,June,6
-....Southern Leyte,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
-....Southern Leyte,"Gabi for ginataan, Cebu [Taro]",2026 June,20.84,2026,June,6
-....Southern Leyte,"Gabi for sinigang, Tagalog [Taro]",2026 June,27.0,2026,June,6
-....Southern Leyte,Pao Galiang,2026 March,15.0,2026,March,3
-....Southern Leyte,Potato,2024 September,28.51,2024,September,9
-....Southern Leyte,Radish,2025 January,20.0,2025,January,1
-....Southern Leyte,Singkamas [Turnip],2024 June,44.49,2024,June,6
-....Southern Leyte,Ubi [Greater yam],2024 November,25.0,2024,November,11
-....Sultan Kudarat,Camote [Sweet potato],2026 June,20.0,2026,June,6
-....Sultan Kudarat,Carrot,2015 December,52.86,2015,December,12
-....Sultan Kudarat,"Cassava for food, fresh tubers",2026 June,9.0,2026,June,6
-....Sultan Kudarat,"Cassava for industrial use, fresh tubers",2026 June,3.0,2026,June,6
-....Sultan Kudarat,Gabi with stalk [Dasheen],2012 December,10.72,2012,December,12
-....Sultan Kudarat,Pao Galiang,2026 May,10.0,2026,May,5
-....Sultan Kudarat,Potato,2026 June,50.0,2026,June,6
-....Sultan Kudarat,Radish,2026 June,20.0,2026,June,6
-....Sultan Kudarat,Singkamas [Turnip],2026 June,25.0,2026,June,6
-....Sulu,Camote [Sweet potato],2025 November,28.64,2025,November,11
-....Sulu,"Cassava for food, fresh tubers",2025 December,14.63,2025,December,12
-....Sulu,"Cassava for industrial use, fresh tubers",2025 September,14.94,2025,September,9
-....Sulu,"Gabi for ginataan, Cebu [Taro]",2025 December,30.0,2025,December,12
-....Sulu,"Gabi for sinigang, Tagalog [Taro]",2025 November,24.48,2025,November,11
-....Sulu,Radish,2025 November,33.6,2025,November,11
-....Sulu c/,Camote [Sweet potato],2026 June,24.25,2026,June,6
-....Sulu c/,"Cassava for food, fresh tubers",2026 June,14.34,2026,June,6
-....Sulu c/,"Gabi for ginataan, Cebu [Taro]",2026 June,28.8,2026,June,6
-....Sulu c/,"Gabi for sinigang, Tagalog [Taro]",2026 May,20.33,2026,May,5
-....Sulu c/,Radish,2026 June,30.0,2026,June,6
-....Surigao del Norte,Camote [Sweet potato],2026 June,36.4,2026,June,6
-....Surigao del Norte,Carrot,2024 March,20.0,2024,March,3
-....Surigao del Norte,"Cassava for food, fresh tubers",2026 June,25.52,2026,June,6
-....Surigao del Norte,"Gabi for ginataan, Cebu [Taro]",2026 June,25.0,2026,June,6
-....Surigao del Norte,Gabi with stalk [Dasheen],2011 May,10.0,2011,May,5
-....Surigao del Norte,Pao Galiang,2026 June,25.0,2026,June,6
-....Surigao del Norte,Ubi [Greater yam],2025 December,70.0,2025,December,12
-....Surigao del Sur,Camote [Sweet potato],2026 June,20.0,2026,June,6
-....Surigao del Sur,"Cassava for food, fresh tubers",2026 June,21.55,2026,June,6
-....Surigao del Sur,"Cassava for industrial use, fresh tubers",2026 June,5.3,2026,June,6
-....Surigao del Sur,"Cassava, dried chips",2019 February,6.5,2019,February,2
-....Surigao del Sur,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
-....Surigao del Sur,Gabi with stalk [Dasheen],2023 December,16.04,2023,December,12
-....Surigao del Sur,Pao Galiang,2026 June,25.0,2026,June,6
-....Tarlac,Camote [Sweet potato],2026 June,40.0,2026,June,6
-....Tarlac,"Cassava for food, fresh tubers",2026 May,25.0,2026,May,5
-....Tarlac,"Gabi for sinigang, Tagalog [Taro]",2026 June,42.0,2026,June,6
-....Tarlac,Radish,2026 June,22.0,2026,June,6
-....Tarlac,Singkamas [Turnip],2026 May,25.0,2026,May,5
-....Tawi-tawi,Camote [Sweet potato],2026 May,60.0,2026,May,5
-....Tawi-tawi,"Cassava for food, fresh tubers",2026 June,67.82,2026,June,6
-....Zambales,Camote [Sweet potato],2026 June,43.0,2026,June,6
-....Zambales,"Cassava for food, fresh tubers",2025 August,14.13,2025,August,8
-....Zambales,"Cassava for industrial use, fresh tubers",2017 September,5.56,2017,September,9
-....Zambales,"Gabi for ginataan, Cebu [Taro]",2025 January,24.76,2025,January,1
-....Zambales,"Gabi for sinigang, Tagalog [Taro]",2026 May,25.12,2026,May,5
-....Zambales,Singkamas [Turnip],2024 March,25.0,2024,March,3
-....Zambales,Ubi [Greater yam],2026 April,40.0,2026,April,4
-....Zamboanga Sibugay,Camote [Sweet potato],2026 June,35.0,2026,June,6
-....Zamboanga Sibugay,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
-....Zamboanga Sibugay,"Gabi for ginataan, Cebu [Taro]",2026 June,35.0,2026,June,6
-....Zamboanga Sibugay,Gabi with stalk [Dasheen],2019 December,12.66,2019,December,12
-....Zamboanga del Norte,Camote [Sweet potato],2026 June,22.01,2026,June,6
-....Zamboanga del Norte,Carrot,2019 December,23.68,2019,December,12
-....Zamboanga del Norte,"Cassava for food, fresh tubers",2026 June,22.72,2026,June,6
-....Zamboanga del Norte,"Cassava for industrial use, fresh tubers",2026 June,15.0,2026,June,6
-....Zamboanga del Norte,"Cassava, dried chips",2019 November,5.03,2019,November,11
-....Zamboanga del Norte,"Gabi for ginataan, Cebu [Taro]",2026 June,40.0,2026,June,6
-....Zamboanga del Norte,"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
-....Zamboanga del Norte,Pao Galiang,2026 January,12.0,2026,January,1
-....Zamboanga del Norte,Radish,2026 January,30.0,2026,January,1
-....Zamboanga del Norte,Singkamas [Turnip],2025 May,26.0,2025,May,5
-....Zamboanga del Norte,Ubi [Greater yam],2026 April,40.0,2026,April,4
-....Zamboanga del Sur,Arrowroot,2025 June,40.0,2025,June,6
-....Zamboanga del Sur,Camote [Sweet potato],2026 June,19.51,2026,June,6
-....Zamboanga del Sur,Carrot,2026 June,30.0,2026,June,6
-....Zamboanga del Sur,"Cassava for food, fresh tubers",2026 June,12.32,2026,June,6
-....Zamboanga del Sur,"Cassava for industrial use, fresh tubers",2026 June,12.44,2026,June,6
-....Zamboanga del Sur,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
-....Zamboanga del Sur,"Gabi for sinigang, Tagalog [Taro]",2026 June,15.0,2026,June,6
-....Zamboanga del Sur,Gabi with stalk [Dasheen],2023 December,20.18,2023,December,12
-....Zamboanga del Sur,Radish,2026 June,35.0,2026,June,6
-....Zamboanga del Sur,Singkamas [Turnip],2026 June,35.0,2026,June,6
-....Zamboanga del Sur,Ubi [Greater yam],2026 June,27.0,2026,June,6
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Camote [Sweet potato],2026 June,22.31,2026,June,6
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Carrot,2026 June,49.84,2026,June,6
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Cassava for food, fresh tubers",2026 June,36.54,2026,June,6
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Cassava for industrial use, fresh tubers",2026 May,7.97,2026,May,5
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Gabi for ginataan, Cebu [Taro]",2025 December,30.0,2025,December,12
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Potato,2026 June,72.76,2026,June,6
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Radish,2026 February,30.0,2026,February,2
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Singkamas [Turnip],2024 July,14.96,2024,July,7
-..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Ubi [Greater yam],2026 February,29.87,2026,February,2
-..CORDILLERA ADMINISTRATIVE REGION (CAR),Camote [Sweet potato],2026 June,45.62,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),Carrot,2026 June,32.88,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),"Cassava for food, fresh tubers",2026 June,48.04,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),"Cassava for industrial use, fresh tubers",2026 June,20.0,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),"Gabi for ginataan, Cebu [Taro]",2026 June,59.86,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),"Gabi for sinigang, Tagalog [Taro]",2026 June,35.45,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),Gabi with stalk [Dasheen],2023 December,29.72,2023,December,12
-..CORDILLERA ADMINISTRATIVE REGION (CAR),Pao Galiang,2026 June,25.39,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),Potato,2026 June,38.01,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),Radish,2026 June,14.94,2026,June,6
-..CORDILLERA ADMINISTRATIVE REGION (CAR),Singkamas [Turnip],2026 April,20.0,2026,April,4
-..CORDILLERA ADMINISTRATIVE REGION (CAR),Ubi [Greater yam],2026 June,83.4,2026,June,6
-..MIMAROPA REGION,Arrowroot,2026 June,20.0,2026,June,6
-..MIMAROPA REGION,Camote [Sweet potato],2026 June,54.0,2026,June,6
-..MIMAROPA REGION,"Cassava for food, fresh tubers",2026 June,15.95,2026,June,6
-..MIMAROPA REGION,"Cassava for industrial use, fresh tubers",2026 June,19.61,2026,June,6
-..MIMAROPA REGION,"Gabi for ginataan, Cebu [Taro]",2015 December,9.64,2015,December,12
-..MIMAROPA REGION,"Gabi for sinigang, Tagalog [Taro]",2026 June,15.51,2026,June,6
-..MIMAROPA REGION,Gabi with stalk [Dasheen],2023 December,18.45,2023,December,12
-..MIMAROPA REGION,Potato,2024 July,12.6,2024,July,7
-..MIMAROPA REGION,Radish,2026 June,46.03,2026,June,6
-..MIMAROPA REGION,Singkamas [Turnip],2026 June,49.67,2026,June,6
-..MIMAROPA REGION,Ubi [Greater yam],2026 June,57.96,2026,June,6
-..NEGROS ISLAND REGION (NIR) 2/,Camote [Sweet potato],2026 June,22.14,2026,June,6
-..NEGROS ISLAND REGION (NIR) 2/,Carrot,2026 June,28.8,2026,June,6
-..NEGROS ISLAND REGION (NIR) 2/,"Cassava for food, fresh tubers",2026 June,10.0,2026,June,6
-..NEGROS ISLAND REGION (NIR) 2/,"Cassava for industrial use, fresh tubers",2026 April,10.7,2026,April,4
-..NEGROS ISLAND REGION (NIR) 2/,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
-..NEGROS ISLAND REGION (NIR) 2/,"Gabi for sinigang, Tagalog [Taro]",2026 June,20.0,2026,June,6
-..NEGROS ISLAND REGION (NIR) 2/,Pao Galiang,2026 May,20.0,2026,May,5
-..NEGROS ISLAND REGION (NIR) 2/,Radish,2026 June,25.0,2026,June,6
-..NEGROS ISLAND REGION (NIR) 2/,Ubi [Greater yam],2026 April,20.0,2026,April,4
-..REGION I (ILOCOS REGION),Arrowroot,2026 June,35.0,2026,June,6
-..REGION I (ILOCOS REGION),Camote [Sweet potato],2026 June,44.96,2026,June,6
-..REGION I (ILOCOS REGION),"Cassava for food, fresh tubers",2026 June,21.96,2026,June,6
-..REGION I (ILOCOS REGION),"Gabi for ginataan, Cebu [Taro]",2026 June,40.0,2026,June,6
-..REGION I (ILOCOS REGION),"Gabi for sinigang, Tagalog [Taro]",2026 June,49.57,2026,June,6
-..REGION I (ILOCOS REGION),Gabi with stalk [Dasheen],2010 December,12.59,2010,December,12
-..REGION I (ILOCOS REGION),Pao Galiang,2026 June,36.45,2026,June,6
-..REGION I (ILOCOS REGION),Potato,2026 June,80.0,2026,June,6
-..REGION I (ILOCOS REGION),Radish,2026 June,30.0,2026,June,6
-..REGION I (ILOCOS REGION),Singkamas [Turnip],2026 June,58.33,2026,June,6
-..REGION I (ILOCOS REGION),Ubi [Greater yam],2026 June,58.98,2026,June,6
-..REGION II (CAGAYAN VALLEY),Camote [Sweet potato],2026 June,33.63,2026,June,6
-..REGION II (CAGAYAN VALLEY),Carrot,2026 June,22.01,2026,June,6
-..REGION II (CAGAYAN VALLEY),"Cassava for food, fresh tubers",2026 June,20.63,2026,June,6
-..REGION II (CAGAYAN VALLEY),"Cassava for industrial use, fresh tubers",2026 June,4.53,2026,June,6
-..REGION II (CAGAYAN VALLEY),"Cassava, dried chips",2018 December,4.25,2018,December,12
-..REGION II (CAGAYAN VALLEY),"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
-..REGION II (CAGAYAN VALLEY),"Gabi for sinigang, Tagalog [Taro]",2026 June,29.48,2026,June,6
-..REGION II (CAGAYAN VALLEY),Gabi with stalk [Dasheen],2023 December,14.43,2023,December,12
-..REGION II (CAGAYAN VALLEY),Pao Galiang,2026 June,20.6,2026,June,6
-..REGION II (CAGAYAN VALLEY),Potato,2026 June,45.0,2026,June,6
-..REGION II (CAGAYAN VALLEY),Radish,2026 June,25.0,2026,June,6
-..REGION II (CAGAYAN VALLEY),Singkamas [Turnip],2026 May,30.0,2026,May,5
-..REGION II (CAGAYAN VALLEY),Ubi [Greater yam],2026 June,50.0,2026,June,6
-..REGION III (CENTRAL LUZON),Camote [Sweet potato],2026 June,40.84,2026,June,6
-..REGION III (CENTRAL LUZON),"Cassava for food, fresh tubers",2026 June,16.53,2026,June,6
-..REGION III (CENTRAL LUZON),"Cassava for industrial use, fresh tubers",2026 February,5.41,2026,February,2
-..REGION III (CENTRAL LUZON),"Gabi for ginataan, Cebu [Taro]",2026 June,25.0,2026,June,6
-..REGION III (CENTRAL LUZON),"Gabi for sinigang, Tagalog [Taro]",2026 June,30.41,2026,June,6
-..REGION III (CENTRAL LUZON),Pao Galiang,2026 January,60.0,2026,January,1
-..REGION III (CENTRAL LUZON),Radish,2026 June,22.0,2026,June,6
-..REGION III (CENTRAL LUZON),Singkamas [Turnip],2026 May,25.0,2026,May,5
-..REGION III (CENTRAL LUZON),Ubi [Greater yam],2026 May,50.0,2026,May,5
-..REGION IV-A (CALABARZON),Arrowroot,2024 May,9.8,2024,May,5
-..REGION IV-A (CALABARZON),Camote [Sweet potato],2026 June,33.43,2026,June,6
-..REGION IV-A (CALABARZON),Carrot,2026 February,300.0,2026,February,2
-..REGION IV-A (CALABARZON),"Cassava for food, fresh tubers",2026 June,23.31,2026,June,6
-..REGION IV-A (CALABARZON),"Cassava for industrial use, fresh tubers",2026 March,30.0,2026,March,3
-..REGION IV-A (CALABARZON),"Gabi for ginataan, Cebu [Taro]",2026 June,72.0,2026,June,6
-..REGION IV-A (CALABARZON),"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
-..REGION IV-A (CALABARZON),Pao Galiang,2026 June,50.0,2026,June,6
-..REGION IV-A (CALABARZON),Radish,2026 June,58.02,2026,June,6
-..REGION IV-A (CALABARZON),Singkamas [Turnip],2026 May,47.0,2026,May,5
-..REGION IV-A (CALABARZON),Ubi [Greater yam],2026 June,63.94,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,Arrowroot,2025 June,40.0,2025,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,Camote [Sweet potato],2026 June,23.84,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,Carrot,2026 June,68.63,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,"Cassava for food, fresh tubers",2026 June,20.37,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,"Cassava for industrial use, fresh tubers",2026 June,15.16,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,"Cassava, dried chips",2019 November,5.03,2019,November,11
-..REGION IX (ZAMBOANGA PENINSULA) 3/,"Gabi for ginataan, Cebu [Taro]",2026 June,28.68,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,"Gabi for sinigang, Tagalog [Taro]",2026 June,19.04,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,Gabi with stalk [Dasheen],2023 December,20.18,2023,December,12
-..REGION IX (ZAMBOANGA PENINSULA) 3/,Pao Galiang,2026 January,12.0,2026,January,1
-..REGION IX (ZAMBOANGA PENINSULA) 3/,Radish,2026 June,26.31,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,Singkamas [Turnip],2026 June,35.0,2026,June,6
-..REGION IX (ZAMBOANGA PENINSULA) 3/,Ubi [Greater yam],2026 June,27.0,2026,June,6
-..REGION V (BICOL REGION),Camote [Sweet potato],2026 June,38.71,2026,June,6
-..REGION V (BICOL REGION),"Cassava for food, fresh tubers",2026 June,20.68,2026,June,6
-..REGION V (BICOL REGION),"Cassava for industrial use, fresh tubers",2026 May,29.53,2026,May,5
-..REGION V (BICOL REGION),"Gabi for ginataan, Cebu [Taro]",2026 June,58.06,2026,June,6
-..REGION V (BICOL REGION),"Gabi for sinigang, Tagalog [Taro]",2026 June,50.38,2026,June,6
-..REGION V (BICOL REGION),Gabi with stalk [Dasheen],2023 December,14.55,2023,December,12
-..REGION V (BICOL REGION),Pao Galiang,2026 June,30.0,2026,June,6
-..REGION V (BICOL REGION),Radish,2026 June,43.82,2026,June,6
-..REGION V (BICOL REGION),Singkamas [Turnip],2026 June,40.0,2026,June,6
-..REGION V (BICOL REGION),Ubi [Greater yam],2026 June,51.39,2026,June,6
-..REGION VI (WESTERN VISAYAS),Camote [Sweet potato],2026 June,30.5,2026,June,6
-..REGION VI (WESTERN VISAYAS),Carrot,2026 June,41.69,2026,June,6
-..REGION VI (WESTERN VISAYAS),"Cassava for food, fresh tubers",2026 June,19.37,2026,June,6
-..REGION VI (WESTERN VISAYAS),"Cassava for industrial use, fresh tubers",2025 April,15.0,2025,April,4
-..REGION VI (WESTERN VISAYAS),"Gabi for ginataan, Cebu [Taro]",2026 June,21.01,2026,June,6
-..REGION VI (WESTERN VISAYAS),"Gabi for sinigang, Tagalog [Taro]",2026 June,16.81,2026,June,6
-..REGION VI (WESTERN VISAYAS),Gabi with stalk [Dasheen],2023 December,20.23,2023,December,12
-..REGION VI (WESTERN VISAYAS),Pao Galiang,2026 June,20.0,2026,June,6
-..REGION VI (WESTERN VISAYAS),Radish,2026 June,27.41,2026,June,6
-..REGION VI (WESTERN VISAYAS),Singkamas [Turnip],2026 June,34.63,2026,June,6
-..REGION VI (WESTERN VISAYAS),Ubi [Greater yam],2026 June,34.49,2026,June,6
-..REGION VII (CENTRAL VISAYAS),Camote [Sweet potato],2026 June,29.73,2026,June,6
-..REGION VII (CENTRAL VISAYAS),Carrot,2026 June,60.0,2026,June,6
-..REGION VII (CENTRAL VISAYAS),"Cassava for food, fresh tubers",2026 June,13.73,2026,June,6
-..REGION VII (CENTRAL VISAYAS),"Cassava for industrial use, fresh tubers",2026 June,14.18,2026,June,6
-..REGION VII (CENTRAL VISAYAS),"Gabi for ginataan, Cebu [Taro]",2026 June,30.08,2026,June,6
-..REGION VII (CENTRAL VISAYAS),"Gabi for sinigang, Tagalog [Taro]",2026 June,55.74,2026,June,6
-..REGION VII (CENTRAL VISAYAS),Gabi with stalk [Dasheen],2018 December,31.82,2018,December,12
-..REGION VII (CENTRAL VISAYAS),Pao Galiang,2026 June,30.0,2026,June,6
-..REGION VII (CENTRAL VISAYAS),Radish,2026 June,45.0,2026,June,6
-..REGION VII (CENTRAL VISAYAS),Singkamas [Turnip],2026 May,70.0,2026,May,5
-..REGION VII (CENTRAL VISAYAS),Ubi [Greater yam],2026 June,78.26,2026,June,6
-..REGION VIII (EASTERN VISAYAS),Camote [Sweet potato],2026 June,40.23,2026,June,6
-..REGION VIII (EASTERN VISAYAS),Carrot,2025 August,90.0,2025,August,8
-..REGION VIII (EASTERN VISAYAS),"Cassava for food, fresh tubers",2026 June,34.71,2026,June,6
-..REGION VIII (EASTERN VISAYAS),"Cassava for industrial use, fresh tubers",2026 June,12.0,2026,June,6
-..REGION VIII (EASTERN VISAYAS),"Gabi for ginataan, Cebu [Taro]",2026 June,63.03,2026,June,6
-..REGION VIII (EASTERN VISAYAS),"Gabi for sinigang, Tagalog [Taro]",2026 June,28.14,2026,June,6
-..REGION VIII (EASTERN VISAYAS),Gabi with stalk [Dasheen],2023 December,32.26,2023,December,12
-..REGION VIII (EASTERN VISAYAS),Pao Galiang,2026 May,16.25,2026,May,5
-..REGION VIII (EASTERN VISAYAS),Potato,2024 September,28.51,2024,September,9
-..REGION VIII (EASTERN VISAYAS),Radish,2025 August,35.0,2025,August,8
-..REGION VIII (EASTERN VISAYAS),Singkamas [Turnip],2024 June,44.49,2024,June,6
-..REGION VIII (EASTERN VISAYAS),Ubi [Greater yam],2026 February,50.0,2026,February,2
-..REGION X (NORTHERN MINDANAO),Arrowroot,2026 June,20.0,2026,June,6
-..REGION X (NORTHERN MINDANAO),Camote [Sweet potato],2026 June,27.0,2026,June,6
-..REGION X (NORTHERN MINDANAO),Carrot,2026 June,44.25,2026,June,6
-..REGION X (NORTHERN MINDANAO),"Cassava for food, fresh tubers",2026 June,19.63,2026,June,6
-..REGION X (NORTHERN MINDANAO),"Cassava for industrial use, fresh tubers",2026 June,8.2,2026,June,6
-..REGION X (NORTHERN MINDANAO),"Cassava, dried chips",2019 March,8.12,2019,March,3
-..REGION X (NORTHERN MINDANAO),"Gabi for ginataan, Cebu [Taro]",2026 June,26.45,2026,June,6
-..REGION X (NORTHERN MINDANAO),"Gabi for sinigang, Tagalog [Taro]",2026 June,22.35,2026,June,6
-..REGION X (NORTHERN MINDANAO),Pao Galiang,2025 December,15.0,2025,December,12
-..REGION X (NORTHERN MINDANAO),Potato,2026 June,70.0,2026,June,6
-..REGION X (NORTHERN MINDANAO),Radish,2026 June,17.23,2026,June,6
-..REGION X (NORTHERN MINDANAO),Singkamas [Turnip],2026 June,45.0,2026,June,6
-..REGION X (NORTHERN MINDANAO),Ubi [Greater yam],2026 June,47.64,2026,June,6
-..REGION XI (DAVAO REGION),Camote [Sweet potato],2026 June,24.01,2026,June,6
-..REGION XI (DAVAO REGION),Carrot,2026 June,40.57,2026,June,6
-..REGION XI (DAVAO REGION),"Cassava for food, fresh tubers",2026 June,14.39,2026,June,6
-..REGION XI (DAVAO REGION),"Cassava for industrial use, fresh tubers",2026 May,8.0,2026,May,5
-..REGION XI (DAVAO REGION),"Gabi for ginataan, Cebu [Taro]",2026 June,18.38,2026,June,6
-..REGION XI (DAVAO REGION),"Gabi for sinigang, Tagalog [Taro]",2026 May,20.0,2026,May,5
-..REGION XI (DAVAO REGION),Pao Galiang,2026 June,23.55,2026,June,6
-..REGION XI (DAVAO REGION),Potato,2026 June,30.0,2026,June,6
-..REGION XI (DAVAO REGION),Radish,2026 June,28.22,2026,June,6
-..REGION XI (DAVAO REGION),Singkamas [Turnip],2026 June,20.0,2026,June,6
-..REGION XI (DAVAO REGION),Ubi [Greater yam],2026 June,42.46,2026,June,6
-..REGION XII (SOCCSKSARGEN),Camote [Sweet potato],2026 June,32.7,2026,June,6
-..REGION XII (SOCCSKSARGEN),Carrot,2026 June,64.52,2026,June,6
-..REGION XII (SOCCSKSARGEN),"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
-..REGION XII (SOCCSKSARGEN),"Cassava for industrial use, fresh tubers",2026 June,2.85,2026,June,6
-..REGION XII (SOCCSKSARGEN),"Gabi for ginataan, Cebu [Taro]",2026 June,18.28,2026,June,6
-..REGION XII (SOCCSKSARGEN),"Gabi for sinigang, Tagalog [Taro]",2026 June,10.84,2026,June,6
-..REGION XII (SOCCSKSARGEN),Gabi with stalk [Dasheen],2012 December,10.72,2012,December,12
-..REGION XII (SOCCSKSARGEN),Pao Galiang,2026 May,10.0,2026,May,5
-..REGION XII (SOCCSKSARGEN),Potato,2026 June,47.15,2026,June,6
-..REGION XII (SOCCSKSARGEN),Radish,2026 June,27.95,2026,June,6
-..REGION XII (SOCCSKSARGEN),Singkamas [Turnip],2026 June,25.0,2026,June,6
-..REGION XII (SOCCSKSARGEN),Ubi [Greater yam],2026 April,35.0,2026,April,4
-..REGION XIII (CARAGA),Camote [Sweet potato],2026 June,20.54,2026,June,6
-..REGION XIII (CARAGA),Carrot,2024 March,20.0,2024,March,3
-..REGION XIII (CARAGA),"Cassava for food, fresh tubers",2026 June,19.06,2026,June,6
-..REGION XIII (CARAGA),"Cassava for industrial use, fresh tubers",2026 June,8.01,2026,June,6
-..REGION XIII (CARAGA),"Cassava, dried chips",2019 February,6.5,2019,February,2
-..REGION XIII (CARAGA),"Gabi for ginataan, Cebu [Taro]",2026 June,15.53,2026,June,6
-..REGION XIII (CARAGA),"Gabi for sinigang, Tagalog [Taro]",2026 June,14.0,2026,June,6
-..REGION XIII (CARAGA),Gabi with stalk [Dasheen],2023 December,16.04,2023,December,12
-..REGION XIII (CARAGA),Pao Galiang,2026 June,25.0,2026,June,6
-..REGION XIII (CARAGA),Potato,2025 June,100.0,2025,June,6
-..REGION XIII (CARAGA),Radish,2024 September,15.0,2024,September,9
-..REGION XIII (CARAGA),Ubi [Greater yam],2026 June,60.0,2026,June,6
+City of Butuan,Camote [Sweet potato],2026 June,23.33,2026,June,6
+City of Butuan,"Cassava for food, fresh tubers",2026 June,13.75,2026,June,6
+City of Davao,Camote [Sweet potato],2026 June,15.0,2026,June,6
+City of Davao,"Cassava for food, fresh tubers",2026 May,10.0,2026,May,5
+City of Davao,"Cassava for industrial use, fresh tubers",2023 December,6.18,2023,December,12
+City of Davao,"Gabi for ginataan, Cebu [Taro]",2026 April,15.0,2026,April,4
+City of Davao,Potato,2023 December,98.02,2023,December,12
+City of Davao,Radish,2026 May,15.0,2026,May,5
+City of Puerto Princesa,Ubi [Greater yam],2026 April,15.0,2026,April,4
+City of Zamboanga,Camote [Sweet potato],2026 June,30.0,2026,June,6
+City of Zamboanga,Carrot,2026 June,70.0,2026,June,6
+City of Zamboanga,"Cassava for food, fresh tubers",2026 June,40.0,2026,June,6
+City of Zamboanga,"Cassava for industrial use, fresh tubers",2026 June,20.0,2026,June,6
+City of Zamboanga,"Gabi for ginataan, Cebu [Taro]",2026 May,20.0,2026,May,5
+City of Zamboanga,Radish,2026 June,25.0,2026,June,6
+Maguindanao del Norte,Camote [Sweet potato],2026 June,20.0,2026,June,6
+Maguindanao del Norte,Carrot,2026 June,50.0,2026,June,6
+Maguindanao del Norte,"Cassava for food, fresh tubers",2026 May,19.09,2026,May,5
+Maguindanao del Norte,Potato,2026 January,40.0,2026,January,1
+Maguindanao del Norte,Radish,2026 February,30.0,2026,February,2
+Maguindanao del Norte,Ubi [Greater yam],2025 September,49.99,2025,September,9
+Maguindanao del Sur,Camote [Sweet potato],2026 May,26.4,2026,May,5
+Maguindanao del Sur,Carrot,2025 May,44.56,2025,May,5
+Maguindanao del Sur,"Cassava for food, fresh tubers",2026 June,13.0,2026,June,6
+Maguindanao del Sur,Potato,2026 June,72.76,2026,June,6
+Abra,Camote [Sweet potato],2026 May,34.79,2026,May,5
+Abra,"Cassava for food, fresh tubers",2026 April,20.0,2026,April,4
+Abra,"Gabi for sinigang, Tagalog [Taro]",2026 April,30.0,2026,April,4
+Abra,Singkamas [Turnip],2026 April,20.0,2026,April,4
+Agusan del Norte,Camote [Sweet potato],2026 June,30.0,2026,June,6
+Agusan del Norte,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
+Agusan del Norte,"Cassava for industrial use, fresh tubers",2024 October,20.0,2024,October,10
+Agusan del Norte,"Gabi for ginataan, Cebu [Taro]",2026 April,14.25,2026,April,4
+Agusan del Norte,"Gabi for sinigang, Tagalog [Taro]",2026 January,20.0,2026,January,1
+Agusan del Norte,Gabi with stalk [Dasheen],2021 December,15.91,2021,December,12
+Agusan del Norte,Potato,2025 June,100.0,2025,June,6
+Agusan del Norte,Radish,2024 September,15.0,2024,September,9
+Agusan del Norte,Ubi [Greater yam],2026 March,30.0,2026,March,3
+Agusan del Sur,Camote [Sweet potato],2026 June,12.17,2026,June,6
+Agusan del Sur,"Cassava for food, fresh tubers",2026 June,14.8,2026,June,6
+Agusan del Sur,"Cassava for industrial use, fresh tubers",2026 June,9.0,2026,June,6
+Agusan del Sur,"Gabi for ginataan, Cebu [Taro]",2026 June,15.0,2026,June,6
+Agusan del Sur,"Gabi for sinigang, Tagalog [Taro]",2026 June,14.0,2026,June,6
+Agusan del Sur,Gabi with stalk [Dasheen],2023 November,29.81,2023,November,11
+Aklan,Camote [Sweet potato],2026 June,25.0,2026,June,6
+Aklan,"Cassava for food, fresh tubers",2026 June,18.0,2026,June,6
+Aklan,"Gabi for sinigang, Tagalog [Taro]",2026 June,35.0,2026,June,6
+Aklan,Gabi with stalk [Dasheen],2023 December,20.97,2023,December,12
+Aklan,Radish,2026 June,60.0,2026,June,6
+Aklan,Singkamas [Turnip],2026 June,30.0,2026,June,6
+Aklan,Ubi [Greater yam],2026 June,35.0,2026,June,6
+Albay,Camote [Sweet potato],2026 June,39.2,2026,June,6
+Albay,"Cassava for food, fresh tubers",2026 June,28.04,2026,June,6
+Albay,"Cassava for industrial use, fresh tubers",2026 May,29.53,2026,May,5
+Albay,"Gabi for ginataan, Cebu [Taro]",2025 November,20.0,2025,November,11
+Albay,"Gabi for sinigang, Tagalog [Taro]",2026 March,25.0,2026,March,3
+Albay,Gabi with stalk [Dasheen],2023 December,14.55,2023,December,12
+Albay,Radish,2026 March,30.0,2026,March,3
+Albay,Singkamas [Turnip],2026 March,30.0,2026,March,3
+Albay,Ubi [Greater yam],2025 October,30.0,2025,October,10
+Antique,Camote [Sweet potato],2026 June,45.0,2026,June,6
+Antique,Carrot,2026 June,60.0,2026,June,6
+Antique,"Cassava for food, fresh tubers",2026 June,23.91,2026,June,6
+Antique,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
+Antique,"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
+Antique,Gabi with stalk [Dasheen],2023 December,20.12,2023,December,12
+Antique,Radish,2026 June,35.0,2026,June,6
+Antique,Singkamas [Turnip],2026 June,35.0,2026,June,6
+Antique,Ubi [Greater yam],2026 June,50.0,2026,June,6
+Apayao,Camote [Sweet potato],2026 June,40.0,2026,June,6
+Apayao,"Cassava for food, fresh tubers",2026 May,25.0,2026,May,5
+Apayao,"Cassava for industrial use, fresh tubers",2026 June,20.0,2026,June,6
+Apayao,"Gabi for ginataan, Cebu [Taro]",2026 February,26.6,2026,February,2
+Apayao,"Gabi for sinigang, Tagalog [Taro]",2026 May,25.0,2026,May,5
+Apayao,Gabi with stalk [Dasheen],2023 December,21.06,2023,December,12
+Apayao,Pao Galiang,2026 June,20.0,2026,June,6
+Apayao,Ubi [Greater yam],2026 June,45.0,2026,June,6
+Aurora,Camote [Sweet potato],2026 June,50.0,2026,June,6
+Aurora,"Cassava for food, fresh tubers",2026 April,15.0,2026,April,4
+Aurora,"Cassava for industrial use, fresh tubers",2024 November,12.2,2024,November,11
+Aurora,"Gabi for ginataan, Cebu [Taro]",2026 May,17.5,2026,May,5
+Aurora,"Gabi for sinigang, Tagalog [Taro]",2026 May,25.0,2026,May,5
+Aurora,Pao Galiang,2026 January,60.0,2026,January,1
+Aurora,Ubi [Greater yam],2026 May,50.0,2026,May,5
+Basilan,Camote [Sweet potato],2026 June,42.0,2026,June,6
+Basilan,"Cassava for food, fresh tubers",2026 June,19.61,2026,June,6
+Basilan,"Gabi for ginataan, Cebu [Taro]",2025 September,40.0,2025,September,9
+Basilan,Radish,2025 June,50.0,2025,June,6
+Bataan,Camote [Sweet potato],2026 April,25.0,2026,April,4
+Bataan,"Cassava for food, fresh tubers",2026 June,30.0,2026,June,6
+Bataan,"Gabi for ginataan, Cebu [Taro]",2026 June,25.0,2026,June,6
+Bataan,"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
+Bataan,Ubi [Greater yam],2024 December,48.33,2024,December,12
+Batanes,Camote [Sweet potato],2026 June,42.2,2026,June,6
+Batanes,Carrot,2026 June,83.33,2026,June,6
+Batanes,"Cassava for food, fresh tubers",2025 September,40.0,2025,September,9
+Batanes,"Gabi for ginataan, Cebu [Taro]",2026 April,50.0,2026,April,4
+Batanes,"Gabi for sinigang, Tagalog [Taro]",2026 March,50.0,2026,March,3
+Batanes,Pao Galiang,2014 March,7.91,2014,March,3
+Batanes,Radish,2026 March,80.0,2026,March,3
+Batanes,Ubi [Greater yam],2026 June,50.0,2026,June,6
+Batangas,Camote [Sweet potato],2026 June,20.0,2026,June,6
+Batangas,"Cassava for food, fresh tubers",2026 June,24.41,2026,June,6
+Batangas,"Cassava for industrial use, fresh tubers",2017 August,5.0,2017,August,8
+Batangas,"Gabi for ginataan, Cebu [Taro]",2026 June,72.0,2026,June,6
+Batangas,"Gabi for sinigang, Tagalog [Taro]",2026 May,20.0,2026,May,5
+Batangas,Radish,2026 February,30.0,2026,February,2
+Batangas,Singkamas [Turnip],2026 May,47.0,2026,May,5
+Batangas,Ubi [Greater yam],2026 June,65.0,2026,June,6
+Benguet,Camote [Sweet potato],2026 June,47.18,2026,June,6
+Benguet,Carrot,2026 June,31.84,2026,June,6
+Benguet,"Cassava for food, fresh tubers",2026 June,48.11,2026,June,6
+Benguet,"Cassava for industrial use, fresh tubers",2026 May,13.0,2026,May,5
+Benguet,"Gabi for ginataan, Cebu [Taro]",2026 June,56.67,2026,June,6
+Benguet,"Gabi for sinigang, Tagalog [Taro]",2026 March,25.0,2026,March,3
+Benguet,Gabi with stalk [Dasheen],2023 December,47.18,2023,December,12
+Benguet,Pao Galiang,2024 September,25.0,2024,September,9
+Benguet,Potato,2026 June,38.01,2026,June,6
+Benguet,Radish,2026 June,12.0,2026,June,6
+Benguet,Ubi [Greater yam],2026 June,86.67,2026,June,6
+Biliran,Camote [Sweet potato],2026 June,40.0,2026,June,6
+Biliran,"Cassava for food, fresh tubers",2026 May,27.31,2026,May,5
+Biliran,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
+Bohol,Camote [Sweet potato],2026 June,40.0,2026,June,6
+Bohol,"Cassava for food, fresh tubers",2026 June,12.12,2026,June,6
+Bohol,"Cassava for industrial use, fresh tubers",2026 June,5.0,2026,June,6
+Bohol,"Gabi for ginataan, Cebu [Taro]",2026 June,30.29,2026,June,6
+Bohol,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
+Bohol,Radish,2025 October,50.0,2025,October,10
+Bohol,Singkamas [Turnip],2026 May,70.0,2026,May,5
+Bohol,Ubi [Greater yam],2026 June,80.0,2026,June,6
+Bukidnon,Arrowroot,2026 June,20.0,2026,June,6
+Bukidnon,Camote [Sweet potato],2026 June,25.0,2026,June,6
+Bukidnon,Carrot,2026 June,40.0,2026,June,6
+Bukidnon,"Cassava for food, fresh tubers",2026 June,13.0,2026,June,6
+Bukidnon,"Cassava for industrial use, fresh tubers",2026 June,7.23,2026,June,6
+Bukidnon,"Gabi for ginataan, Cebu [Taro]",2026 June,40.0,2026,June,6
+Bukidnon,"Gabi for sinigang, Tagalog [Taro]",2026 June,30.0,2026,June,6
+Bukidnon,Pao Galiang,2025 December,15.0,2025,December,12
+Bukidnon,Potato,2026 June,70.0,2026,June,6
+Bukidnon,Radish,2026 June,14.15,2026,June,6
+Bukidnon,Singkamas [Turnip],2026 June,45.0,2026,June,6
+Bukidnon,Ubi [Greater yam],2026 June,65.0,2026,June,6
+Bulacan,Camote [Sweet potato],2026 June,35.0,2026,June,6
+Bulacan,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
+Bulacan,"Gabi for sinigang, Tagalog [Taro]",2024 June,45.0,2024,June,6
+Bulacan,Singkamas [Turnip],2024 June,60.0,2024,June,6
+Cagayan,Camote [Sweet potato],2026 June,31.41,2026,June,6
+Cagayan,Carrot,2026 June,50.0,2026,June,6
+Cagayan,"Cassava for food, fresh tubers",2026 June,24.63,2026,June,6
+Cagayan,"Cassava for industrial use, fresh tubers",2025 March,20.0,2025,March,3
+Cagayan,"Cassava, dried chips",2018 December,4.25,2018,December,12
+Cagayan,"Gabi for ginataan, Cebu [Taro]",2026 March,23.56,2026,March,3
+Cagayan,"Gabi for sinigang, Tagalog [Taro]",2026 May,40.75,2026,May,5
+Cagayan,Gabi with stalk [Dasheen],2023 December,16.39,2023,December,12
+Cagayan,Radish,2026 May,50.0,2026,May,5
+Cagayan,Singkamas [Turnip],2025 March,50.0,2025,March,3
+Cagayan,Ubi [Greater yam],2026 April,50.0,2026,April,4
+Camarines Norte,Camote [Sweet potato],2026 May,33.81,2026,May,5
+Camarines Norte,"Cassava for food, fresh tubers",2026 June,26.78,2026,June,6
+Camarines Norte,"Cassava for industrial use, fresh tubers",2018 August,7.24,2018,August,8
+Camarines Norte,"Gabi for sinigang, Tagalog [Taro]",2026 March,21.0,2026,March,3
+Camarines Sur,Camote [Sweet potato],2026 June,36.98,2026,June,6
+Camarines Sur,"Cassava for food, fresh tubers",2026 June,15.53,2026,June,6
+Camarines Sur,"Cassava for industrial use, fresh tubers",2024 January,10.0,2024,January,1
+Camarines Sur,"Gabi for ginataan, Cebu [Taro]",2024 March,40.0,2024,March,3
+Camarines Sur,"Gabi for sinigang, Tagalog [Taro]",2026 May,52.37,2026,May,5
+Camarines Sur,Gabi with stalk [Dasheen],2013 November,11.07,2013,November,11
+Camarines Sur,Pao Galiang,2026 June,30.0,2026,June,6
+Camarines Sur,Radish,2026 June,60.0,2026,June,6
+Camarines Sur,Singkamas [Turnip],2026 June,40.0,2026,June,6
+Camarines Sur,Ubi [Greater yam],2026 June,40.0,2026,June,6
+Camiguin,Camote [Sweet potato],2026 June,30.0,2026,June,6
+Camiguin,"Cassava for food, fresh tubers",2026 June,35.0,2026,June,6
+Camiguin,"Cassava, dried chips",2018 March,7.0,2018,March,3
+Camiguin,"Gabi for ginataan, Cebu [Taro]",2026 June,37.28,2026,June,6
+Camiguin,"Gabi for sinigang, Tagalog [Taro]",2025 June,20.0,2025,June,6
+Camiguin,Ubi [Greater yam],2026 May,50.0,2026,May,5
+Capiz,Camote [Sweet potato],2026 June,27.63,2026,June,6
+Capiz,"Cassava for food, fresh tubers",2026 June,23.35,2026,June,6
+Capiz,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
+Capiz,"Gabi for sinigang, Tagalog [Taro]",2026 June,18.93,2026,June,6
+Capiz,Gabi with stalk [Dasheen],2023 December,21.17,2023,December,12
+Capiz,Radish,2026 June,80.0,2026,June,6
+Catanduanes,Camote [Sweet potato],2026 June,41.45,2026,June,6
+Catanduanes,"Cassava for food, fresh tubers",2026 June,31.26,2026,June,6
+Catanduanes,"Gabi for ginataan, Cebu [Taro]",2026 April,40.0,2026,April,4
+Catanduanes,"Gabi for sinigang, Tagalog [Taro]",2026 June,45.0,2026,June,6
+Catanduanes,Radish,2026 June,60.0,2026,June,6
+Catanduanes,Ubi [Greater yam],2026 June,80.0,2026,June,6
+Cavite,Camote [Sweet potato],2026 April,50.0,2026,April,4
+Cavite,Carrot,2026 February,300.0,2026,February,2
+Cavite,"Cassava for food, fresh tubers",2026 June,17.01,2026,June,6
+Cavite,"Gabi for ginataan, Cebu [Taro]",2026 January,15.0,2026,January,1
+Cavite,"Gabi for sinigang, Tagalog [Taro]",2026 April,40.0,2026,April,4
+Cavite,Radish,2026 January,33.91,2026,January,1
+Cavite,Ubi [Greater yam],2026 May,49.84,2026,May,5
+Cebu,Camote [Sweet potato],2026 June,27.69,2026,June,6
+Cebu,Carrot,2026 June,60.0,2026,June,6
+Cebu,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
+Cebu,"Cassava for industrial use, fresh tubers",2026 June,15.0,2026,June,6
+Cebu,"Gabi for ginataan, Cebu [Taro]",2026 June,30.02,2026,June,6
+Cebu,"Gabi for sinigang, Tagalog [Taro]",2026 June,60.0,2026,June,6
+Cebu,Gabi with stalk [Dasheen],2018 December,31.82,2018,December,12
+Cebu,Pao Galiang,2026 June,30.0,2026,June,6
+Cebu,Radish,2026 June,45.0,2026,June,6
+Cebu,Ubi [Greater yam],2026 June,60.0,2026,June,6
+Cotabato,Camote [Sweet potato],2026 June,35.0,2026,June,6
+Cotabato,"Cassava for food, fresh tubers",2026 April,12.0,2026,April,4
+Cotabato,"Cassava for industrial use, fresh tubers",2026 April,9.0,2026,April,4
+Cotabato,"Gabi for ginataan, Cebu [Taro]",2026 April,40.0,2026,April,4
+Cotabato,Potato,2026 June,50.0,2026,June,6
+Cotabato,Radish,2026 April,40.0,2026,April,4
+Cotabato,Singkamas [Turnip],2026 April,20.0,2026,April,4
+Davao Occidental,Camote [Sweet potato],2026 June,35.0,2026,June,6
+Davao Occidental,"Cassava for food, fresh tubers",2026 June,13.0,2026,June,6
+Davao Occidental,"Cassava for industrial use, fresh tubers",2026 March,12.0,2026,March,3
+Davao Occidental,Pao Galiang,2026 June,18.0,2026,June,6
+Davao Occidental,Ubi [Greater yam],2026 June,35.0,2026,June,6
+Davao Oriental,Camote [Sweet potato],2026 June,29.43,2026,June,6
+Davao Oriental,Carrot,2026 June,50.0,2026,June,6
+Davao Oriental,"Cassava for food, fresh tubers",2026 June,17.35,2026,June,6
+Davao Oriental,"Gabi for ginataan, Cebu [Taro]",2026 June,22.0,2026,June,6
+Davao Oriental,"Gabi for sinigang, Tagalog [Taro]",2024 July,15.0,2024,July,7
+Davao Oriental,Pao Galiang,2026 June,20.0,2026,June,6
+Davao Oriental,Radish,2026 June,40.0,2026,June,6
+Davao Oriental,Ubi [Greater yam],2026 June,35.0,2026,June,6
+Davao de Oro,Camote [Sweet potato],2026 June,29.66,2026,June,6
+Davao de Oro,Carrot,2026 June,60.0,2026,June,6
+Davao de Oro,"Cassava for food, fresh tubers",2026 June,13.99,2026,June,6
+Davao de Oro,"Cassava for industrial use, fresh tubers",2018 December,4.0,2018,December,12
+Davao de Oro,"Gabi for ginataan, Cebu [Taro]",2026 March,30.0,2026,March,3
+Davao de Oro,"Gabi for sinigang, Tagalog [Taro]",2026 March,30.0,2026,March,3
+Davao de Oro,Pao Galiang,2026 June,25.0,2026,June,6
+Davao de Oro,Radish,2026 June,30.0,2026,June,6
+Davao de Oro,Singkamas [Turnip],2026 June,20.0,2026,June,6
+Davao de Oro,Ubi [Greater yam],2026 June,45.0,2026,June,6
+Davao del Norte,Camote [Sweet potato],2026 June,15.0,2026,June,6
+Davao del Norte,"Cassava for food, fresh tubers",2026 June,12.0,2026,June,6
+Davao del Norte,"Cassava for industrial use, fresh tubers",2018 June,7.14,2018,June,6
+Davao del Norte,"Gabi for ginataan, Cebu [Taro]",2026 June,15.0,2026,June,6
+Davao del Norte,Pao Galiang,2026 June,20.0,2026,June,6
+Davao del Norte,Potato,2026 June,30.0,2026,June,6
+Davao del Sur,Camote [Sweet potato],2026 June,17.44,2026,June,6
+Davao del Sur,Carrot,2026 June,40.0,2026,June,6
+Davao del Sur,"Cassava for food, fresh tubers",2026 June,12.0,2026,June,6
+Davao del Sur,"Cassava for industrial use, fresh tubers",2026 May,8.0,2026,May,5
+Davao del Sur,"Gabi for ginataan, Cebu [Taro]",2018 November,6.54,2018,November,11
+Davao del Sur,"Gabi for sinigang, Tagalog [Taro]",2026 May,20.0,2026,May,5
+Davao del Sur,Potato,2026 May,75.0,2026,May,5
+Davao del Sur,Radish,2026 June,15.0,2026,June,6
+Dinagat Islands,Camote [Sweet potato],2026 June,50.52,2026,June,6
+Dinagat Islands,"Cassava for food, fresh tubers",2026 June,37.91,2026,June,6
+Dinagat Islands,"Cassava for industrial use, fresh tubers",2025 June,30.0,2025,June,6
+Dinagat Islands,"Gabi for ginataan, Cebu [Taro]",2026 January,50.0,2026,January,1
+Dinagat Islands,"Gabi for sinigang, Tagalog [Taro]",2026 February,60.0,2026,February,2
+Dinagat Islands,Pao Galiang,2026 March,20.0,2026,March,3
+Dinagat Islands,Ubi [Greater yam],2026 June,60.0,2026,June,6
+Eastern Samar,Camote [Sweet potato],2026 June,36.4,2026,June,6
+Eastern Samar,"Cassava for food, fresh tubers",2026 June,27.06,2026,June,6
+Eastern Samar,"Cassava for industrial use, fresh tubers",2025 December,24.47,2025,December,12
+Eastern Samar,"Gabi for ginataan, Cebu [Taro]",2026 June,34.86,2026,June,6
+Eastern Samar,"Gabi for sinigang, Tagalog [Taro]",2026 March,29.38,2026,March,3
+Eastern Samar,Pao Galiang,2026 March,30.0,2026,March,3
+Eastern Samar,Potato,2024 March,20.0,2024,March,3
+Eastern Samar,Ubi [Greater yam],2024 June,60.0,2024,June,6
+Guimaras,Camote [Sweet potato],2026 June,35.0,2026,June,6
+Guimaras,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
+Guimaras,"Gabi for sinigang, Tagalog [Taro]",2025 October,20.0,2025,October,10
+Guimaras,Radish,2026 June,120.0,2026,June,6
+Ifugao,Camote [Sweet potato],2026 June,39.3,2026,June,6
+Ifugao,Carrot,2026 June,31.91,2026,June,6
+Ifugao,"Cassava for food, fresh tubers",2026 June,40.0,2026,June,6
+Ifugao,"Gabi for ginataan, Cebu [Taro]",2026 June,70.0,2026,June,6
+Ifugao,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
+Ifugao,Gabi with stalk [Dasheen],2020 December,20.89,2020,December,12
+Ifugao,Pao Galiang,2026 June,26.02,2026,June,6
+Ifugao,Potato,2026 May,50.0,2026,May,5
+Ilocos Norte,Camote [Sweet potato],2026 June,35.0,2026,June,6
+Ilocos Norte,"Cassava for food, fresh tubers",2026 June,30.0,2026,June,6
+Ilocos Norte,"Gabi for ginataan, Cebu [Taro]",2025 June,30.0,2025,June,6
+Ilocos Norte,"Gabi for sinigang, Tagalog [Taro]",2026 June,30.0,2026,June,6
+Ilocos Norte,Gabi with stalk [Dasheen],2010 December,12.59,2010,December,12
+Ilocos Norte,Singkamas [Turnip],2026 June,35.0,2026,June,6
+Ilocos Norte,Ubi [Greater yam],2026 June,50.0,2026,June,6
+Ilocos Sur,Camote [Sweet potato],2026 June,60.0,2026,June,6
+Ilocos Sur,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
+Ilocos Sur,"Gabi for ginataan, Cebu [Taro]",2025 November,40.0,2025,November,11
+Ilocos Sur,"Gabi for sinigang, Tagalog [Taro]",2026 April,60.0,2026,April,4
+Ilocos Sur,Potato,2025 December,90.0,2025,December,12
+Ilocos Sur,Radish,2024 February,60.0,2024,February,2
+Ilocos Sur,Singkamas [Turnip],2026 April,20.0,2026,April,4
+Ilocos Sur,Ubi [Greater yam],2026 June,60.0,2026,June,6
+Iloilo,Camote [Sweet potato],2026 June,32.6,2026,June,6
+Iloilo,Carrot,2026 June,40.0,2026,June,6
+Iloilo,"Cassava for food, fresh tubers",2026 June,18.39,2026,June,6
+Iloilo,"Cassava for industrial use, fresh tubers",2025 April,15.0,2025,April,4
+Iloilo,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
+Iloilo,"Gabi for sinigang, Tagalog [Taro]",2026 June,9.2,2026,June,6
+Iloilo,Gabi with stalk [Dasheen],2023 December,17.86,2023,December,12
+Iloilo,Pao Galiang,2026 June,20.0,2026,June,6
+Iloilo,Radish,2026 June,21.46,2026,June,6
+Iloilo,Ubi [Greater yam],2026 June,25.0,2026,June,6
+Isabela,Camote [Sweet potato],2026 June,20.0,2026,June,6
+Isabela,"Cassava for food, fresh tubers",2026 March,13.0,2026,March,3
+Isabela,"Cassava for industrial use, fresh tubers",2026 June,4.5,2026,June,6
+Isabela,"Gabi for ginataan, Cebu [Taro]",2025 October,15.0,2025,October,10
+Isabela,"Gabi for sinigang, Tagalog [Taro]",2026 April,28.0,2026,April,4
+Isabela,Gabi with stalk [Dasheen],2023 December,12.08,2023,December,12
+Isabela,Radish,2026 March,40.0,2026,March,3
+Isabela,Singkamas [Turnip],2024 March,25.0,2024,March,3
+Kalinga,Camote [Sweet potato],2026 June,30.0,2026,June,6
+Kalinga,"Cassava for food, fresh tubers",2026 June,50.0,2026,June,6
+Kalinga,"Gabi for sinigang, Tagalog [Taro]",2026 June,30.0,2026,June,6
+Kalinga,Gabi with stalk [Dasheen],2023 December,20.92,2023,December,12
+Kalinga,Ubi [Greater yam],2026 June,60.0,2026,June,6
+La Union,Camote [Sweet potato],2026 June,45.34,2026,June,6
+La Union,"Cassava for food, fresh tubers",2026 June,30.0,2026,June,6
+La Union,"Gabi for ginataan, Cebu [Taro]",2024 September,20.0,2024,September,9
+La Union,"Gabi for sinigang, Tagalog [Taro]",2026 March,31.45,2026,March,3
+La Union,Pao Galiang,2026 June,35.0,2026,June,6
+La Union,Potato,2026 June,80.0,2026,June,6
+La Union,Singkamas [Turnip],2026 June,80.0,2026,June,6
+La Union,Ubi [Greater yam],2026 June,40.0,2026,June,6
+Laguna,Camote [Sweet potato],2026 June,36.11,2026,June,6
+Laguna,"Cassava for food, fresh tubers",2026 June,23.59,2026,June,6
+Laguna,"Gabi for ginataan, Cebu [Taro]",2026 March,28.71,2026,March,3
+Laguna,"Gabi for sinigang, Tagalog [Taro]",2026 May,32.02,2026,May,5
+Laguna,Radish,2026 June,58.09,2026,June,6
+Laguna,Ubi [Greater yam],2026 April,40.0,2026,April,4
+Lanao del Norte,Camote [Sweet potato],2026 June,18.75,2026,June,6
+Lanao del Norte,Carrot,2026 March,35.0,2026,March,3
+Lanao del Norte,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
+Lanao del Norte,"Cassava for industrial use, fresh tubers",2026 June,8.8,2026,June,6
+Lanao del Norte,"Gabi for ginataan, Cebu [Taro]",2026 June,22.0,2026,June,6
+Lanao del Norte,"Gabi for sinigang, Tagalog [Taro]",2010 December,9.78,2010,December,12
+Lanao del Norte,Potato,2026 January,32.0,2026,January,1
+Lanao del Norte,Ubi [Greater yam],2026 May,21.34,2026,May,5
+Lanao del Sur,Camote [Sweet potato],2026 June,23.31,2026,June,6
+Lanao del Sur,Carrot,2026 June,23.01,2026,June,6
+Lanao del Sur,"Cassava for food, fresh tubers",2026 June,17.1,2026,June,6
+Lanao del Sur,"Cassava for industrial use, fresh tubers",2026 May,7.97,2026,May,5
+Lanao del Sur,"Gabi for ginataan, Cebu [Taro]",2025 March,49.84,2025,March,3
+Lanao del Sur,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
+Lanao del Sur,Potato,2026 March,39.22,2026,March,3
+Lanao del Sur,Singkamas [Turnip],2024 July,14.96,2024,July,7
+Lanao del Sur,Ubi [Greater yam],2026 February,29.87,2026,February,2
+Leyte,Camote [Sweet potato],2026 June,37.34,2026,June,6
+Leyte,"Cassava for food, fresh tubers",2026 June,25.32,2026,June,6
+Leyte,"Cassava for industrial use, fresh tubers",2026 June,12.0,2026,June,6
+Leyte,"Gabi for ginataan, Cebu [Taro]",2026 June,72.54,2026,June,6
+Leyte,"Gabi for sinigang, Tagalog [Taro]",2026 June,28.23,2026,June,6
+Leyte,Pao Galiang,2026 May,25.0,2026,May,5
+Leyte,Radish,2025 August,35.0,2025,August,8
+Leyte,Ubi [Greater yam],2025 October,23.0,2025,October,10
+Maguindanao,Camote [Sweet potato],2018 December,23.95,2018,December,12
+Maguindanao,"Cassava for food, fresh tubers",2018 December,14.53,2018,December,12
+Marinduque,Arrowroot,2026 June,20.0,2026,June,6
+Marinduque,Camote [Sweet potato],2026 June,25.0,2026,June,6
+Marinduque,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
+Marinduque,"Gabi for ginataan, Cebu [Taro]",2015 December,9.64,2015,December,12
+Marinduque,Gabi with stalk [Dasheen],2023 December,22.32,2023,December,12
+Marinduque,Radish,2026 March,50.0,2026,March,3
+Masbate,Camote [Sweet potato],2026 May,22.19,2026,May,5
+Masbate,"Cassava for food, fresh tubers",2026 June,28.17,2026,June,6
+Masbate,"Cassava for industrial use, fresh tubers",2024 July,5.67,2024,July,7
+Masbate,"Gabi for ginataan, Cebu [Taro]",2025 November,50.0,2025,November,11
+Masbate,"Gabi for sinigang, Tagalog [Taro]",2026 May,50.0,2026,May,5
+Masbate,Gabi with stalk [Dasheen],2011 December,10.11,2011,December,12
+Masbate,Ubi [Greater yam],2026 May,50.0,2026,May,5
+Misamis Occidental,Camote [Sweet potato],2026 June,39.0,2026,June,6
+Misamis Occidental,Carrot,2026 June,77.5,2026,June,6
+Misamis Occidental,"Cassava for food, fresh tubers",2026 June,19.0,2026,June,6
+Misamis Occidental,"Cassava for industrial use, fresh tubers",2026 March,12.0,2026,March,3
+Misamis Occidental,"Gabi for ginataan, Cebu [Taro]",2026 May,28.0,2026,May,5
+Misamis Occidental,"Gabi for sinigang, Tagalog [Taro]",2026 April,27.83,2026,April,4
+Misamis Occidental,Potato,2026 June,45.0,2026,June,6
+Misamis Occidental,Ubi [Greater yam],2026 June,28.5,2026,June,6
+Misamis Oriental,Camote [Sweet potato],2026 June,20.29,2026,June,6
+Misamis Oriental,Carrot,2026 June,50.0,2026,June,6
+Misamis Oriental,"Cassava for food, fresh tubers",2026 June,14.8,2026,June,6
+Misamis Oriental,"Cassava for industrial use, fresh tubers",2026 June,10.0,2026,June,6
+Misamis Oriental,"Cassava, dried chips",2019 March,8.12,2019,March,3
+Misamis Oriental,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
+Misamis Oriental,"Gabi for sinigang, Tagalog [Taro]",2026 June,20.0,2026,June,6
+Misamis Oriental,Potato,2026 June,30.0,2026,June,6
+Misamis Oriental,Radish,2026 June,20.0,2026,June,6
+Mountain Province,Camote [Sweet potato],2026 May,49.0,2026,May,5
+Mountain Province,Carrot,2026 June,45.0,2026,June,6
+Mountain Province,"Cassava for food, fresh tubers",2026 April,20.0,2026,April,4
+Mountain Province,"Gabi for sinigang, Tagalog [Taro]",2026 March,50.0,2026,March,3
+Mountain Province,Potato,2026 March,50.0,2026,March,3
+Mountain Province,Radish,2026 June,60.0,2026,June,6
+Negros Occidental,Camote [Sweet potato],2023 December,26.22,2023,December,12
+Negros Occidental,"Cassava for food, fresh tubers",2023 December,13.36,2023,December,12
+Negros Occidental,Gabi with stalk [Dasheen],2023 December,21.05,2023,December,12
+Negros Occidental,Radish,2023 December,19.43,2023,December,12
+Negros Occidental a/,Camote [Sweet potato],2026 May,29.93,2026,May,5
+Negros Occidental a/,Carrot,2026 March,40.0,2026,March,3
+Negros Occidental a/,"Cassava for food, fresh tubers",2026 May,17.71,2026,May,5
+Negros Occidental a/,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
+Negros Occidental a/,"Gabi for sinigang, Tagalog [Taro]",2026 March,32.33,2026,March,3
+Negros Occidental a/,Pao Galiang,2026 May,20.0,2026,May,5
+Negros Occidental a/,Radish,2026 February,30.0,2026,February,2
+Negros Occidental a/,Ubi [Greater yam],2026 March,20.0,2026,March,3
+Negros Oriental,Camote [Sweet potato],2023 December,28.6,2023,December,12
+Negros Oriental,Carrot,2023 December,52.89,2023,December,12
+Negros Oriental,"Cassava for food, fresh tubers",2023 December,10.52,2023,December,12
+Negros Oriental,"Gabi for ginataan, Cebu [Taro]",2023 December,20.33,2023,December,12
+Negros Oriental,"Gabi for sinigang, Tagalog [Taro]",2023 December,28.63,2023,December,12
+Negros Oriental,Radish,2023 December,24.18,2023,December,12
+Negros Oriental,Ubi [Greater yam],2023 November,20.0,2023,November,11
+Negros Oriental b/,Camote [Sweet potato],2026 June,20.03,2026,June,6
+Negros Oriental b/,Carrot,2026 June,28.8,2026,June,6
+Negros Oriental b/,"Cassava for food, fresh tubers",2026 June,10.0,2026,June,6
+Negros Oriental b/,"Cassava for industrial use, fresh tubers",2026 April,10.7,2026,April,4
+Negros Oriental b/,"Gabi for ginataan, Cebu [Taro]",2026 May,40.0,2026,May,5
+Negros Oriental b/,"Gabi for sinigang, Tagalog [Taro]",2026 June,20.0,2026,June,6
+Negros Oriental b/,Radish,2026 June,25.0,2026,June,6
+Negros Oriental b/,Ubi [Greater yam],2026 April,20.0,2026,April,4
+Northern Samar,Camote [Sweet potato],2026 June,42.74,2026,June,6
+Northern Samar,"Cassava for food, fresh tubers",2026 June,55.28,2026,June,6
+Northern Samar,"Cassava for industrial use, fresh tubers",2024 June,14.0,2024,June,6
+Northern Samar,"Gabi for ginataan, Cebu [Taro]",2025 August,14.25,2025,August,8
+Northern Samar,"Gabi for sinigang, Tagalog [Taro]",2024 November,8.0,2024,November,11
+Northern Samar,Gabi with stalk [Dasheen],2022 December,31.79,2022,December,12
+Northern Samar,Pao Galiang,2026 May,14.17,2026,May,5
+Northern Samar,Ubi [Greater yam],2026 February,50.0,2026,February,2
+Nueva Ecija,Camote [Sweet potato],2026 June,20.0,2026,June,6
+Nueva Ecija,"Cassava for food, fresh tubers",2026 June,13.6,2026,June,6
+Nueva Ecija,"Gabi for ginataan, Cebu [Taro]",2024 December,50.0,2024,December,12
+Nueva Ecija,"Gabi for sinigang, Tagalog [Taro]",2026 March,55.0,2026,March,3
+Nueva Ecija,Radish,2026 March,40.0,2026,March,3
+Nueva Ecija,Singkamas [Turnip],2026 March,40.0,2026,March,3
+Nueva Vizcaya,Camote [Sweet potato],2026 June,34.56,2026,June,6
+Nueva Vizcaya,Carrot,2026 June,20.0,2026,June,6
+Nueva Vizcaya,"Cassava for food, fresh tubers",2026 June,26.67,2026,June,6
+Nueva Vizcaya,"Cassava for industrial use, fresh tubers",2026 April,14.0,2026,April,4
+Nueva Vizcaya,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
+Nueva Vizcaya,"Gabi for sinigang, Tagalog [Taro]",2026 June,22.85,2026,June,6
+Nueva Vizcaya,Gabi with stalk [Dasheen],2018 December,16.13,2018,December,12
+Nueva Vizcaya,Pao Galiang,2026 June,34.44,2026,June,6
+Nueva Vizcaya,Potato,2026 June,45.0,2026,June,6
+Nueva Vizcaya,Radish,2026 June,25.0,2026,June,6
+Nueva Vizcaya,Singkamas [Turnip],2026 May,30.0,2026,May,5
+Nueva Vizcaya,Ubi [Greater yam],2026 June,50.0,2026,June,6
+Occidental Mindoro,Camote [Sweet potato],2026 April,39.34,2026,April,4
+Occidental Mindoro,"Cassava for food, fresh tubers",2026 June,12.96,2026,June,6
+Occidental Mindoro,"Cassava for industrial use, fresh tubers",2026 June,20.0,2026,June,6
+Occidental Mindoro,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
+Occidental Mindoro,Potato,2024 July,12.6,2024,July,7
+Occidental Mindoro,Radish,2026 June,40.0,2026,June,6
+Occidental Mindoro,Singkamas [Turnip],2026 April,16.67,2026,April,4
+Occidental Mindoro,Ubi [Greater yam],2026 June,50.0,2026,June,6
+Oriental Mindoro,Camote [Sweet potato],2026 June,40.0,2026,June,6
+Oriental Mindoro,"Cassava for food, fresh tubers",2026 June,14.0,2026,June,6
+Oriental Mindoro,"Cassava for industrial use, fresh tubers",2026 June,8.0,2026,June,6
+Oriental Mindoro,"Gabi for sinigang, Tagalog [Taro]",2026 June,10.0,2026,June,6
+Oriental Mindoro,Gabi with stalk [Dasheen],2023 December,14.58,2023,December,12
+Oriental Mindoro,Radish,2026 June,40.0,2026,June,6
+Oriental Mindoro,Singkamas [Turnip],2026 June,30.0,2026,June,6
+Oriental Mindoro,Ubi [Greater yam],2026 June,30.0,2026,June,6
+Palawan,Camote [Sweet potato],2025 December,30.0,2025,December,12
+Palawan,"Cassava for food, fresh tubers",2026 June,15.0,2026,June,6
+Palawan,Gabi with stalk [Dasheen],2022 March,11.53,2022,March,3
+Palawan,Radish,2025 December,30.0,2025,December,12
+Pampanga,Camote [Sweet potato],2026 June,40.58,2026,June,6
+Pampanga,"Cassava for food, fresh tubers",2026 April,12.5,2026,April,4
+Pampanga,"Cassava for industrial use, fresh tubers",2026 February,5.41,2026,February,2
+Pampanga,"Gabi for ginataan, Cebu [Taro]",2025 September,38.28,2025,September,9
+Pampanga,"Gabi for sinigang, Tagalog [Taro]",2026 June,30.0,2026,June,6
+Pampanga,Pao Galiang,2025 December,12.0,2025,December,12
+Pampanga,Radish,2025 December,20.0,2025,December,12
+Pampanga,Singkamas [Turnip],2026 March,41.67,2026,March,3
+Pampanga,Ubi [Greater yam],2025 December,60.0,2025,December,12
+Pangasinan,Arrowroot,2026 June,35.0,2026,June,6
+Pangasinan,Camote [Sweet potato],2026 June,45.0,2026,June,6
+Pangasinan,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
+Pangasinan,"Gabi for ginataan, Cebu [Taro]",2026 June,40.0,2026,June,6
+Pangasinan,"Gabi for sinigang, Tagalog [Taro]",2026 June,50.0,2026,June,6
+Pangasinan,Pao Galiang,2026 June,60.0,2026,June,6
+Pangasinan,Radish,2026 June,30.0,2026,June,6
+Pangasinan,Singkamas [Turnip],2026 June,35.0,2026,June,6
+Pangasinan,Ubi [Greater yam],2025 October,40.0,2025,October,10
+Quezon,Arrowroot,2024 May,9.8,2024,May,5
+Quezon,Camote [Sweet potato],2026 June,32.99,2026,June,6
+Quezon,"Cassava for food, fresh tubers",2026 June,23.24,2026,June,6
+Quezon,"Cassava for industrial use, fresh tubers",2025 May,10.0,2025,May,5
+Quezon,"Gabi for ginataan, Cebu [Taro]",2026 May,10.44,2026,May,5
+Quezon,"Gabi for sinigang, Tagalog [Taro]",2026 March,22.35,2026,March,3
+Quezon,Radish,2026 April,9.85,2026,April,4
+Quezon,Ubi [Greater yam],2026 June,50.0,2026,June,6
+Quirino,Camote [Sweet potato],2026 June,35.0,2026,June,6
+Quirino,"Cassava for food, fresh tubers",2026 June,9.0,2026,June,6
+Quirino,"Cassava for industrial use, fresh tubers",2026 June,12.0,2026,June,6
+Quirino,"Gabi for sinigang, Tagalog [Taro]",2026 June,32.5,2026,June,6
+Quirino,Gabi with stalk [Dasheen],2023 December,14.82,2023,December,12
+Quirino,Pao Galiang,2026 June,20.0,2026,June,6
+Quirino,Singkamas [Turnip],2026 March,27.5,2026,March,3
+Quirino,Ubi [Greater yam],2026 May,69.51,2026,May,5
+Rizal,Camote [Sweet potato],2026 June,38.75,2026,June,6
+Rizal,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
+Rizal,"Cassava for industrial use, fresh tubers",2026 March,30.0,2026,March,3
+Rizal,"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
+Rizal,Pao Galiang,2026 June,50.0,2026,June,6
+Rizal,Radish,2026 June,55.0,2026,June,6
+Rizal,Ubi [Greater yam],2026 June,60.0,2026,June,6
+Romblon,Camote [Sweet potato],2026 June,60.0,2026,June,6
+Romblon,"Cassava for food, fresh tubers",2026 June,30.0,2026,June,6
+Romblon,"Gabi for sinigang, Tagalog [Taro]",2026 June,45.0,2026,June,6
+Romblon,Radish,2026 June,55.0,2026,June,6
+Romblon,Singkamas [Turnip],2026 June,50.0,2026,June,6
+Romblon,Ubi [Greater yam],2026 June,70.0,2026,June,6
+Samar,Camote [Sweet potato],2026 June,33.55,2026,June,6
+Samar,Carrot,2025 August,90.0,2025,August,8
+Samar,"Cassava for food, fresh tubers",2026 June,16.24,2026,June,6
+Samar,"Cassava for industrial use, fresh tubers",2025 September,15.33,2025,September,9
+Samar,"Gabi for ginataan, Cebu [Taro]",2026 May,13.29,2026,May,5
+Samar,"Gabi for sinigang, Tagalog [Taro]",2026 May,36.32,2026,May,5
+Samar,Gabi with stalk [Dasheen],2023 December,32.26,2023,December,12
+Samar,Pao Galiang,2024 March,13.33,2024,March,3
+Samar,Ubi [Greater yam],2023 December,27.17,2023,December,12
+Sarangani,Camote [Sweet potato],2026 June,30.0,2026,June,6
+Sarangani,Carrot,2026 June,29.0,2026,June,6
+Sarangani,"Cassava for food, fresh tubers",2026 May,25.0,2026,May,5
+Sarangani,"Cassava for industrial use, fresh tubers",2026 June,13.0,2026,June,6
+Sarangani,"Gabi for ginataan, Cebu [Taro]",2019 December,9.64,2019,December,12
+Sarangani,Pao Galiang,2022 December,10.06,2022,December,12
+Sarangani,Potato,2026 June,20.0,2026,June,6
+Sarangani,Radish,2026 June,50.0,2026,June,6
+Siquijor,Camote [Sweet potato],2023 December,36.83,2023,December,12
+Siquijor,"Cassava for food, fresh tubers",2023 December,8.75,2023,December,12
+Siquijor,"Gabi for ginataan, Cebu [Taro]",2023 December,34.45,2023,December,12
+Siquijor,Ubi [Greater yam],2023 December,50.0,2023,December,12
+Siquijor b/,Camote [Sweet potato],2026 June,54.8,2026,June,6
+Siquijor b/,"Cassava for food, fresh tubers",2026 May,18.9,2026,May,5
+Siquijor b/,"Cassava for industrial use, fresh tubers",2024 March,15.0,2024,March,3
+Siquijor b/,"Gabi for ginataan, Cebu [Taro]",2026 May,50.0,2026,May,5
+Siquijor b/,Ubi [Greater yam],2024 February,90.0,2024,February,2
+Sorsogon,Camote [Sweet potato],2026 June,65.98,2026,June,6
+Sorsogon,"Cassava for food, fresh tubers",2026 June,26.07,2026,June,6
+Sorsogon,"Cassava for industrial use, fresh tubers",2018 March,9.28,2018,March,3
+Sorsogon,"Gabi for ginataan, Cebu [Taro]",2026 June,50.0,2026,June,6
+Sorsogon,"Gabi for sinigang, Tagalog [Taro]",2026 June,51.76,2026,June,6
+Sorsogon,Pao Galiang,2026 June,30.0,2026,June,6
+Sorsogon,Radish,2026 June,40.0,2026,June,6
+Sorsogon,Ubi [Greater yam],2026 April,50.0,2026,April,4
+South Cotabato,Camote [Sweet potato],2026 April,16.83,2026,April,4
+South Cotabato,Carrot,2026 June,90.0,2026,June,6
+South Cotabato,"Cassava for food, fresh tubers",2025 November,9.52,2025,November,11
+South Cotabato,"Cassava for industrial use, fresh tubers",2026 June,2.8,2026,June,6
+South Cotabato,"Gabi for ginataan, Cebu [Taro]",2026 June,18.28,2026,June,6
+South Cotabato,"Gabi for sinigang, Tagalog [Taro]",2026 June,10.84,2026,June,6
+South Cotabato,Potato,2026 June,50.0,2026,June,6
+South Cotabato,Radish,2026 April,50.0,2026,April,4
+South Cotabato,Singkamas [Turnip],2024 June,15.0,2024,June,6
+South Cotabato,Ubi [Greater yam],2026 April,35.0,2026,April,4
+Southern Leyte,Camote [Sweet potato],2026 June,44.43,2026,June,6
+Southern Leyte,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
+Southern Leyte,"Gabi for ginataan, Cebu [Taro]",2026 June,20.84,2026,June,6
+Southern Leyte,"Gabi for sinigang, Tagalog [Taro]",2026 June,27.0,2026,June,6
+Southern Leyte,Pao Galiang,2026 March,15.0,2026,March,3
+Southern Leyte,Potato,2024 September,28.51,2024,September,9
+Southern Leyte,Radish,2025 January,20.0,2025,January,1
+Southern Leyte,Singkamas [Turnip],2024 June,44.49,2024,June,6
+Southern Leyte,Ubi [Greater yam],2024 November,25.0,2024,November,11
+Sultan Kudarat,Camote [Sweet potato],2026 June,20.0,2026,June,6
+Sultan Kudarat,Carrot,2015 December,52.86,2015,December,12
+Sultan Kudarat,"Cassava for food, fresh tubers",2026 June,9.0,2026,June,6
+Sultan Kudarat,"Cassava for industrial use, fresh tubers",2026 June,3.0,2026,June,6
+Sultan Kudarat,Gabi with stalk [Dasheen],2012 December,10.72,2012,December,12
+Sultan Kudarat,Pao Galiang,2026 May,10.0,2026,May,5
+Sultan Kudarat,Potato,2026 June,50.0,2026,June,6
+Sultan Kudarat,Radish,2026 June,20.0,2026,June,6
+Sultan Kudarat,Singkamas [Turnip],2026 June,25.0,2026,June,6
+Sulu,Camote [Sweet potato],2025 November,28.64,2025,November,11
+Sulu,"Cassava for food, fresh tubers",2025 December,14.63,2025,December,12
+Sulu,"Cassava for industrial use, fresh tubers",2025 September,14.94,2025,September,9
+Sulu,"Gabi for ginataan, Cebu [Taro]",2025 December,30.0,2025,December,12
+Sulu,"Gabi for sinigang, Tagalog [Taro]",2025 November,24.48,2025,November,11
+Sulu,Radish,2025 November,33.6,2025,November,11
+Sulu c/,Camote [Sweet potato],2026 June,24.25,2026,June,6
+Sulu c/,"Cassava for food, fresh tubers",2026 June,14.34,2026,June,6
+Sulu c/,"Gabi for ginataan, Cebu [Taro]",2026 June,28.8,2026,June,6
+Sulu c/,"Gabi for sinigang, Tagalog [Taro]",2026 May,20.33,2026,May,5
+Sulu c/,Radish,2026 June,30.0,2026,June,6
+Surigao del Norte,Camote [Sweet potato],2026 June,36.4,2026,June,6
+Surigao del Norte,Carrot,2024 March,20.0,2024,March,3
+Surigao del Norte,"Cassava for food, fresh tubers",2026 June,25.52,2026,June,6
+Surigao del Norte,"Gabi for ginataan, Cebu [Taro]",2026 June,25.0,2026,June,6
+Surigao del Norte,Gabi with stalk [Dasheen],2011 May,10.0,2011,May,5
+Surigao del Norte,Pao Galiang,2026 June,25.0,2026,June,6
+Surigao del Norte,Ubi [Greater yam],2025 December,70.0,2025,December,12
+Surigao del Sur,Camote [Sweet potato],2026 June,20.0,2026,June,6
+Surigao del Sur,"Cassava for food, fresh tubers",2026 June,21.55,2026,June,6
+Surigao del Sur,"Cassava for industrial use, fresh tubers",2026 June,5.3,2026,June,6
+Surigao del Sur,"Cassava, dried chips",2019 February,6.5,2019,February,2
+Surigao del Sur,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
+Surigao del Sur,Gabi with stalk [Dasheen],2023 December,16.04,2023,December,12
+Surigao del Sur,Pao Galiang,2026 June,25.0,2026,June,6
+Tarlac,Camote [Sweet potato],2026 June,40.0,2026,June,6
+Tarlac,"Cassava for food, fresh tubers",2026 May,25.0,2026,May,5
+Tarlac,"Gabi for sinigang, Tagalog [Taro]",2026 June,42.0,2026,June,6
+Tarlac,Radish,2026 June,22.0,2026,June,6
+Tarlac,Singkamas [Turnip],2026 May,25.0,2026,May,5
+Tawi-tawi,Camote [Sweet potato],2026 May,60.0,2026,May,5
+Tawi-tawi,"Cassava for food, fresh tubers",2026 June,67.82,2026,June,6
+Zambales,Camote [Sweet potato],2026 June,43.0,2026,June,6
+Zambales,"Cassava for food, fresh tubers",2025 August,14.13,2025,August,8
+Zambales,"Cassava for industrial use, fresh tubers",2017 September,5.56,2017,September,9
+Zambales,"Gabi for ginataan, Cebu [Taro]",2025 January,24.76,2025,January,1
+Zambales,"Gabi for sinigang, Tagalog [Taro]",2026 May,25.12,2026,May,5
+Zambales,Singkamas [Turnip],2024 March,25.0,2024,March,3
+Zambales,Ubi [Greater yam],2026 April,40.0,2026,April,4
+Zamboanga Sibugay,Camote [Sweet potato],2026 June,35.0,2026,June,6
+Zamboanga Sibugay,"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
+Zamboanga Sibugay,"Gabi for ginataan, Cebu [Taro]",2026 June,35.0,2026,June,6
+Zamboanga Sibugay,Gabi with stalk [Dasheen],2019 December,12.66,2019,December,12
+Zamboanga del Norte,Camote [Sweet potato],2026 June,22.01,2026,June,6
+Zamboanga del Norte,Carrot,2019 December,23.68,2019,December,12
+Zamboanga del Norte,"Cassava for food, fresh tubers",2026 June,22.72,2026,June,6
+Zamboanga del Norte,"Cassava for industrial use, fresh tubers",2026 June,15.0,2026,June,6
+Zamboanga del Norte,"Cassava, dried chips",2019 November,5.03,2019,November,11
+Zamboanga del Norte,"Gabi for ginataan, Cebu [Taro]",2026 June,40.0,2026,June,6
+Zamboanga del Norte,"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
+Zamboanga del Norte,Pao Galiang,2026 January,12.0,2026,January,1
+Zamboanga del Norte,Radish,2026 January,30.0,2026,January,1
+Zamboanga del Norte,Singkamas [Turnip],2025 May,26.0,2025,May,5
+Zamboanga del Norte,Ubi [Greater yam],2026 April,40.0,2026,April,4
+Zamboanga del Sur,Arrowroot,2025 June,40.0,2025,June,6
+Zamboanga del Sur,Camote [Sweet potato],2026 June,19.51,2026,June,6
+Zamboanga del Sur,Carrot,2026 June,30.0,2026,June,6
+Zamboanga del Sur,"Cassava for food, fresh tubers",2026 June,12.32,2026,June,6
+Zamboanga del Sur,"Cassava for industrial use, fresh tubers",2026 June,12.44,2026,June,6
+Zamboanga del Sur,"Gabi for ginataan, Cebu [Taro]",2026 June,20.0,2026,June,6
+Zamboanga del Sur,"Gabi for sinigang, Tagalog [Taro]",2026 June,15.0,2026,June,6
+Zamboanga del Sur,Gabi with stalk [Dasheen],2023 December,20.18,2023,December,12
+Zamboanga del Sur,Radish,2026 June,35.0,2026,June,6
+Zamboanga del Sur,Singkamas [Turnip],2026 June,35.0,2026,June,6
+Zamboanga del Sur,Ubi [Greater yam],2026 June,27.0,2026,June,6
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Camote [Sweet potato],2026 June,22.31,2026,June,6
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Carrot,2026 June,49.84,2026,June,6
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Cassava for food, fresh tubers",2026 June,36.54,2026,June,6
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Cassava for industrial use, fresh tubers",2026 May,7.97,2026,May,5
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Gabi for ginataan, Cebu [Taro]",2025 December,30.0,2025,December,12
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Gabi for sinigang, Tagalog [Taro]",2026 June,40.0,2026,June,6
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Potato,2026 June,72.76,2026,June,6
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Radish,2026 February,30.0,2026,February,2
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Singkamas [Turnip],2024 July,14.96,2024,July,7
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Ubi [Greater yam],2026 February,29.87,2026,February,2
+CORDILLERA ADMINISTRATIVE REGION (CAR),Camote [Sweet potato],2026 June,45.62,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),Carrot,2026 June,32.88,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),"Cassava for food, fresh tubers",2026 June,48.04,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),"Cassava for industrial use, fresh tubers",2026 June,20.0,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),"Gabi for ginataan, Cebu [Taro]",2026 June,59.86,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),"Gabi for sinigang, Tagalog [Taro]",2026 June,35.45,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),Gabi with stalk [Dasheen],2023 December,29.72,2023,December,12
+CORDILLERA ADMINISTRATIVE REGION (CAR),Pao Galiang,2026 June,25.39,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),Potato,2026 June,38.01,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),Radish,2026 June,14.94,2026,June,6
+CORDILLERA ADMINISTRATIVE REGION (CAR),Singkamas [Turnip],2026 April,20.0,2026,April,4
+CORDILLERA ADMINISTRATIVE REGION (CAR),Ubi [Greater yam],2026 June,83.4,2026,June,6
+MIMAROPA REGION,Arrowroot,2026 June,20.0,2026,June,6
+MIMAROPA REGION,Camote [Sweet potato],2026 June,54.0,2026,June,6
+MIMAROPA REGION,"Cassava for food, fresh tubers",2026 June,15.95,2026,June,6
+MIMAROPA REGION,"Cassava for industrial use, fresh tubers",2026 June,19.61,2026,June,6
+MIMAROPA REGION,"Gabi for ginataan, Cebu [Taro]",2015 December,9.64,2015,December,12
+MIMAROPA REGION,"Gabi for sinigang, Tagalog [Taro]",2026 June,15.51,2026,June,6
+MIMAROPA REGION,Gabi with stalk [Dasheen],2023 December,18.45,2023,December,12
+MIMAROPA REGION,Potato,2024 July,12.6,2024,July,7
+MIMAROPA REGION,Radish,2026 June,46.03,2026,June,6
+MIMAROPA REGION,Singkamas [Turnip],2026 June,49.67,2026,June,6
+MIMAROPA REGION,Ubi [Greater yam],2026 June,57.96,2026,June,6
+NEGROS ISLAND REGION (NIR) 2/,Camote [Sweet potato],2026 June,22.14,2026,June,6
+NEGROS ISLAND REGION (NIR) 2/,Carrot,2026 June,28.8,2026,June,6
+NEGROS ISLAND REGION (NIR) 2/,"Cassava for food, fresh tubers",2026 June,10.0,2026,June,6
+NEGROS ISLAND REGION (NIR) 2/,"Cassava for industrial use, fresh tubers",2026 April,10.7,2026,April,4
+NEGROS ISLAND REGION (NIR) 2/,"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
+NEGROS ISLAND REGION (NIR) 2/,"Gabi for sinigang, Tagalog [Taro]",2026 June,20.0,2026,June,6
+NEGROS ISLAND REGION (NIR) 2/,Pao Galiang,2026 May,20.0,2026,May,5
+NEGROS ISLAND REGION (NIR) 2/,Radish,2026 June,25.0,2026,June,6
+NEGROS ISLAND REGION (NIR) 2/,Ubi [Greater yam],2026 April,20.0,2026,April,4
+REGION I (ILOCOS REGION),Arrowroot,2026 June,35.0,2026,June,6
+REGION I (ILOCOS REGION),Camote [Sweet potato],2026 June,44.96,2026,June,6
+REGION I (ILOCOS REGION),"Cassava for food, fresh tubers",2026 June,21.96,2026,June,6
+REGION I (ILOCOS REGION),"Gabi for ginataan, Cebu [Taro]",2026 June,40.0,2026,June,6
+REGION I (ILOCOS REGION),"Gabi for sinigang, Tagalog [Taro]",2026 June,49.57,2026,June,6
+REGION I (ILOCOS REGION),Gabi with stalk [Dasheen],2010 December,12.59,2010,December,12
+REGION I (ILOCOS REGION),Pao Galiang,2026 June,36.45,2026,June,6
+REGION I (ILOCOS REGION),Potato,2026 June,80.0,2026,June,6
+REGION I (ILOCOS REGION),Radish,2026 June,30.0,2026,June,6
+REGION I (ILOCOS REGION),Singkamas [Turnip],2026 June,58.33,2026,June,6
+REGION I (ILOCOS REGION),Ubi [Greater yam],2026 June,58.98,2026,June,6
+REGION II (CAGAYAN VALLEY),Camote [Sweet potato],2026 June,33.63,2026,June,6
+REGION II (CAGAYAN VALLEY),Carrot,2026 June,22.01,2026,June,6
+REGION II (CAGAYAN VALLEY),"Cassava for food, fresh tubers",2026 June,20.63,2026,June,6
+REGION II (CAGAYAN VALLEY),"Cassava for industrial use, fresh tubers",2026 June,4.53,2026,June,6
+REGION II (CAGAYAN VALLEY),"Cassava, dried chips",2018 December,4.25,2018,December,12
+REGION II (CAGAYAN VALLEY),"Gabi for ginataan, Cebu [Taro]",2026 June,30.0,2026,June,6
+REGION II (CAGAYAN VALLEY),"Gabi for sinigang, Tagalog [Taro]",2026 June,29.48,2026,June,6
+REGION II (CAGAYAN VALLEY),Gabi with stalk [Dasheen],2023 December,14.43,2023,December,12
+REGION II (CAGAYAN VALLEY),Pao Galiang,2026 June,20.6,2026,June,6
+REGION II (CAGAYAN VALLEY),Potato,2026 June,45.0,2026,June,6
+REGION II (CAGAYAN VALLEY),Radish,2026 June,25.0,2026,June,6
+REGION II (CAGAYAN VALLEY),Singkamas [Turnip],2026 May,30.0,2026,May,5
+REGION II (CAGAYAN VALLEY),Ubi [Greater yam],2026 June,50.0,2026,June,6
+REGION III (CENTRAL LUZON),Camote [Sweet potato],2026 June,40.84,2026,June,6
+REGION III (CENTRAL LUZON),"Cassava for food, fresh tubers",2026 June,16.53,2026,June,6
+REGION III (CENTRAL LUZON),"Cassava for industrial use, fresh tubers",2026 February,5.41,2026,February,2
+REGION III (CENTRAL LUZON),"Gabi for ginataan, Cebu [Taro]",2026 June,25.0,2026,June,6
+REGION III (CENTRAL LUZON),"Gabi for sinigang, Tagalog [Taro]",2026 June,30.41,2026,June,6
+REGION III (CENTRAL LUZON),Pao Galiang,2026 January,60.0,2026,January,1
+REGION III (CENTRAL LUZON),Radish,2026 June,22.0,2026,June,6
+REGION III (CENTRAL LUZON),Singkamas [Turnip],2026 May,25.0,2026,May,5
+REGION III (CENTRAL LUZON),Ubi [Greater yam],2026 May,50.0,2026,May,5
+REGION IV-A (CALABARZON),Arrowroot,2024 May,9.8,2024,May,5
+REGION IV-A (CALABARZON),Camote [Sweet potato],2026 June,33.43,2026,June,6
+REGION IV-A (CALABARZON),Carrot,2026 February,300.0,2026,February,2
+REGION IV-A (CALABARZON),"Cassava for food, fresh tubers",2026 June,23.31,2026,June,6
+REGION IV-A (CALABARZON),"Cassava for industrial use, fresh tubers",2026 March,30.0,2026,March,3
+REGION IV-A (CALABARZON),"Gabi for ginataan, Cebu [Taro]",2026 June,72.0,2026,June,6
+REGION IV-A (CALABARZON),"Gabi for sinigang, Tagalog [Taro]",2026 June,25.0,2026,June,6
+REGION IV-A (CALABARZON),Pao Galiang,2026 June,50.0,2026,June,6
+REGION IV-A (CALABARZON),Radish,2026 June,58.02,2026,June,6
+REGION IV-A (CALABARZON),Singkamas [Turnip],2026 May,47.0,2026,May,5
+REGION IV-A (CALABARZON),Ubi [Greater yam],2026 June,63.94,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,Arrowroot,2025 June,40.0,2025,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,Camote [Sweet potato],2026 June,23.84,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,Carrot,2026 June,68.63,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Cassava for food, fresh tubers",2026 June,20.37,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Cassava for industrial use, fresh tubers",2026 June,15.16,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Cassava, dried chips",2019 November,5.03,2019,November,11
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Gabi for ginataan, Cebu [Taro]",2026 June,28.68,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Gabi for sinigang, Tagalog [Taro]",2026 June,19.04,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,Gabi with stalk [Dasheen],2023 December,20.18,2023,December,12
+REGION IX (ZAMBOANGA PENINSULA) 3/,Pao Galiang,2026 January,12.0,2026,January,1
+REGION IX (ZAMBOANGA PENINSULA) 3/,Radish,2026 June,26.31,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,Singkamas [Turnip],2026 June,35.0,2026,June,6
+REGION IX (ZAMBOANGA PENINSULA) 3/,Ubi [Greater yam],2026 June,27.0,2026,June,6
+REGION V (BICOL REGION),Camote [Sweet potato],2026 June,38.71,2026,June,6
+REGION V (BICOL REGION),"Cassava for food, fresh tubers",2026 June,20.68,2026,June,6
+REGION V (BICOL REGION),"Cassava for industrial use, fresh tubers",2026 May,29.53,2026,May,5
+REGION V (BICOL REGION),"Gabi for ginataan, Cebu [Taro]",2026 June,58.06,2026,June,6
+REGION V (BICOL REGION),"Gabi for sinigang, Tagalog [Taro]",2026 June,50.38,2026,June,6
+REGION V (BICOL REGION),Gabi with stalk [Dasheen],2023 December,14.55,2023,December,12
+REGION V (BICOL REGION),Pao Galiang,2026 June,30.0,2026,June,6
+REGION V (BICOL REGION),Radish,2026 June,43.82,2026,June,6
+REGION V (BICOL REGION),Singkamas [Turnip],2026 June,40.0,2026,June,6
+REGION V (BICOL REGION),Ubi [Greater yam],2026 June,51.39,2026,June,6
+REGION VI (WESTERN VISAYAS),Camote [Sweet potato],2026 June,30.5,2026,June,6
+REGION VI (WESTERN VISAYAS),Carrot,2026 June,41.69,2026,June,6
+REGION VI (WESTERN VISAYAS),"Cassava for food, fresh tubers",2026 June,19.37,2026,June,6
+REGION VI (WESTERN VISAYAS),"Cassava for industrial use, fresh tubers",2025 April,15.0,2025,April,4
+REGION VI (WESTERN VISAYAS),"Gabi for ginataan, Cebu [Taro]",2026 June,21.01,2026,June,6
+REGION VI (WESTERN VISAYAS),"Gabi for sinigang, Tagalog [Taro]",2026 June,16.81,2026,June,6
+REGION VI (WESTERN VISAYAS),Gabi with stalk [Dasheen],2023 December,20.23,2023,December,12
+REGION VI (WESTERN VISAYAS),Pao Galiang,2026 June,20.0,2026,June,6
+REGION VI (WESTERN VISAYAS),Radish,2026 June,27.41,2026,June,6
+REGION VI (WESTERN VISAYAS),Singkamas [Turnip],2026 June,34.63,2026,June,6
+REGION VI (WESTERN VISAYAS),Ubi [Greater yam],2026 June,34.49,2026,June,6
+REGION VII (CENTRAL VISAYAS),Camote [Sweet potato],2026 June,29.73,2026,June,6
+REGION VII (CENTRAL VISAYAS),Carrot,2026 June,60.0,2026,June,6
+REGION VII (CENTRAL VISAYAS),"Cassava for food, fresh tubers",2026 June,13.73,2026,June,6
+REGION VII (CENTRAL VISAYAS),"Cassava for industrial use, fresh tubers",2026 June,14.18,2026,June,6
+REGION VII (CENTRAL VISAYAS),"Gabi for ginataan, Cebu [Taro]",2026 June,30.08,2026,June,6
+REGION VII (CENTRAL VISAYAS),"Gabi for sinigang, Tagalog [Taro]",2026 June,55.74,2026,June,6
+REGION VII (CENTRAL VISAYAS),Gabi with stalk [Dasheen],2018 December,31.82,2018,December,12
+REGION VII (CENTRAL VISAYAS),Pao Galiang,2026 June,30.0,2026,June,6
+REGION VII (CENTRAL VISAYAS),Radish,2026 June,45.0,2026,June,6
+REGION VII (CENTRAL VISAYAS),Singkamas [Turnip],2026 May,70.0,2026,May,5
+REGION VII (CENTRAL VISAYAS),Ubi [Greater yam],2026 June,78.26,2026,June,6
+REGION VIII (EASTERN VISAYAS),Camote [Sweet potato],2026 June,40.23,2026,June,6
+REGION VIII (EASTERN VISAYAS),Carrot,2025 August,90.0,2025,August,8
+REGION VIII (EASTERN VISAYAS),"Cassava for food, fresh tubers",2026 June,34.71,2026,June,6
+REGION VIII (EASTERN VISAYAS),"Cassava for industrial use, fresh tubers",2026 June,12.0,2026,June,6
+REGION VIII (EASTERN VISAYAS),"Gabi for ginataan, Cebu [Taro]",2026 June,63.03,2026,June,6
+REGION VIII (EASTERN VISAYAS),"Gabi for sinigang, Tagalog [Taro]",2026 June,28.14,2026,June,6
+REGION VIII (EASTERN VISAYAS),Gabi with stalk [Dasheen],2023 December,32.26,2023,December,12
+REGION VIII (EASTERN VISAYAS),Pao Galiang,2026 May,16.25,2026,May,5
+REGION VIII (EASTERN VISAYAS),Potato,2024 September,28.51,2024,September,9
+REGION VIII (EASTERN VISAYAS),Radish,2025 August,35.0,2025,August,8
+REGION VIII (EASTERN VISAYAS),Singkamas [Turnip],2024 June,44.49,2024,June,6
+REGION VIII (EASTERN VISAYAS),Ubi [Greater yam],2026 February,50.0,2026,February,2
+REGION X (NORTHERN MINDANAO),Arrowroot,2026 June,20.0,2026,June,6
+REGION X (NORTHERN MINDANAO),Camote [Sweet potato],2026 June,27.0,2026,June,6
+REGION X (NORTHERN MINDANAO),Carrot,2026 June,44.25,2026,June,6
+REGION X (NORTHERN MINDANAO),"Cassava for food, fresh tubers",2026 June,19.63,2026,June,6
+REGION X (NORTHERN MINDANAO),"Cassava for industrial use, fresh tubers",2026 June,8.2,2026,June,6
+REGION X (NORTHERN MINDANAO),"Cassava, dried chips",2019 March,8.12,2019,March,3
+REGION X (NORTHERN MINDANAO),"Gabi for ginataan, Cebu [Taro]",2026 June,26.45,2026,June,6
+REGION X (NORTHERN MINDANAO),"Gabi for sinigang, Tagalog [Taro]",2026 June,22.35,2026,June,6
+REGION X (NORTHERN MINDANAO),Pao Galiang,2025 December,15.0,2025,December,12
+REGION X (NORTHERN MINDANAO),Potato,2026 June,70.0,2026,June,6
+REGION X (NORTHERN MINDANAO),Radish,2026 June,17.23,2026,June,6
+REGION X (NORTHERN MINDANAO),Singkamas [Turnip],2026 June,45.0,2026,June,6
+REGION X (NORTHERN MINDANAO),Ubi [Greater yam],2026 June,47.64,2026,June,6
+REGION XI (DAVAO REGION),Camote [Sweet potato],2026 June,24.01,2026,June,6
+REGION XI (DAVAO REGION),Carrot,2026 June,40.57,2026,June,6
+REGION XI (DAVAO REGION),"Cassava for food, fresh tubers",2026 June,14.39,2026,June,6
+REGION XI (DAVAO REGION),"Cassava for industrial use, fresh tubers",2026 May,8.0,2026,May,5
+REGION XI (DAVAO REGION),"Gabi for ginataan, Cebu [Taro]",2026 June,18.38,2026,June,6
+REGION XI (DAVAO REGION),"Gabi for sinigang, Tagalog [Taro]",2026 May,20.0,2026,May,5
+REGION XI (DAVAO REGION),Pao Galiang,2026 June,23.55,2026,June,6
+REGION XI (DAVAO REGION),Potato,2026 June,30.0,2026,June,6
+REGION XI (DAVAO REGION),Radish,2026 June,28.22,2026,June,6
+REGION XI (DAVAO REGION),Singkamas [Turnip],2026 June,20.0,2026,June,6
+REGION XI (DAVAO REGION),Ubi [Greater yam],2026 June,42.46,2026,June,6
+REGION XII (SOCCSKSARGEN),Camote [Sweet potato],2026 June,32.7,2026,June,6
+REGION XII (SOCCSKSARGEN),Carrot,2026 June,64.52,2026,June,6
+REGION XII (SOCCSKSARGEN),"Cassava for food, fresh tubers",2026 June,20.0,2026,June,6
+REGION XII (SOCCSKSARGEN),"Cassava for industrial use, fresh tubers",2026 June,2.85,2026,June,6
+REGION XII (SOCCSKSARGEN),"Gabi for ginataan, Cebu [Taro]",2026 June,18.28,2026,June,6
+REGION XII (SOCCSKSARGEN),"Gabi for sinigang, Tagalog [Taro]",2026 June,10.84,2026,June,6
+REGION XII (SOCCSKSARGEN),Gabi with stalk [Dasheen],2012 December,10.72,2012,December,12
+REGION XII (SOCCSKSARGEN),Pao Galiang,2026 May,10.0,2026,May,5
+REGION XII (SOCCSKSARGEN),Potato,2026 June,47.15,2026,June,6
+REGION XII (SOCCSKSARGEN),Radish,2026 June,27.95,2026,June,6
+REGION XII (SOCCSKSARGEN),Singkamas [Turnip],2026 June,25.0,2026,June,6
+REGION XII (SOCCSKSARGEN),Ubi [Greater yam],2026 April,35.0,2026,April,4
+REGION XIII (CARAGA),Camote [Sweet potato],2026 June,20.54,2026,June,6
+REGION XIII (CARAGA),Carrot,2024 March,20.0,2024,March,3
+REGION XIII (CARAGA),"Cassava for food, fresh tubers",2026 June,19.06,2026,June,6
+REGION XIII (CARAGA),"Cassava for industrial use, fresh tubers",2026 June,8.01,2026,June,6
+REGION XIII (CARAGA),"Cassava, dried chips",2019 February,6.5,2019,February,2
+REGION XIII (CARAGA),"Gabi for ginataan, Cebu [Taro]",2026 June,15.53,2026,June,6
+REGION XIII (CARAGA),"Gabi for sinigang, Tagalog [Taro]",2026 June,14.0,2026,June,6
+REGION XIII (CARAGA),Gabi with stalk [Dasheen],2023 December,16.04,2023,December,12
+REGION XIII (CARAGA),Pao Galiang,2026 June,25.0,2026,June,6
+REGION XIII (CARAGA),Potato,2025 June,100.0,2025,June,6
+REGION XIII (CARAGA),Radish,2024 September,15.0,2024,September,9
+REGION XIII (CARAGA),Ubi [Greater yam],2026 June,60.0,2026,June,6
 PHILIPPINES,Arrowroot,2026 June,20.05,2026,June,6
 PHILIPPINES,Camote [Sweet potato],2026 June,35.59,2026,June,6
 PHILIPPINES,Carrot,2026 June,34.77,2026,June,6
