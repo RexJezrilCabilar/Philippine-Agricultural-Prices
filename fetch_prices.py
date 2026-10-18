@@ -7,6 +7,7 @@ import sys
 import json
 from datetime import datetime
 from scipy.stats import linregress
+from dateutil.relativedelta import relativedelta
 
 
 API_URL = "https://openstat.psa.gov.ph:443/PXWeb/api/v1/en/DB/2M/NFG/0032M4AFN02.px"
@@ -66,6 +67,32 @@ def get_regression_metrics(group):
         "intercept": res.intercept
         })
 
+def calculate_forecast(Geolocation, Commodity, slope, intercept):
+    if pd.isna(slope) or pd.isna(intercept) or slope is None or intercept is None:
+        return pd.Series({
+            "Geolocation": Geolocation,
+            "Commodity": Commodity
+            })
+
+    today = datetime.now().date()
+    base_date = datetime(2026, 1, 1).date()
+    results = {
+        "Geolocation": Geolocation,
+        "Commodity": Commodity
+        }
+
+    for i in range(0, 3):
+        future_date = today + relativedelta(months=i)
+        months_difference = (future_date.year - base_date.year) * 12 + (future_date.month - base_date.month)
+        sequence_steps = months_difference + 1
+
+        month_num = future_date.month
+        forecasted_price = slope * sequence_steps + intercept
+        results[f"Forecast_{month_num}"] = forecasted_price
+
+    return pd.Series(results)
+        
+
 def main():
     response = fetch_with_retries(API_URL, query_payload)
 
@@ -105,16 +132,19 @@ def main():
     regression_results = df.groupby(["Geolocation", "Commodity"]).apply(get_regression_metrics, include_groups=False)
     regression_results = regression_results.reset_index()
 
+    #Calculating the forecasted prices for the next 3 months
+    forecast_data = regression_results.apply(lambda row: calculate_forecast(row["Geolocation"], row["Commodity"], row["slope"], row["intercept"]), axis=1)
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     latest_price.to_csv(CSV_PATH, index=False)
     latest_price.to_json(JSON_PATH, orient="records", indent=2, force_ascii=False)
-    regression_results.to_csv(CSV_PATH2, index=False)
+    forecast_data.to_csv(CSV_PATH2, index=False)
     META_PATH.write_text(json.dumps({
         "last_updated": datetime.now().isoformat(timespec="seconds"),
         "rows": len(df),
     }, indent=2))
 
-    print(df.head(20))
+    print(forecast_data.head(20))
 
 
 
