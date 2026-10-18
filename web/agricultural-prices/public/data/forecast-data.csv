@@ -1,0 +1,666 @@
+Geolocation,Commodity,slope,intercept
+Abra,Camote [Sweet potato],1.5889999999999997,25.437
+Abra,"Cassava for food, fresh tubers",1.4285714285714286,12.857142857142858
+Abra,"Gabi for sinigang, Tagalog [Taro]",-3.5714285714285716,45.0
+Abra,Singkamas [Turnip],0.0,20.0
+Agusan del Norte,Camote [Sweet potato],-2.1805714285714277,41.387428571428565
+Agusan del Norte,"Cassava for food, fresh tubers",-1.9285714285714286,27.535714285714285
+Agusan del Norte,"Gabi for ginataan, Cebu [Taro]",,
+Agusan del Norte,"Gabi for sinigang, Tagalog [Taro]",,
+Agusan del Norte,Ubi [Greater yam],0.0,30.0
+Agusan del Sur,Camote [Sweet potato],-1.7851428571428571,28.091333333333335
+Agusan del Sur,"Cassava for food, fresh tubers",-0.461142857142857,14.307333333333332
+Agusan del Sur,"Cassava for industrial use, fresh tubers",0.0,9.0
+Agusan del Sur,"Gabi for ginataan, Cebu [Taro]",0.8365714285714287,10.415333333333333
+Agusan del Sur,"Gabi for sinigang, Tagalog [Taro]",1.142857142857143,7.999999999999999
+Aklan,Camote [Sweet potato],0.3502857142857145,25.01066666666667
+Aklan,"Cassava for food, fresh tubers",-0.9285714285714287,21.666666666666668
+Aklan,"Gabi for sinigang, Tagalog [Taro]",1.142857142857143,31.0
+Aklan,Radish,1.0,52.333333333333336
+Aklan,Singkamas [Turnip],-1.2857142857142858,37.0
+Aklan,Ubi [Greater yam],0.5142857142857143,32.2
+Albay,Camote [Sweet potato],1.3848571428571432,31.671333333333337
+Albay,"Cassava for food, fresh tubers",2.531756756756757,10.378378378378377
+Albay,"Cassava for industrial use, fresh tubers",0.4625714285714289,27.25542857142857
+Albay,"Gabi for sinigang, Tagalog [Taro]",-6.5,40.66666666666667
+Albay,Radish,0.0,30.0
+Albay,Singkamas [Turnip],0.0,30.0
+Antique,Camote [Sweet potato],1.9974285714285713,34.454
+Antique,Carrot,1.4285714285714288,53.333333333333336
+Antique,"Cassava for food, fresh tubers",-1.6962857142857144,34.222
+Antique,"Gabi for ginataan, Cebu [Taro]",-2.0,42.0
+Antique,"Gabi for sinigang, Tagalog [Taro]",0.7,20.96666666666667
+Antique,Radish,-0.009714285714285812,35.924
+Antique,Singkamas [Turnip],-1.0802857142857143,40.08266666666667
+Antique,Ubi [Greater yam],2.5714285714285716,36.0
+Apayao,Camote [Sweet potato],2.6894285714285715,25.978666666666665
+Apayao,"Cassava for food, fresh tubers",2.5220000000000002,14.924000000000001
+Apayao,"Cassava for industrial use, fresh tubers",0.0,20.0
+Apayao,"Gabi for ginataan, Cebu [Taro]",,
+Apayao,"Gabi for sinigang, Tagalog [Taro]",-0.3515384615384618,27.048461538461538
+Apayao,Pao Galiang,-3.6471428571428577,37.24333333333334
+Apayao,Ubi [Greater yam],-2.29,56.973333333333336
+Aurora,Camote [Sweet potato],4.033947368421053,20.275526315789477
+Aurora,"Cassava for food, fresh tubers",-2.5,25.0
+Aurora,"Gabi for ginataan, Cebu [Taro]",5.5,-10.0
+Aurora,"Gabi for sinigang, Tagalog [Taro]",3.5,9.0
+Aurora,Pao Galiang,,
+Aurora,Ubi [Greater yam],0.0,45.0
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Camote [Sweet potato],-2.568571428571429,37.20333333333334
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Carrot,-3.5070270270270254,59.452702702702695
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Cassava for food, fresh tubers",4.09657142857143,13.715333333333334
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Cassava for industrial use, fresh tubers",0.016999999999999904,8.101
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,"Gabi for sinigang, Tagalog [Taro]",8.0,-8.0
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Potato,6.722857142857143,28.448928571428578
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Radish,,
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) 1/,Ubi [Greater yam],,
+Basilan,Camote [Sweet potato],0.02857142857142857,41.4
+Basilan,"Cassava for food, fresh tubers",-0.03371428571428581,18.458
+Bataan,Camote [Sweet potato],0.0,25.0
+Bataan,"Cassava for food, fresh tubers",1.6569767441860466,13.866279069767442
+Bataan,"Gabi for ginataan, Cebu [Taro]",-0.5714285714285715,27.0
+Bataan,"Gabi for sinigang, Tagalog [Taro]",-0.5714285714285715,27.0
+Batanes,Camote [Sweet potato],-0.9405714285714281,52.55866666666667
+Batanes,Carrot,6.822999999999999,49.1
+Batanes,"Gabi for ginataan, Cebu [Taro]",-10.0,90.0
+Batanes,"Gabi for sinigang, Tagalog [Taro]",,
+Batanes,Radish,,
+Batanes,Ubi [Greater yam],-6.022558139534883,81.95720930232558
+Batangas,Camote [Sweet potato],-1.8644594594594595,30.190270270270272
+Batangas,"Cassava for food, fresh tubers",0.9671428571428569,17.243333333333336
+Batangas,"Gabi for ginataan, Cebu [Taro]",,
+Batangas,"Gabi for sinigang, Tagalog [Taro]",-1.7142857142857142,24.714285714285715
+Batangas,Radish,9.14,11.719999999999999
+Batangas,Singkamas [Turnip],-0.5,49.333333333333336
+Batangas,Ubi [Greater yam],3.8291891891891896,44.4145945945946
+Benguet,Camote [Sweet potato],-2.0934285714285714,49.08866666666666
+Benguet,Carrot,0.522857142857143,31.09
+Benguet,"Cassava for food, fresh tubers",1.1051428571428563,37.593142857142865
+Benguet,"Cassava for industrial use, fresh tubers",,
+Benguet,"Gabi for ginataan, Cebu [Taro]",8.335000000000003,6.741666666666653
+Benguet,"Gabi for sinigang, Tagalog [Taro]",,
+Benguet,Potato,-0.473428571428572,31.208666666666666
+Benguet,Radish,-1.7734285714285714,20.148666666666667
+Benguet,Ubi [Greater yam],-5.414999999999999,117.35500000000002
+Biliran,Camote [Sweet potato],-0.3277142857142855,41.74533333333333
+Biliran,"Cassava for food, fresh tubers",2.286,22.178
+Biliran,"Gabi for ginataan, Cebu [Taro]",1.7857142857142863,19.999999999999996
+Bohol,Camote [Sweet potato],0.3154285714285706,35.306000000000004
+Bohol,"Cassava for food, fresh tubers",-1.409428571428572,21.47466666666667
+Bohol,"Cassava for industrial use, fresh tubers",0.0,5.0
+Bohol,"Gabi for ginataan, Cebu [Taro]",0.9262857142857142,26.617999999999995
+Bohol,"Gabi for sinigang, Tagalog [Taro]",5.000000000000001,11.66666666666666
+Bohol,Singkamas [Turnip],,
+Bohol,Ubi [Greater yam],-1.7906976744186047,80.98837209302326
+Bukidnon,Arrowroot,0.0,20.0
+Bukidnon,Camote [Sweet potato],-0.6082857142857143,27.057333333333332
+Bukidnon,Carrot,0.8571428571428572,52.0
+Bukidnon,"Cassava for food, fresh tubers",-0.05714285714285714,14.533333333333333
+Bukidnon,"Cassava for industrial use, fresh tubers",1.0202857142857145,1.690666666666666
+Bukidnon,"Gabi for ginataan, Cebu [Taro]",3.285714285714286,21.0
+Bukidnon,"Gabi for sinigang, Tagalog [Taro]",2.4285714285714284,17.333333333333332
+Bukidnon,Potato,6.142857142857143,32.666666666666664
+Bukidnon,Radish,-2.337142857142857,28.73
+Bukidnon,Singkamas [Turnip],0.8571428571428572,38.666666666666664
+Bukidnon,Ubi [Greater yam],8.0,25.333333333333336
+Bulacan,Camote [Sweet potato],0.4285714285714286,31.0
+Bulacan,"Cassava for food, fresh tubers",0.08228571428571425,19.232
+CORDILLERA ADMINISTRATIVE REGION (CAR),Camote [Sweet potato],1.2414285714285704,32.660000000000004
+CORDILLERA ADMINISTRATIVE REGION (CAR),Carrot,-0.8988571428571422,38.48933333333333
+CORDILLERA ADMINISTRATIVE REGION (CAR),"Cassava for food, fresh tubers",2.7617142857142856,22.953999999999997
+CORDILLERA ADMINISTRATIVE REGION (CAR),"Cassava for industrial use, fresh tubers",-0.007142857142857244,20.00357142857143
+CORDILLERA ADMINISTRATIVE REGION (CAR),"Gabi for ginataan, Cebu [Taro]",6.227674418604651,18.58837209302326
+CORDILLERA ADMINISTRATIVE REGION (CAR),"Gabi for sinigang, Tagalog [Taro]",-1.727999999999999,42.341333333333324
+CORDILLERA ADMINISTRATIVE REGION (CAR),Pao Galiang,0.0740000000000002,24.555999999999997
+CORDILLERA ADMINISTRATIVE REGION (CAR),Potato,-0.30114285714285755,33.95733333333333
+CORDILLERA ADMINISTRATIVE REGION (CAR),Radish,-8.982285714285714,62.54133333333333
+CORDILLERA ADMINISTRATIVE REGION (CAR),Singkamas [Turnip],0.0,20.0
+CORDILLERA ADMINISTRATIVE REGION (CAR),Ubi [Greater yam],7.600285714285716,43.200666666666656
+Cagayan,Camote [Sweet potato],-0.837142857142857,37.76
+Cagayan,Carrot,-3.3333333333333335,70.0
+Cagayan,"Cassava for food, fresh tubers",1.062285714285714,19.075333333333333
+Cagayan,"Gabi for ginataan, Cebu [Taro]",-3.1000000000000014,32.86
+Cagayan,"Gabi for sinigang, Tagalog [Taro]",4.929,14.714999999999998
+Cagayan,Radish,10.0,0.0
+Cagayan,Ubi [Greater yam],-5.439999999999998,71.75999999999999
+Camarines Norte,Camote [Sweet potato],-8.094999999999999,74.285
+Camarines Norte,"Cassava for food, fresh tubers",0.1462857142857144,23.718
+Camarines Norte,"Gabi for sinigang, Tagalog [Taro]",,
+Camarines Sur,Camote [Sweet potato],1.2694285714285711,29.628666666666668
+Camarines Sur,"Cassava for food, fresh tubers",-0.21914285714285697,19.138666666666666
+Camarines Sur,"Gabi for sinigang, Tagalog [Taro]",6.2379999999999995,16.628
+Camarines Sur,Pao Galiang,0.23799999999999996,25.27866666666667
+Camarines Sur,Radish,,
+Camarines Sur,Singkamas [Turnip],,
+Camarines Sur,Ubi [Greater yam],0.0,40.0
+Camiguin,Camote [Sweet potato],1.6125714285714285,28.076
+Camiguin,"Cassava for food, fresh tubers",4.6977142857142855,9.801333333333336
+Camiguin,"Gabi for ginataan, Cebu [Taro]",2.6551428571428577,21.795333333333332
+Camiguin,Ubi [Greater yam],0.0,50.0
+Capiz,Camote [Sweet potato],-0.35600000000000015,30.342666666666666
+Capiz,"Cassava for food, fresh tubers",2.744285714285715,11.623333333333333
+Capiz,"Gabi for ginataan, Cebu [Taro]",0.0,20.0
+Capiz,"Gabi for sinigang, Tagalog [Taro]",-1.560857142857143,27.428000000000004
+Capiz,Radish,0.0,80.0
+Catanduanes,Camote [Sweet potato],2.491428571428572,34.581785714285715
+Catanduanes,"Cassava for food, fresh tubers",-1.7739999999999996,39.96733333333333
+Catanduanes,"Gabi for ginataan, Cebu [Taro]",,
+Catanduanes,"Gabi for sinigang, Tagalog [Taro]",0.0,45.0
+Catanduanes,Radish,-3.0,76.0
+Catanduanes,Ubi [Greater yam],3.0,64.0
+Cavite,Camote [Sweet potato],-0.5357142857142855,43.92857142857143
+Cavite,Carrot,0.0,300.0
+Cavite,"Cassava for food, fresh tubers",-1.762857142857143,25.876666666666665
+Cavite,"Gabi for ginataan, Cebu [Taro]",,
+Cavite,"Gabi for sinigang, Tagalog [Taro]",1.097142857142858,32.41
+Cavite,Radish,,
+Cavite,Ubi [Greater yam],2.4200000000000017,35.26666666666666
+Cebu,Camote [Sweet potato],0.03485714285714283,28.034666666666666
+Cebu,Carrot,0.0483050847457625,56.43050847457627
+Cebu,"Cassava for food, fresh tubers",-2.333428571428571,26.022
+Cebu,"Cassava for industrial use, fresh tubers",-0.3889999999999997,17.087999999999997
+Cebu,"Gabi for ginataan, Cebu [Taro]",1.163428571428572,29.38133333333333
+Cebu,"Gabi for sinigang, Tagalog [Taro]",0.0,60.0
+Cebu,Pao Galiang,0.0,30.0
+Cebu,Radish,0.0,45.0
+Cebu,Ubi [Greater yam],4.281000000000001,34.891999999999996
+City of Butuan,Camote [Sweet potato],3.114,10.607000000000001
+City of Butuan,"Cassava for food, fresh tubers",0.65,10.75
+City of Davao,Camote [Sweet potato],-0.9850000000000001,22.91
+City of Davao,"Cassava for food, fresh tubers",,
+City of Davao,"Gabi for ginataan, Cebu [Taro]",,
+City of Davao,Radish,,
+City of Puerto Princesa,Ubi [Greater yam],,
+City of Zamboanga,Camote [Sweet potato],0.7558139534883722,26.27906976744186
+City of Zamboanga,Carrot,0.0,70.0
+City of Zamboanga,"Cassava for food, fresh tubers",3.651216216216216,6.523378378378384
+City of Zamboanga,"Cassava for industrial use, fresh tubers",0.0,20.0
+City of Zamboanga,"Gabi for ginataan, Cebu [Taro]",0.0,20.0
+City of Zamboanga,Radish,0.0,25.0
+Cotabato,Camote [Sweet potato],3.3333333333333335,15.0
+Cotabato,"Cassava for food, fresh tubers",0.0,12.0
+Cotabato,"Cassava for industrial use, fresh tubers",0.0,9.0
+Cotabato,"Gabi for ginataan, Cebu [Taro]",0.0,40.0
+Cotabato,Potato,0.0,50.0
+Cotabato,Radish,0.0,40.0
+Cotabato,Singkamas [Turnip],0.0,20.0
+Davao Occidental,Camote [Sweet potato],1.0214285714285714,29.463333333333335
+Davao Occidental,"Cassava for food, fresh tubers",-0.004857142857142855,14.322
+Davao Occidental,"Cassava for industrial use, fresh tubers",0.0,12.0
+Davao Occidental,Pao Galiang,0.0,17.0
+Davao Occidental,Ubi [Greater yam],0.0,35.0
+Davao Oriental,Camote [Sweet potato],0.9120000000000001,24.248
+Davao Oriental,Carrot,-1.342857142857143,58.53333333333334
+Davao Oriental,"Cassava for food, fresh tubers",-0.1671428571428568,18.259999999999994
+Davao Oriental,"Gabi for ginataan, Cebu [Taro]",1.7142857142857144,13.0
+Davao Oriental,Pao Galiang,0.0,20.0
+Davao Oriental,Radish,2.5714285714285716,27.666666666666664
+Davao Oriental,Ubi [Greater yam],-1.2857142857142858,42.0
+Davao de Oro,Camote [Sweet potato],-1.8285714285714283,38.883333333333326
+Davao de Oro,Carrot,0.0,60.0
+Davao de Oro,"Cassava for food, fresh tubers",-4.328857142857143,43.51266666666667
+Davao de Oro,"Gabi for ginataan, Cebu [Taro]",-3.9299999999999997,40.196666666666665
+Davao de Oro,"Gabi for sinigang, Tagalog [Taro]",7.5,10.0
+Davao de Oro,Pao Galiang,1.142857142857143,19.333333333333332
+Davao de Oro,Radish,-1.4008571428571432,37.154666666666664
+Davao de Oro,Singkamas [Turnip],0.0,20.0
+Davao de Oro,Ubi [Greater yam],0.7142857142857144,41.666666666666664
+Davao del Norte,Camote [Sweet potato],0.0,15.0
+Davao del Norte,"Cassava for food, fresh tubers",0.5142857142857143,9.2
+Davao del Norte,"Gabi for ginataan, Cebu [Taro]",-1.2857142857142858,22.0
+Davao del Norte,Pao Galiang,0.0,20.0
+Davao del Norte,Potato,0.0,30.0
+Davao del Sur,Camote [Sweet potato],-3.6089999999999995,41.117999999999995
+Davao del Sur,Carrot,-1.3350000000000002,45.295
+Davao del Sur,"Cassava for food, fresh tubers",-0.15199999999999997,12.728000000000002
+Davao del Sur,"Cassava for industrial use, fresh tubers",-2.0,18.0
+Davao del Sur,"Gabi for sinigang, Tagalog [Taro]",-6.666666666666667,53.333333333333336
+Davao del Sur,Potato,0.2000000000000008,72.08
+Davao del Sur,Radish,-0.8,20.8
+Dinagat Islands,Camote [Sweet potato],2.820857142857143,33.32533333333333
+Dinagat Islands,"Cassava for food, fresh tubers",3.045999999999999,19.77066666666667
+Dinagat Islands,"Gabi for ginataan, Cebu [Taro]",,
+Dinagat Islands,"Gabi for sinigang, Tagalog [Taro]",0.0,60.0
+Dinagat Islands,Pao Galiang,-10.000000000000002,46.66666666666667
+Dinagat Islands,Ubi [Greater yam],4.0,36.0
+Eastern Samar,Camote [Sweet potato],1.6977142857142853,26.561333333333337
+Eastern Samar,"Cassava for food, fresh tubers",0.7297142857142858,23.459333333333333
+Eastern Samar,"Gabi for ginataan, Cebu [Taro]",0.36057142857142854,32.20133333333333
+Eastern Samar,"Gabi for sinigang, Tagalog [Taro]",0.799999999999999,31.69
+Eastern Samar,Pao Galiang,-7.5,55.0
+Guimaras,Camote [Sweet potato],0.8571428571428572,28.666666666666668
+Guimaras,"Cassava for food, fresh tubers",0.0,15.0
+Guimaras,Radish,7.42857142857143,34.0
+Ifugao,Camote [Sweet potato],-2.521714285714287,46.72266666666667
+Ifugao,Carrot,-2.7851428571428576,43.23466666666667
+Ifugao,"Cassava for food, fresh tubers",-0.30685714285714294,42.864
+Ifugao,"Gabi for ginataan, Cebu [Taro]",7.63157894736842,18.68421052631579
+Ifugao,"Gabi for sinigang, Tagalog [Taro]",0.0,40.0
+Ifugao,Pao Galiang,2.346857142857143,13.242666666666667
+Ifugao,Potato,,
+Ilocos Norte,Camote [Sweet potato],-0.574,36.164
+Ilocos Norte,"Cassava for food, fresh tubers",0.14285714285714288,28.666666666666668
+Ilocos Norte,"Gabi for sinigang, Tagalog [Taro]",-2.7142857142857144,43.666666666666664
+Ilocos Norte,Singkamas [Turnip],-1.4285714285714288,41.666666666666664
+Ilocos Norte,Ubi [Greater yam],0.0,56.666666666666664
+Ilocos Sur,Camote [Sweet potato],2.8774285714285717,33.99066666666667
+Ilocos Sur,"Cassava for food, fresh tubers",0.8997142857142859,15.975999999999999
+Ilocos Sur,"Gabi for sinigang, Tagalog [Taro]",0.0,60.0
+Ilocos Sur,Singkamas [Turnip],-0.5,20.0
+Ilocos Sur,Ubi [Greater yam],-0.5035714285714283,60.0
+Iloilo,Camote [Sweet potato],-1.369428571428571,38.50133333333333
+Iloilo,Carrot,0.0,40.0
+Iloilo,"Cassava for food, fresh tubers",1.8037142857142858,10.328666666666665
+Iloilo,"Gabi for ginataan, Cebu [Taro]",-4.8505714285714285,45.47866666666667
+Iloilo,"Gabi for sinigang, Tagalog [Taro]",-9.017142857142858,57.81333333333333
+Iloilo,Pao Galiang,0.0,20.0
+Iloilo,Radish,-0.37371428571428567,21.078
+Iloilo,Ubi [Greater yam],2.8322857142857143,9.222000000000001
+Isabela,Camote [Sweet potato],-1.4465714285714286,32.501333333333335
+Isabela,"Cassava for food, fresh tubers",1.0,9.666666666666666
+Isabela,"Cassava for industrial use, fresh tubers",-0.07028571428571427,4.786
+Isabela,"Gabi for sinigang, Tagalog [Taro]",2.0,20.0
+Isabela,Radish,,
+Kalinga,Camote [Sweet potato],2.8488372093023258,16.74418604651163
+Kalinga,"Cassava for food, fresh tubers",0.0,50.0
+Kalinga,"Gabi for sinigang, Tagalog [Taro]",0.0,31.666666666666668
+Kalinga,Ubi [Greater yam],2.5000000000000004,45.833333333333336
+La Union,Camote [Sweet potato],0.6771428571428577,40.17666666666666
+La Union,"Cassava for food, fresh tubers",3.8348571428571434,8.947999999999999
+La Union,"Gabi for sinigang, Tagalog [Taro]",0.7249999999999998,27.366666666666667
+La Union,Pao Galiang,1.142857142857143,27.666666666666668
+La Union,Potato,5.000000000000001,48.33333333333333
+La Union,Singkamas [Turnip],11.571428571428571,17.0
+La Union,Ubi [Greater yam],-0.4285714285714286,40.666666666666664
+Laguna,Camote [Sweet potato],2.777567567567567,23.333783783783787
+Laguna,"Cassava for food, fresh tubers",1.4645714285714282,14.747333333333334
+Laguna,"Gabi for ginataan, Cebu [Taro]",-3.1449999999999996,35.86
+Laguna,"Gabi for sinigang, Tagalog [Taro]",-2.095999999999999,34.507999999999996
+Laguna,Radish,3.6419767441860476,13.60127906976744
+Laguna,Ubi [Greater yam],9.72,1.1199999999999974
+Lanao del Norte,Camote [Sweet potato],-0.5182857142857143,23.184
+Lanao del Norte,Carrot,2.5000000000000004,28.333333333333336
+Lanao del Norte,"Cassava for food, fresh tubers",0.07342857142857138,14.634666666666666
+Lanao del Norte,"Cassava for industrial use, fresh tubers",0.19000000000000022,7.72
+Lanao del Norte,"Gabi for ginataan, Cebu [Taro]",0.9,17.7
+Lanao del Norte,Potato,,
+Lanao del Norte,Ubi [Greater yam],-1.254,27.082
+Lanao del Sur,Camote [Sweet potato],-0.36657142857142855,24.694666666666667
+Lanao del Sur,Carrot,-11.225254237288135,92.86220338983051
+Lanao del Sur,"Cassava for food, fresh tubers",0.2960000000000002,14.934000000000003
+Lanao del Sur,"Cassava for industrial use, fresh tubers",0.016999999999999904,8.101
+Lanao del Sur,"Gabi for sinigang, Tagalog [Taro]",8.0,-8.0
+Lanao del Sur,Potato,-2.055,45.233333333333334
+Lanao del Sur,Ubi [Greater yam],,
+Leyte,Camote [Sweet potato],2.0002857142857144,22.644
+Leyte,"Cassava for food, fresh tubers",1.8025714285714285,17.432666666666663
+Leyte,"Cassava for industrial use, fresh tubers",-0.3337837837837841,16.188378378378378
+Leyte,"Gabi for ginataan, Cebu [Taro]",8.579714285714287,2.515999999999991
+Leyte,"Gabi for sinigang, Tagalog [Taro]",2.9008571428571437,13.968666666666664
+Leyte,Pao Galiang,0.0,25.0
+MIMAROPA REGION,Arrowroot,0.0,20.0
+MIMAROPA REGION,Camote [Sweet potato],4.461142857142859,28.122666666666653
+MIMAROPA REGION,"Cassava for food, fresh tubers",-1.0431428571428574,21.449333333333335
+MIMAROPA REGION,"Cassava for industrial use, fresh tubers",2.892857142857143,5.506666666666668
+MIMAROPA REGION,"Gabi for sinigang, Tagalog [Taro]",-4.161142857142858,37.97066666666667
+MIMAROPA REGION,Radish,-0.7945714285714283,50.866
+MIMAROPA REGION,Singkamas [Turnip],4.429428571428572,20.66533333333333
+MIMAROPA REGION,Ubi [Greater yam],5.315714285714287,28.89
+Maguindanao del Norte,Camote [Sweet potato],-1.0,25.5
+Maguindanao del Norte,Carrot,2.857142857142857,23.57142857142857
+Maguindanao del Norte,"Cassava for food, fresh tubers",1.3623076923076922,13.252307692307692
+Maguindanao del Norte,Potato,,
+Maguindanao del Norte,Radish,,
+Maguindanao del Sur,Camote [Sweet potato],-3.582857142857144,45.22285714285715
+Maguindanao del Sur,"Cassava for food, fresh tubers",-2.1574999999999998,25.944999999999997
+Maguindanao del Sur,Potato,,
+Marinduque,Arrowroot,0.0,20.0
+Marinduque,Camote [Sweet potato],-1.1534285714285715,37.30866666666667
+Marinduque,"Cassava for food, fresh tubers",0.9017142857142859,16.087333333333333
+Marinduque,Radish,0.0,50.0
+Masbate,Camote [Sweet potato],-4.260000000000001,40.854
+Masbate,"Cassava for food, fresh tubers",2.9377142857142857,4.4446666666666665
+Masbate,"Gabi for sinigang, Tagalog [Taro]",,
+Masbate,Ubi [Greater yam],-1.6174999999999997,56.67583333333333
+Misamis Occidental,Camote [Sweet potato],0.32314285714285745,36.914
+Misamis Occidental,Carrot,0.0,77.5
+Misamis Occidental,"Cassava for food, fresh tubers",-0.5714285714285715,21.0
+Misamis Occidental,"Cassava for industrial use, fresh tubers",0.0,12.0
+Misamis Occidental,"Gabi for ginataan, Cebu [Taro]",0.0,28.0
+Misamis Occidental,"Gabi for sinigang, Tagalog [Taro]",-0.05100000000000051,28.085
+Misamis Occidental,Potato,0.0,45.0
+Misamis Occidental,Ubi [Greater yam],0.0,28.5
+Misamis Oriental,Camote [Sweet potato],-0.3465714285714285,22.81466666666667
+Misamis Oriental,Carrot,-2.4285714285714284,64.33333333333334
+Misamis Oriental,"Cassava for food, fresh tubers",0.7291428571428573,10.391333333333332
+Misamis Oriental,"Cassava for industrial use, fresh tubers",-0.2571428571428572,11.4
+Misamis Oriental,"Gabi for ginataan, Cebu [Taro]",0.0,20.0
+Misamis Oriental,"Gabi for sinigang, Tagalog [Taro]",1.9142857142857144,8.466666666666665
+Misamis Oriental,Potato,0.0,30.0
+Misamis Oriental,Radish,-5.857142857142857,68.0
+Mountain Province,Camote [Sweet potato],-0.04400000000000048,48.92900000000001
+Mountain Province,Carrot,1.0285714285714287,39.4
+Mountain Province,"Cassava for food, fresh tubers",-2.8571428571428568,34.285714285714285
+Mountain Province,"Gabi for sinigang, Tagalog [Taro]",0.0,50.0
+Mountain Province,Potato,0.0,50.0
+Mountain Province,Radish,-5.142857142857143,88.0
+NEGROS ISLAND REGION (NIR) 2/,Camote [Sweet potato],0.012857142857143242,27.259999999999994
+NEGROS ISLAND REGION (NIR) 2/,Carrot,-2.587837837837838,51.53108108108108
+NEGROS ISLAND REGION (NIR) 2/,"Cassava for food, fresh tubers",-0.6442857142857142,16.48
+NEGROS ISLAND REGION (NIR) 2/,"Cassava for industrial use, fresh tubers",5.699999999999999,-12.099999999999996
+NEGROS ISLAND REGION (NIR) 2/,"Gabi for ginataan, Cebu [Taro]",2.3082857142857143,22.046
+NEGROS ISLAND REGION (NIR) 2/,"Gabi for sinigang, Tagalog [Taro]",0.013428571428571397,20.928
+NEGROS ISLAND REGION (NIR) 2/,Pao Galiang,2.4010000000000002,11.598999999999998
+NEGROS ISLAND REGION (NIR) 2/,Radish,-0.9372093023255814,29.76395348837209
+NEGROS ISLAND REGION (NIR) 2/,Ubi [Greater yam],0.0,20.0
+Negros Occidental a/,Camote [Sweet potato],1.065,25.573
+Negros Occidental a/,Carrot,0.0,40.0
+Negros Occidental a/,"Cassava for food, fresh tubers",-0.23399999999999982,17.974
+Negros Occidental a/,"Gabi for ginataan, Cebu [Taro]",2.4418604651162794,15.69767441860465
+Negros Occidental a/,"Gabi for sinigang, Tagalog [Taro]",8.665000000000001,6.336666666666666
+Negros Occidental a/,Pao Galiang,2.4010000000000002,11.598999999999998
+Negros Occidental a/,Radish,0.0,30.0
+Negros Occidental a/,Ubi [Greater yam],,
+Negros Oriental b/,Camote [Sweet potato],0.3351428571428578,26.741999999999994
+Negros Oriental b/,Carrot,-10.022500000000003,90.32000000000001
+Negros Oriental b/,"Cassava for food, fresh tubers",0.47600000000000015,6.983999999999999
+Negros Oriental b/,"Cassava for industrial use, fresh tubers",5.699999999999999,-12.099999999999996
+Negros Oriental b/,"Gabi for ginataan, Cebu [Taro]",7.5,2.5
+Negros Oriental b/,"Gabi for sinigang, Tagalog [Taro]",-0.01942857142857142,20.181333333333335
+Negros Oriental b/,Radish,0.2828571428571432,23.52285714285714
+Negros Oriental b/,Ubi [Greater yam],,
+Northern Samar,Camote [Sweet potato],3.4260000000000006,33.54066666666667
+Northern Samar,"Cassava for food, fresh tubers",3.6296511627906978,26.79918604651163
+Northern Samar,Pao Galiang,-29.465000000000003,155.185
+Northern Samar,Ubi [Greater yam],,
+Nueva Ecija,Camote [Sweet potato],-1.0611428571428572,24.444
+Nueva Ecija,"Cassava for food, fresh tubers",-0.8571428571428573,18.933333333333334
+Nueva Ecija,"Gabi for sinigang, Tagalog [Taro]",2.5000000000000004,48.333333333333336
+Nueva Ecija,Radish,5.000000000000001,25.0
+Nueva Ecija,Singkamas [Turnip],,
+Nueva Vizcaya,Camote [Sweet potato],0.5457142857142865,26.009999999999994
+Nueva Vizcaya,Carrot,-2.1300000000000003,41.20666666666666
+Nueva Vizcaya,"Cassava for food, fresh tubers",4.752857142857143,2.97666666666667
+Nueva Vizcaya,"Cassava for industrial use, fresh tubers",,
+Nueva Vizcaya,"Gabi for ginataan, Cebu [Taro]",-1.132857142857143,35.54
+Nueva Vizcaya,"Gabi for sinigang, Tagalog [Taro]",0.010000000000000345,22.863333333333337
+Nueva Vizcaya,Pao Galiang,0.8054285714285712,29.579333333333334
+Nueva Vizcaya,Potato,2.542857142857143,32.6
+Nueva Vizcaya,Radish,-0.2142857142857143,25.0
+Nueva Vizcaya,Singkamas [Turnip],-1.5,33.5
+Nueva Vizcaya,Ubi [Greater yam],2.223333333333334,36.66
+Occidental Mindoro,Camote [Sweet potato],0.802000000000001,32.83
+Occidental Mindoro,"Cassava for food, fresh tubers",-4.053999999999999,37.284
+Occidental Mindoro,"Cassava for industrial use, fresh tubers",0.0,21.666666666666668
+Occidental Mindoro,"Gabi for sinigang, Tagalog [Taro]",2.142857142857143,28.333333333333336
+Occidental Mindoro,Radish,-1.8571428571428574,50.666666666666664
+Occidental Mindoro,Singkamas [Turnip],-3.4989999999999997,34.165
+Occidental Mindoro,Ubi [Greater yam],3.428571428571429,31.333333333333336
+Oriental Mindoro,Camote [Sweet potato],2.3771428571428572,20.113333333333333
+Oriental Mindoro,"Cassava for food, fresh tubers",0.3985714285714285,11.633333333333335
+Oriental Mindoro,"Cassava for industrial use, fresh tubers",-0.28571428571428575,10.666666666666666
+Oriental Mindoro,"Gabi for sinigang, Tagalog [Taro]",-0.34171428571428575,10.922666666666666
+Oriental Mindoro,Radish,0.0,40.0
+Oriental Mindoro,Singkamas [Turnip],0.0,30.0
+Oriental Mindoro,Ubi [Greater yam],0.0,30.0
+PHILIPPINES,Arrowroot,-0.8434285714285709,24.641999999999996
+PHILIPPINES,Camote [Sweet potato],2.2037142857142866,23.40533333333333
+PHILIPPINES,Carrot,-8.980571428571428,81.282
+PHILIPPINES,"Cassava for food, fresh tubers",2.5000000000000004,12.503333333333332
+PHILIPPINES,"Cassava for industrial use, fresh tubers",1.419714285714286,0.6026666666666651
+PHILIPPINES,"Gabi for ginataan, Cebu [Taro]",1.8820000000000001,23.434666666666665
+PHILIPPINES,"Gabi for sinigang, Tagalog [Taro]",0.36285714285714293,27.249999999999996
+PHILIPPINES,Pao Galiang,-2.967428571428572,35.096000000000004
+PHILIPPINES,Potato,0.09771428571428648,34.977999999999994
+PHILIPPINES,Radish,-4.0600000000000005,48.28666666666666
+PHILIPPINES,Singkamas [Turnip],1.8497142857142854,26.38266666666667
+PHILIPPINES,Ubi [Greater yam],2.1020000000000008,40.05133333333333
+Palawan,"Cassava for food, fresh tubers",0.16857142857142848,15.093333333333332
+Pampanga,Camote [Sweet potato],0.6317647058823527,33.86882352941176
+Pampanga,"Cassava for food, fresh tubers",3.5,-1.5
+Pampanga,"Cassava for industrial use, fresh tubers",-2.45,10.31
+Pampanga,"Gabi for sinigang, Tagalog [Taro]",-1.2857142857142856,36.57142857142857
+Pampanga,Singkamas [Turnip],,
+Pangasinan,Arrowroot,1.2857142857142858,28.0
+Pangasinan,Camote [Sweet potato],1.2857142857142858,38.0
+Pangasinan,"Cassava for food, fresh tubers",2.229142857142857,14.234666666666666
+Pangasinan,"Gabi for ginataan, Cebu [Taro]",0.0,40.0
+Pangasinan,"Gabi for sinigang, Tagalog [Taro]",1.0,44.0
+Pangasinan,Pao Galiang,0.0,60.0
+Pangasinan,Radish,1.0714285714285714,24.464285714285715
+Pangasinan,Singkamas [Turnip],-4.5,56.166666666666664
+Quezon,Camote [Sweet potato],-0.690571428571429,39.99866666666667
+Quezon,"Cassava for food, fresh tubers",0.9542857142857143,20.243333333333332
+Quezon,"Gabi for ginataan, Cebu [Taro]",-4.302,31.476
+Quezon,"Gabi for sinigang, Tagalog [Taro]",-12.170000000000002,58.86000000000001
+Quezon,Radish,-11.745,60.074999999999996
+Quezon,Ubi [Greater yam],2.5,35.0
+Quirino,Camote [Sweet potato],2.2094285714285715,18.785333333333334
+Quirino,"Cassava for food, fresh tubers",0.3,6.7
+Quirino,"Cassava for industrial use, fresh tubers",0.0,11.796000000000001
+Quirino,"Gabi for sinigang, Tagalog [Taro]",2.5000000000000004,17.923333333333332
+Quirino,Pao Galiang,-0.7677142857142855,21.872
+Quirino,Singkamas [Turnip],0.3049999999999997,26.483333333333334
+Quirino,Ubi [Greater yam],,
+REGION I (ILOCOS REGION),Arrowroot,1.2857142857142858,28.0
+REGION I (ILOCOS REGION),Camote [Sweet potato],2.4542857142857146,30.953333333333333
+REGION I (ILOCOS REGION),"Cassava for food, fresh tubers",1.5431428571428574,17.880666666666666
+REGION I (ILOCOS REGION),"Gabi for ginataan, Cebu [Taro]",0.0,40.0
+REGION I (ILOCOS REGION),"Gabi for sinigang, Tagalog [Taro]",1.5860000000000005,40.914
+REGION I (ILOCOS REGION),Pao Galiang,-2.3331428571428567,48.105999999999995
+REGION I (ILOCOS REGION),Potato,5.000000000000001,48.33333333333333
+REGION I (ILOCOS REGION),Radish,1.0714285714285714,24.464285714285715
+REGION I (ILOCOS REGION),Singkamas [Turnip],4.851428571428571,25.869999999999994
+REGION I (ILOCOS REGION),Ubi [Greater yam],1.843142857142857,43.72399999999999
+REGION II (CAGAYAN VALLEY),Camote [Sweet potato],-0.051142857142856615,33.19733333333333
+REGION II (CAGAYAN VALLEY),Carrot,-3.0137142857142862,49.42133333333333
+REGION II (CAGAYAN VALLEY),"Cassava for food, fresh tubers",2.2005714285714286,9.114666666666666
+REGION II (CAGAYAN VALLEY),"Cassava for industrial use, fresh tubers",-0.45657142857142863,7.4013333333333335
+REGION II (CAGAYAN VALLEY),"Gabi for ginataan, Cebu [Taro]",-1.0225714285714285,35.74733333333333
+REGION II (CAGAYAN VALLEY),"Gabi for sinigang, Tagalog [Taro]",2.474,21.07266666666667
+REGION II (CAGAYAN VALLEY),Pao Galiang,-1.9251428571428566,28.78466666666666
+REGION II (CAGAYAN VALLEY),Potato,2.542857142857143,32.6
+REGION II (CAGAYAN VALLEY),Radish,-5.166428571428573,62.50000000000001
+REGION II (CAGAYAN VALLEY),Singkamas [Turnip],-0.5349999999999998,29.735000000000003
+REGION II (CAGAYAN VALLEY),Ubi [Greater yam],-3.404857142857143,72.192
+REGION III (CENTRAL LUZON),Camote [Sweet potato],2.340571428571429,23.107999999999997
+REGION III (CENTRAL LUZON),"Cassava for food, fresh tubers",-0.36057142857142854,18.238666666666667
+REGION III (CENTRAL LUZON),"Cassava for industrial use, fresh tubers",-2.45,10.31
+REGION III (CENTRAL LUZON),"Gabi for ginataan, Cebu [Taro]",-0.9862857142857143,27.055333333333337
+REGION III (CENTRAL LUZON),"Gabi for sinigang, Tagalog [Taro]",-1.2542857142857142,34.78
+REGION III (CENTRAL LUZON),Pao Galiang,,
+REGION III (CENTRAL LUZON),Radish,-2.0714285714285716,35.214285714285715
+REGION III (CENTRAL LUZON),Singkamas [Turnip],0.1710000000000001,24.799
+REGION III (CENTRAL LUZON),Ubi [Greater yam],0.8560000000000002,41.362
+REGION IV-A (CALABARZON),Camote [Sweet potato],0.1537142857142854,35.11200000000001
+REGION IV-A (CALABARZON),Carrot,0.0,300.0
+REGION IV-A (CALABARZON),"Cassava for food, fresh tubers",1.3119999999999998,16.738000000000003
+REGION IV-A (CALABARZON),"Cassava for industrial use, fresh tubers",,
+REGION IV-A (CALABARZON),"Gabi for ginataan, Cebu [Taro]",4.914000000000001,11.839333333333329
+REGION IV-A (CALABARZON),"Gabi for sinigang, Tagalog [Taro]",-1.137714285714285,31.512
+REGION IV-A (CALABARZON),Pao Galiang,2.142857142857143,40.17857142857143
+REGION IV-A (CALABARZON),Radish,0.906571428571429,25.742
+REGION IV-A (CALABARZON),Singkamas [Turnip],-0.5,49.333333333333336
+REGION IV-A (CALABARZON),Ubi [Greater yam],3.727142857142857,34.27666666666666
+REGION IX (ZAMBOANGA PENINSULA) 3/,Camote [Sweet potato],-0.16857142857142904,24.833333333333336
+REGION IX (ZAMBOANGA PENINSULA) 3/,Carrot,5.376571428571428,37.192
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Cassava for food, fresh tubers",-0.2585714285714285,18.666666666666668
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Cassava for industrial use, fresh tubers",-0.31599999999999995,16.769333333333332
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Gabi for ginataan, Cebu [Taro]",1.0628571428571427,22.043333333333333
+REGION IX (ZAMBOANGA PENINSULA) 3/,"Gabi for sinigang, Tagalog [Taro]",0.05685714285714292,20.20266666666666
+REGION IX (ZAMBOANGA PENINSULA) 3/,Pao Galiang,,
+REGION IX (ZAMBOANGA PENINSULA) 3/,Radish,-0.48657142857142877,29.211333333333336
+REGION IX (ZAMBOANGA PENINSULA) 3/,Singkamas [Turnip],-1.7142857142857144,42.666666666666664
+REGION IX (ZAMBOANGA PENINSULA) 3/,Ubi [Greater yam],-0.19914285714285712,29.035333333333334
+REGION V (BICOL REGION),Camote [Sweet potato],0.6342857142857138,35.150000000000006
+REGION V (BICOL REGION),"Cassava for food, fresh tubers",-0.702,23.825333333333337
+REGION V (BICOL REGION),"Cassava for industrial use, fresh tubers",0.4625714285714289,27.25542857142857
+REGION V (BICOL REGION),"Gabi for ginataan, Cebu [Taro]",5.096000000000001,31.757333333333325
+REGION V (BICOL REGION),"Gabi for sinigang, Tagalog [Taro]",4.696857142857143,24.109333333333332
+REGION V (BICOL REGION),Pao Galiang,0.16228571428571417,27.615333333333332
+REGION V (BICOL REGION),Radish,0.8302857142857145,38.56066666666667
+REGION V (BICOL REGION),Singkamas [Turnip],2.142857142857143,26.07142857142857
+REGION V (BICOL REGION),Ubi [Greater yam],-0.4182857142857143,53.377333333333326
+REGION VI (WESTERN VISAYAS),Camote [Sweet potato],-0.3668571428571426,32.440666666666665
+REGION VI (WESTERN VISAYAS),Carrot,-1.4225714285714293,49.99066666666667
+REGION VI (WESTERN VISAYAS),"Cassava for food, fresh tubers",0.1651428571428571,18.965333333333334
+REGION VI (WESTERN VISAYAS),"Gabi for ginataan, Cebu [Taro]",-2.4648571428571424,34.288666666666664
+REGION VI (WESTERN VISAYAS),"Gabi for sinigang, Tagalog [Taro]",-3.490857142857143,36.43466666666667
+REGION VI (WESTERN VISAYAS),Pao Galiang,0.0,20.0
+REGION VI (WESTERN VISAYAS),Radish,-3.9560000000000004,47.65266666666667
+REGION VI (WESTERN VISAYAS),Singkamas [Turnip],-0.6354285714285707,37.69066666666666
+REGION VI (WESTERN VISAYAS),Ubi [Greater yam],1.4097142857142866,26.666000000000004
+REGION VII (CENTRAL VISAYAS),Camote [Sweet potato],-0.7248571428571428,33.358666666666664
+REGION VII (CENTRAL VISAYAS),Carrot,0.0483050847457625,56.43050847457627
+REGION VII (CENTRAL VISAYAS),"Cassava for food, fresh tubers",-1.8488571428571432,23.719333333333335
+REGION VII (CENTRAL VISAYAS),"Cassava for industrial use, fresh tubers",1.7297142857142858,5.512666666666668
+REGION VII (CENTRAL VISAYAS),"Gabi for ginataan, Cebu [Taro]",1.2017142857142855,27.76066666666667
+REGION VII (CENTRAL VISAYAS),"Gabi for sinigang, Tagalog [Taro]",1.0600000000000025,49.73333333333332
+REGION VII (CENTRAL VISAYAS),Pao Galiang,0.0,30.0
+REGION VII (CENTRAL VISAYAS),Radish,0.0,45.0
+REGION VII (CENTRAL VISAYAS),Singkamas [Turnip],,
+REGION VII (CENTRAL VISAYAS),Ubi [Greater yam],-0.35999999999999904,67.27
+REGION VIII (EASTERN VISAYAS),Camote [Sweet potato],0.607142857142857,36.38666666666666
+REGION VIII (EASTERN VISAYAS),"Cassava for food, fresh tubers",4.798857142857144,7.357333333333333
+REGION VIII (EASTERN VISAYAS),"Cassava for industrial use, fresh tubers",-0.3337837837837841,16.188378378378378
+REGION VIII (EASTERN VISAYAS),"Gabi for ginataan, Cebu [Taro]",3.6140000000000008,22.896
+REGION VIII (EASTERN VISAYAS),"Gabi for sinigang, Tagalog [Taro]",1.0960000000000003,24.550666666666665
+REGION VIII (EASTERN VISAYAS),Pao Galiang,-18.785,100.135
+REGION VIII (EASTERN VISAYAS),Ubi [Greater yam],,
+REGION X (NORTHERN MINDANAO),Arrowroot,0.0,20.0
+REGION X (NORTHERN MINDANAO),Camote [Sweet potato],0.12771428571428559,27.471333333333334
+REGION X (NORTHERN MINDANAO),Carrot,-0.42028571428571515,58.50266666666667
+REGION X (NORTHERN MINDANAO),"Cassava for food, fresh tubers",0.6628571428571427,14.196666666666665
+REGION X (NORTHERN MINDANAO),"Cassava for industrial use, fresh tubers",-0.12885714285714298,8.879333333333335
+REGION X (NORTHERN MINDANAO),"Gabi for ginataan, Cebu [Taro]",0.38228571428571445,24.321999999999996
+REGION X (NORTHERN MINDANAO),"Gabi for sinigang, Tagalog [Taro]",0.5931428571428571,19.75733333333333
+REGION X (NORTHERN MINDANAO),Potato,7.3337142857142865,26.775333333333325
+REGION X (NORTHERN MINDANAO),Radish,-5.0600000000000005,54.026666666666664
+REGION X (NORTHERN MINDANAO),Singkamas [Turnip],0.8571428571428572,38.666666666666664
+REGION X (NORTHERN MINDANAO),Ubi [Greater yam],0.5911428571428571,32.94266666666666
+REGION XI (DAVAO REGION),Camote [Sweet potato],-0.4674285714285712,27.652666666666665
+REGION XI (DAVAO REGION),Carrot,-3.983428571428572,64.46533333333333
+REGION XI (DAVAO REGION),"Cassava for food, fresh tubers",-0.4539999999999998,20.350666666666665
+REGION XI (DAVAO REGION),"Cassava for industrial use, fresh tubers",-1.0,13.8
+REGION XI (DAVAO REGION),"Gabi for ginataan, Cebu [Taro]",-1.2642857142857145,24.77
+REGION XI (DAVAO REGION),"Gabi for sinigang, Tagalog [Taro]",0.0,25.0
+REGION XI (DAVAO REGION),Pao Galiang,0.8651428571428573,19.02533333333333
+REGION XI (DAVAO REGION),Potato,3.1360000000000006,36.804
+REGION XI (DAVAO REGION),Radish,-0.27028571428571435,28.976000000000003
+REGION XI (DAVAO REGION),Singkamas [Turnip],0.0,20.0
+REGION XI (DAVAO REGION),Ubi [Greater yam],0.34685714285714314,40.84933333333334
+REGION XII (SOCCSKSARGEN),Camote [Sweet potato],0.7662857142857149,21.62133333333333
+REGION XII (SOCCSKSARGEN),Carrot,10.53,1.3399999999999963
+REGION XII (SOCCSKSARGEN),"Cassava for food, fresh tubers",1.0628571428571432,11.393333333333334
+REGION XII (SOCCSKSARGEN),"Cassava for industrial use, fresh tubers",0.08428571428571434,2.959999999999999
+REGION XII (SOCCSKSARGEN),"Gabi for ginataan, Cebu [Taro]",-6.728285714285714,54.59771428571428
+REGION XII (SOCCSKSARGEN),"Gabi for sinigang, Tagalog [Taro]",0.3908571428571429,8.675333333333334
+REGION XII (SOCCSKSARGEN),Pao Galiang,0.0,10.0
+REGION XII (SOCCSKSARGEN),Potato,-0.5480769230769234,51.425000000000004
+REGION XII (SOCCSKSARGEN),Radish,0.23720930232558118,25.736046511627904
+REGION XII (SOCCSKSARGEN),Singkamas [Turnip],1.3397142857142856,17.583714285714287
+REGION XII (SOCCSKSARGEN),Ubi [Greater yam],,
+REGION XIII (CARAGA),Camote [Sweet potato],-2.6982857142857153,36.670666666666676
+REGION XIII (CARAGA),"Cassava for food, fresh tubers",0.07714285714285722,19.326666666666668
+REGION XIII (CARAGA),"Cassava for industrial use, fresh tubers",0.7397142857142858,4.015999999999999
+REGION XIII (CARAGA),"Gabi for ginataan, Cebu [Taro]",-1.717714285714286,23.455333333333336
+REGION XIII (CARAGA),"Gabi for sinigang, Tagalog [Taro]",-3.9528571428571437,33.44666666666667
+REGION XIII (CARAGA),Pao Galiang,-0.836857142857143,28.167333333333332
+REGION XIII (CARAGA),Ubi [Greater yam],5.714285714285714,21.607142857142858
+Rizal,Camote [Sweet potato],-1.1902857142857142,44.285999999999994
+Rizal,"Cassava for food, fresh tubers",2.0257142857142862,8.986666666666666
+Rizal,"Cassava for industrial use, fresh tubers",,
+Rizal,"Gabi for sinigang, Tagalog [Taro]",-1.8571428571428574,34.0
+Rizal,Pao Galiang,2.142857142857143,40.17857142857143
+Rizal,Radish,2.0,40.0
+Rizal,Ubi [Greater yam],6.026571428571429,30.418666666666663
+Romblon,Camote [Sweet potato],2.384,45.562666666666665
+Romblon,"Cassava for food, fresh tubers",-0.17142857142857135,29.6
+Romblon,"Gabi for sinigang, Tagalog [Taro]",-1.386857142857143,54.41066666666667
+Romblon,Radish,1.2500000000000002,49.166666666666664
+Romblon,Singkamas [Turnip],0.0,50.0
+Romblon,Ubi [Greater yam],0.0,70.0
+Samar,Camote [Sweet potato],-0.009428571428572194,28.798
+Samar,"Cassava for food, fresh tubers",-0.6197142857142859,18.750666666666667
+Samar,"Gabi for ginataan, Cebu [Taro]",-18.484857142857145,108.39828571428572
+Samar,"Gabi for sinigang, Tagalog [Taro]",9.296000000000001,-6.456000000000003
+Sarangani,Camote [Sweet potato],0.0,30.0
+Sarangani,Carrot,,
+Sarangani,"Cassava for food, fresh tubers",2.1719999999999997,14.312000000000001
+Sarangani,"Cassava for industrial use, fresh tubers",0.42857142857142855,11.464285714285715
+Sarangani,Potato,,
+Sarangani,Radish,20.0,-70.0
+Siquijor b/,Camote [Sweet potato],1.022567567567567,51.64824324324325
+Siquijor b/,"Cassava for food, fresh tubers",-1.1000000000000014,24.400000000000006
+Siquijor b/,"Gabi for ginataan, Cebu [Taro]",3.266428571428571,33.26642857142858
+Sorsogon,Camote [Sweet potato],4.305142857142859,37.385333333333335
+Sorsogon,"Cassava for food, fresh tubers",0.03685714285714283,30.926000000000002
+Sorsogon,"Gabi for ginataan, Cebu [Taro]",3.1694285714285715,35.41866666666667
+Sorsogon,"Gabi for sinigang, Tagalog [Taro]",4.593142857142857,27.99733333333333
+Sorsogon,Pao Galiang,0.0,30.0
+Sorsogon,Radish,-5.142857142857143,68.0
+Sorsogon,Ubi [Greater yam],0.0,50.0
+South Cotabato,Camote [Sweet potato],0.08999999999999986,16.47
+South Cotabato,Carrot,16.9,-11.399999999999991
+South Cotabato,"Cassava for industrial use, fresh tubers",0.06714285714285716,2.9271428571428575
+South Cotabato,"Gabi for ginataan, Cebu [Taro]",4.235000000000001,-8.288333333333336
+South Cotabato,"Gabi for sinigang, Tagalog [Taro]",0.3908571428571429,8.675333333333334
+South Cotabato,Potato,,
+South Cotabato,Radish,11.666666666666666,3.3333333333333357
+South Cotabato,Ubi [Greater yam],,
+Southern Leyte,Camote [Sweet potato],0.8308571428571436,36.442
+Southern Leyte,"Cassava for food, fresh tubers",-1.0491428571428572,32.358666666666664
+Southern Leyte,"Gabi for ginataan, Cebu [Taro]",4.032857142857144,13.376666666666667
+Southern Leyte,"Gabi for sinigang, Tagalog [Taro]",-1.6842105263157894,37.94736842105263
+Southern Leyte,Pao Galiang,,
+Sultan Kudarat,Camote [Sweet potato],-1.070285714285714,24.55933333333333
+Sultan Kudarat,"Cassava for food, fresh tubers",-0.46485714285714297,11.295333333333335
+Sultan Kudarat,"Cassava for industrial use, fresh tubers",0.0,3.9066666666666663
+Sultan Kudarat,Pao Galiang,0.0,10.0
+Sultan Kudarat,Potato,0.0,50.0
+Sultan Kudarat,Radish,0.0,20.0
+Sultan Kudarat,Singkamas [Turnip],0.0,25.0
+Sulu c/,Camote [Sweet potato],-0.25885714285714295,26.035999999999998
+Sulu c/,"Cassava for food, fresh tubers",-0.05885714285714293,14.789333333333333
+Sulu c/,"Gabi for ginataan, Cebu [Taro]",-0.22542857142857137,29.52066666666667
+Sulu c/,"Gabi for sinigang, Tagalog [Taro]",-1.289714285714286,27.241714285714288
+Sulu c/,Radish,-5.93,63.92
+Surigao del Norte,Camote [Sweet potato],-0.5471428571428567,39.05
+Surigao del Norte,"Cassava for food, fresh tubers",0.9402857142857144,19.204
+Surigao del Norte,"Gabi for ginataan, Cebu [Taro]",3.5,3.0
+Surigao del Norte,Pao Galiang,5.000000000000001,-5.0000000000000036
+Surigao del Sur,Camote [Sweet potato],-2.5714285714285716,34.0
+Surigao del Sur,"Cassava for food, fresh tubers",1.2622093023255816,18.22848837209302
+Surigao del Sur,"Cassava for industrial use, fresh tubers",0.04285714285714284,5.1000000000000005
+Surigao del Sur,"Gabi for ginataan, Cebu [Taro]",0.0,20.0
+Surigao del Sur,Pao Galiang,0.0,25.0
+Tarlac,Camote [Sweet potato],3.5150000000000006,18.419999999999995
+Tarlac,"Cassava for food, fresh tubers",1.667857142857143,16.65714285714286
+Tarlac,"Gabi for sinigang, Tagalog [Taro]",3.086315789473684,25.79684210526316
+Tarlac,Radish,1.3333333333333333,14.0
+Tarlac,Singkamas [Turnip],1.35,17.724999999999998
+Tawi-tawi,Camote [Sweet potato],9.494,16.036
+Tawi-tawi,"Cassava for food, fresh tubers",10.055142857142856,12.761999999999993
+Zambales,Camote [Sweet potato],2.363428571428571,19.008000000000003
+Zambales,"Gabi for sinigang, Tagalog [Taro]",-1.554230769230769,32.934615384615384
+Zambales,Ubi [Greater yam],-0.47666666666666657,41.906666666666666
+Zamboanga Sibugay,Camote [Sweet potato],2.285714285714286,22.0
+Zamboanga Sibugay,"Cassava for food, fresh tubers",-0.5714285714285715,23.666666666666668
+Zamboanga Sibugay,"Gabi for ginataan, Cebu [Taro]",1.0,29.0
+Zamboanga del Norte,Camote [Sweet potato],-0.8488571428571425,26.259333333333338
+Zamboanga del Norte,"Cassava for food, fresh tubers",0.04371428571428575,19.75866666666667
+Zamboanga del Norte,"Cassava for industrial use, fresh tubers",0.4285714285714286,13.0
+Zamboanga del Norte,"Gabi for ginataan, Cebu [Taro]",2.142857142857143,25.05357142857143
+Zamboanga del Norte,"Gabi for sinigang, Tagalog [Taro]",0.0,25.0
+Zamboanga del Norte,Pao Galiang,,
+Zamboanga del Norte,Radish,,
+Zamboanga del Norte,Ubi [Greater yam],0.0,40.0
+Zamboanga del Sur,Camote [Sweet potato],-0.04885714285714268,19.966
+Zamboanga del Sur,Carrot,0.4285714285714286,29.333333333333332
+Zamboanga del Sur,"Cassava for food, fresh tubers",-0.16999999999999987,13.559999999999997
+Zamboanga del Sur,"Cassava for industrial use, fresh tubers",0.0,12.44
+Zamboanga del Sur,"Gabi for ginataan, Cebu [Taro]",1.4285714285714288,13.333333333333332
+Zamboanga del Sur,"Gabi for sinigang, Tagalog [Taro]",1.087972972972973,9.236486486486486
+Zamboanga del Sur,Radish,1.2857142857142858,28.0
+Zamboanga del Sur,Singkamas [Turnip],-1.7142857142857144,42.666666666666664
+Zamboanga del Sur,Ubi [Greater yam],0.8571428571428572,24.0
