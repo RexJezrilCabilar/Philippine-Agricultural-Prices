@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import './App.css'
+import Home from './components/Home'
+
 
 export default function App() {
   const [data, setData] = useState(null);
@@ -12,19 +13,12 @@ export default function App() {
   }, []);
 
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="App bg-green-400">
+      <header className="App-header bg-green-600 ">
         <h1>Agricultural Prices</h1>
       </header>
       <main>
-        {data ? (
-          <div>
-            <h2>Price Data</h2>
-            <pre>{JSON.stringify(data, null, 2)}</pre>
-          </div>
-        ) : (
-          <p>Loading data...</p>
-        )}
+        {data ? <Home data={data} /> : <p>Loading data...</p>}
       </main>
     </div>
   );
