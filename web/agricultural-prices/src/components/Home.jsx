@@ -21,7 +21,7 @@ export default function Home({data}) {
     });
 
     return(
-        <div>
+        <div className='m-2'>
             <h2 >Price Data</h2>
             <KPI data={averagePrices} />
         </div>

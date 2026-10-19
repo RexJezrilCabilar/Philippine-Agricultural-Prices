@@ -5,8 +5,8 @@ export default function Forecast({forecastData}) {
 
     const [commodityOptions, setCommodityOptions] = useState([]);
     const [geolocationOptions, setGeolocationOptions] = useState([]);  
-    const [selectedCommodity, setSelectedCommodity] = useState('');
-    const [selectedGeolocation, setSelectedGeolocation] = useState('');
+    const [selectedCommodity, setSelectedCommodity] = useState([]);
+    const [selectedGeolocation, setSelectedGeolocation] = useState([]);
 
     useEffect(() => {
         Papa.parse(forecastData, {
@@ -26,28 +26,88 @@ export default function Forecast({forecastData}) {
     })
     }, [forecastData]);
 
+    const handleCommodityChange = (e) => {
+        const {checked, value} = e.target;
+
+        setSelectedCommodity((prevSelected) => 
+            checked ? [...prevSelected, value] : prevSelected.filter(item => item !== value)
+        )
+    };
+
+    const handleGeolocationChange = (e) => {
+        const {checked, value} = e.target;
+
+        setSelectedGeolocation((prevSelected) => 
+            checked ? [...prevSelected, value] : prevSelected.filter(item => item !== value)
+        )
+    };
 
     return (
-        <div>
-             <label htmlFor="commodity-select">Commodity:</label>
-                <select id="commodity-select" value={selectedCommodity} onChange={(e) => setSelectedCommodity(e.target.value)}>
-                    <option value="">Select a commodity</option>
-                        {commodityOptions.map((commodity, index) => (
-                            <option key={index} value={commodity}>{commodity}</option>
-                        ))}
-                </select>
-             <label htmlFor="geolocation-select">Geolocation:</label>
-                <select id="geolocation-select" value={selectedGeolocation} onChange={(e) => setSelectedGeolocation(e.target.value)}>
-                    <option value="">Select a geolocation</option>
-                        {geolocationOptions.map((geolocation, index) => (
-                            <option key={index} value={geolocation}>{geolocation}</option>
-                        ))}
-                </select>
+        <div className="flex flex-col gap-6 w-full m-10 max-w-4xl p-6 bg-green-300 border border-green-00 shadow-sm rounded-xl">
+            
+
+            <div>
+                <h3 className="text-lg font-semibold text-gray-800 mb-3">Select Commodities</h3>
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+                    {commodityOptions.map((commodity) => {
+                        const isChecked = selectedCommodity.includes(commodity);
+                        return (
+                            <label 
+                                key={commodity} 
+                                className={`flex items-center gap-3 p-3 border rounded-lg cursor-pointer select-none transition-all duration-150
+                                    ${isChecked 
+                                        ? 'border-blue-500 bg-blue-50/50 text-blue-700 font-medium' 
+                                        : 'border-gray-200 bg-gray-50 hover:bg-gray-100 text-gray-700'
+                                    }`}
+                            >
+                                <input
+                                    type="checkbox"
+                                    value={commodity}
+                                    checked={isChecked}
+                                    onChange={handleCommodityChange}
+                                    className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
+                                />
+                                <span className="text-sm truncate">{commodity}</span>
+                            </label>
+                        );
+                    })}
+                </div>
+            </div>
+
+            {/* Visual Divider */}
+            <hr className="border-gray-200" />
+
+            {/* Section 2: Geolocations */}
+            <div>
+                <h3 className="text-lg font-semibold text-gray-800 mb-3">Select Geolocations</h3>
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+                    {geolocationOptions.map((geolocation) => {
+                        const isChecked = selectedGeolocation.includes(geolocation);
+                        return (
+                            <label 
+                                key={geolocation} 
+                                className={`flex items-center gap-3 p-3 border rounded-lg cursor-pointer select-none transition-all duration-150
+                                    ${isChecked 
+                                        ? 'border-blue-500 bg-blue-50/50 text-blue-700 font-medium' 
+                                        : 'border-gray-200 bg-gray-50 hover:bg-gray-100 text-gray-700'
+                                    }`}
+                            >
+                                <input
+                                    type="checkbox"
+                                    value={geolocation}
+                                    checked={isChecked}
+                                    onChange={handleGeolocationChange}
+                                    className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
+                                />
+                                <span className="text-sm truncate">{geolocation}</span>
+                            </label>
+                        );
+                    })}
+                </div>
+            </div>
+
         </div>
-
-
-
-    )
+    );
 
 }
 
