@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
+import Predictions from './Predictions';
 
 export default function Forecast({forecastData}) {
 
@@ -26,6 +27,7 @@ export default function Forecast({forecastData}) {
     })
     }, [forecastData]);
 
+    {/* Handlers for checkbox changes */}
     const handleCommodityChange = (e) => {
         const {checked, value} = e.target;
 
@@ -40,6 +42,14 @@ export default function Forecast({forecastData}) {
         setSelectedGeolocation((prevSelected) => 
             checked ? [...prevSelected, value] : prevSelected.filter(item => item !== value)
         )
+    };
+
+    {/* Handlers for the imported Predictions component */}
+    
+    const[isVisible, setIsVisible] = useState(false);
+
+    const handleClick = () => {
+        setIsVisible(true);
     };
 
     return (
@@ -104,6 +114,16 @@ export default function Forecast({forecastData}) {
                         );
                     })}
                 </div>
+            </div>
+
+            <div className="mt-6">
+                <button
+                    onClick={handleClick}
+                    className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+                >
+                    Show Predictions
+                </button>
+                {isVisible && forecastData && selectedCommodity.length > 0 && selectedGeolocation.length > 0 && <Predictions forecastData={forecastData} selectedCommodity={selectedCommodity} selectedGeolocation={selectedGeolocation} />}
             </div>
 
         </div>
