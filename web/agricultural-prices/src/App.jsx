@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Home from './components/Home'
-import Forecast from './componenents/Forecast'
-
+import Forecast from './components/Forecast'
 
 export default function App() {
   const [data, setData] = useState(null);
@@ -26,7 +25,7 @@ export default function App() {
       </header>
       <main>
         {data ? <Home data={data} /> : <p>Loading data...</p>}
-        {forecastData && <pre>{forecastData}</pre>}
+        {forecastData ? <Forecast forecastData={forecastData} /> : <p>Loading forecast data...</p>}
       </main>
     </div>
   );
