@@ -8,6 +8,10 @@ import json
 from datetime import datetime
 from scipy.stats import linregress
 from dateutil.relativedelta import relativedelta
+import os
+from dotenv import load_dotenv
+from sqlalchemy import create_engine
+from sqlalchemy import text
 
 
 API_URL = "https://openstat.psa.gov.ph:443/PXWeb/api/v1/en/DB/2M/NFG/0032M4AFN02.px"
@@ -93,6 +97,13 @@ def calculate_forecast(Geolocation, Commodity, slope, intercept):
     return pd.Series(results)
         
 
+#Framework codes for connecting to the database
+load_dotenv() #reads the .env file
+engine = create_engine(os.getenv("DATABASE_URL")) #connects to the database with respect to the URL in the .env file
+
+
+
+
 def main():
     response = fetch_with_retries(API_URL, query_payload)
 
@@ -144,7 +155,54 @@ def main():
         "rows": len(df),
     }, indent=2))
 
-    print(forecast_data.head(20))
+
+    #Saving the data in the database
+    commodity = forecast_data[["Commodity"]].drop_duplicates().rename(columns={"Commodity":"commodity"})
+    geolocation = forecast_data[["Geolocation"]].drop_duplicates().rename(columns={"Geolocation":"geolocation"})
+
+    existing = pd.read_sql("SELECT commodity FROM commodity", engine)
+    commodity = commodity[~commodity["commodity"].isin(existing["commodity"])]
+    commodity.to_sql("commodity", engine, if_exists="append", index=False)
+
+    existing = pd.read_sql("SELECT geolocation FROM geolocation", engine)
+    geolocation = geolocation[~geolocation["geolocation"].isin(existing["geolocation"])]
+    geolocation.to_sql("geolocation", engine, if_exists="append", index=False)
+
+    commodity_ids = pd.read_sql("SELECT commodity_id, commodity FROM commodity", engine)
+    geolocation_ids = pd.read_sql("SELECT geolocation_id, geolocation FROM geolocation", engine)
+
+    forecast_data = forecast_data.rename(columns={
+            f"Forecast_{(datetime.now().date() + relativedelta(months=0)).month}": "price_this_month",
+            f"Forecast_{(datetime.now().date() + relativedelta(months=1)).month}": "price_next_month",
+            f"Forecast_{(datetime.now().date() + relativedelta(months=2)).month}": "price_in_two_months",
+            "Geolocation": "geolocation",
+            "Commodity": "commodity"
+            })
+
+    forecast_data = forecast_data.merge(commodity_ids, on="commodity", how="left")
+    forecast_data = forecast_data.merge(geolocation_ids, on="geolocation", how="left")
+
+    print([c for c in forecast_data.columns if c.startswith("Forecast_")])
+
+    prices = forecast_data[[
+        "geolocation_id", "commodity_id",
+        "price_this_month", "price_next_month", "price_in_two_months",
+    ]].copy()
+    prices = prices.astype(object).where(prices.notna(), None)
+
+    sql = text("""
+        INSERT INTO prices (geolocation_id, commodity_id,
+                            price_this_month, price_next_month, price_in_two_months)
+        VALUES (:geolocation_id, :commodity_id,
+                :price_this_month, :price_next_month, :price_in_two_months)
+        ON CONFLICT (commodity_id, geolocation_id)
+        DO UPDATE SET
+            price_this_month = EXCLUDED.price_this_month,
+            price_next_month = EXCLUDED.price_next_month,
+            price_in_two_months = EXCLUDED.price_in_two_months
+    """)
+    with engine.begin() as conn:
+        conn.execute(sql, prices.to_dict("records"))
 
 
 

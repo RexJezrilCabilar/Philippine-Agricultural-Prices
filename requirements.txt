@@ -1,0 +1,7 @@
+requests
+pandas
+scipy
+python-dateutil
+sqlalchemy
+psycopg2-binary
+python-dotenv
