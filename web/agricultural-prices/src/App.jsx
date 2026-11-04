@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Home from './components/Home.jsx'
-import Forecast from './components/Forecast.jsx'
+import Forecast from './components/forecast.jsx'
 
 export default function App() {
   const [data, setData] = useState(null);
