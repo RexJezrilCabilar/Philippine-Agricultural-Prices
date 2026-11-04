@@ -1,0 +1,70 @@
+name: Daily data update and deploy
+
+on:
+  schedule:
+    - cron: "0 22 * * *"      # 22:00 UTC = 6:00 AM Philippine time, daily
+  workflow_dispatch:          # allows manual runs from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13.12"        # match your venv's version
+          cache: pip
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the daily Python script
+        run: python fetch_prices.py          # only this file runs; the other is ignored
+        # env:
+        #   MY_API_KEY: ${{ secrets.MY_API_KEY }}   # uncomment if using Step 8
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: web/agricultural-prices/package-lock.json
+
+      - name: Install and build React app
+        working-directory: web/agricultural-prices
+        run: |
+          npm ci
+          npm run build
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload build output
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/agricultural-prices/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
