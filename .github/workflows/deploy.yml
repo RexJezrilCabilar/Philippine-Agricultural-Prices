@@ -34,11 +34,11 @@ jobs:
 
       - name: Run the daily Python script
         run: python fetch_prices.py          # only this file runs; the other is ignored
-         env:
-           DATABASE_URL: ${{ secrets.DATABASE_URL }}
-           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}  
-           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-           LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}  
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
 
       - name: Set up Node
         uses: actions/setup-node@v4
