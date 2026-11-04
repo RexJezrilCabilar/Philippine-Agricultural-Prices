@@ -7,12 +7,12 @@ export default function App() {
   const [forecastData, setForecastData] = useState(null);
 
   useEffect(() => {
-    fetch('/data/agricultural-prices.json')
+    fetch(import.meta.env.BASE_URL + '/data/agricultural-prices.json')
       .then(response => response.json())
       .then(jsonData => setData(jsonData))
       .catch(error => console.error('Error fetching data:', error));
 
-    fetch('/data/forecast-data.csv')
+    fetch(import.meta.env.BASE_URL + '/data/forecast-data.csv')
       .then(response => response.text())
       .then(csvData => setForecastData(csvData))
       .catch(error => console.error('Error fetching forecast data:', error));
