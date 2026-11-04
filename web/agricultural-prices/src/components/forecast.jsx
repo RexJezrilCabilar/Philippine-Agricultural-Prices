@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
-import Predictions from './Predictions';
+import Predictions from './Predictions.jsx';
 
 export default function Forecast({forecastData}) {
 

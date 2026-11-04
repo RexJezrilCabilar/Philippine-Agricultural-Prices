@@ -1,4 +1,4 @@
-import KPI from './KPI'
+import KPI from './KPI.jsx'
 
 
 export default function Home({data}) {
